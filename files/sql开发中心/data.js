@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499146698724.44),
+  "generationDate":new Date(1499149155274.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -6643,7 +6643,7 @@
                             "normal~":"resources/images/transparent.gif"}},
 {
                           "id":"b05c977c9cfd46d7989f14897a2e0061",
-                          "label":"按钮1",
+                          "label":"",
                           "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -6735,10 +6735,10 @@
                                               "compress":false}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"e62e8d6542284ec7991f87cbb74ad7da",
                           "label":"按钮2",
@@ -7530,7 +7530,7 @@
 }}]},
 {
                                           "id":"4398984708fe4cbf8b6b8028e0ecbe71",
-                                          "label":"alert .alert-success",
+                                          "label":"alert",
                                           "parentDynamicPanel":"1246840244044ce6af706711424f2b6d",
                                           "type":"buttonShape",
                                           "styleType":"buttonShape",
@@ -7574,7 +7574,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/sql开发中心/regen/alert__alert-success_u234.png"}}],
+                                            "normal~":"images/sql开发中心/regen/alert_u234.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -8125,7 +8125,7 @@
                                                 "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png"}}]},
 {
                                           "id":"4b7355be21d844c3bfa0544137c19a97",
-                                          "label":"alert .alert-success",
+                                          "label":"alert",
                                           "parentDynamicPanel":"dbafe8ec4785472b99f29efe12b7d203",
                                           "type":"buttonShape",
                                           "styleType":"buttonShape",
@@ -8169,7 +8169,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/sql开发中心/regen/alert__alert-success_u234.png"}}],
+                                            "normal~":"images/sql开发中心/regen/alert_u234.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -9387,7 +9387,7 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/regen/按钮1_u200.png",
+                                    "normal~":"images/sql开发中心/regen/u200.png",
                                     "mouseOver~":"images/sql开发中心/regen/按钮1_u295_mouseOver.png",
                                     "disabled~":"images/sql开发中心/regen/按钮1_u295_disabled.png"}},
 {
@@ -9739,10 +9739,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"8021d961dc064a8986ecd8b9db3fb4ea",
                           "label":"按钮2",
@@ -10978,10 +10978,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"faeaeb66c3b549cb9301701d3715488e",
                           "label":"按钮2",
@@ -11281,10 +11281,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"3b4cab6f7e37483bb6385ed0558d56b3",
                           "label":"按钮2",
@@ -12520,10 +12520,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"b18e4a894ae44fcd94b05e193d3c5963",
                           "label":".按钮2",
@@ -15877,10 +15877,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"2d4b1552ede5409ba072ff69314d2fba",
                           "label":"按钮2",
@@ -21386,10 +21386,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"e562eeb1017f4094ab619c4605751e8e",
                           "label":"按钮2",
@@ -23438,7 +23438,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/regen/alert__alert-success_u234.png"}},
+                                    "normal~":"images/sql开发中心/regen/alert_u234.png"}},
 {
                                   "id":"72f9837f20544418b27d6880643c7610",
                                   "label":"",
@@ -25243,7 +25243,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/regen/alert__alert-success_u234.png"}},
+                                    "normal~":"images/sql开发中心/regen/alert_u234.png"}},
 {
                                   "id":"164cd1065f1142a5afba61d238f9abf0",
                                   "label":"",
@@ -25505,10 +25505,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"3bef1d154a1d4c1fa2d0e6d15a90dbb7",
                           "label":"按钮2",
@@ -26744,10 +26744,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"858e51398c0e4e6588dc7149704e266c",
                           "label":"按钮2",
@@ -27047,10 +27047,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"69019539befc4ac2996bf2e6988e9668",
                           "label":"按钮2",
@@ -28286,10 +28286,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/regen/按钮1_u200.png",
-                            "mouseOver~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/regen/按钮1_u200_mouseOver.png",
-                            "disabled~":"images/sql开发中心/regen/按钮1_u200_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/u200_disabled.png"}},
 {
                           "id":"d3366cacc13a45d0b3b6445c666ebef9",
                           "label":"按钮2",
