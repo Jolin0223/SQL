@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499145245786.52),
+  "generationDate":new Date(1499145793988.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -100,7 +100,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/u0.png"}},
+            "normal~":"images/sql开发中心/regen/u0.png"}},
 {
           "id":"3e0624bdb92544babcf9f4071cf8e398",
           "label":"平台首页",
@@ -149,7 +149,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/平台首页_u2.png"}},
+            "normal~":"images/sql开发中心/regen/平台首页_u2.png"}},
 {
           "id":"1df19acded484174a1c72755476c28a8",
           "label":"产品分类按钮",
@@ -202,7 +202,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/产品分类按钮_u4.png"}},
+            "normal~":"images/sql开发中心/regen/产品分类按钮_u4.png"}},
 {
           "id":"2590a34b01b2466f9e83af3e666260cd",
           "label":"数据直通车",
@@ -245,8 +245,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/数据直通车_u6.png",
-            "selected~":"images/sql开发中心/数据直通车_u6.png"}},
+            "normal~":"images/sql开发中心/regen/数据直通车_u6.png",
+            "selected~":"images/sql开发中心/regen/数据直通车_u6.png"}},
 {
           "id":"57d30270726d44cf9a5897964b0b6f19",
           "label":"",
@@ -287,7 +287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/u8.png"}},
+            "normal~":"images/sql开发中心/regen/u8.png"}},
 {
           "id":"3758ea52856942bf9f18669aa737c7b9",
           "label":"",
@@ -320,8 +320,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/u10.png",
-            "mouseOver~":"images/任务管理/u10.png"}},
+            "normal~":"images/sql开发中心/regen/u10.png",
+            "mouseOver~":"images/sql开发中心/regen/u10.png"}},
 {
           "id":"ffa9a099cb2e4b7589aaf2f072bb2d2a",
           "label":"",
@@ -362,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/u8.png"}},
+            "normal~":"images/sql开发中心/regen/u8.png"}},
 {
           "id":"d213f4ca6d6543fd9b9374b8021bc13d",
           "label":"",
@@ -403,7 +403,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/u8.png"}},
+            "normal~":"images/sql开发中心/regen/u8.png"}},
 {
           "id":"a2b63c81275246e3a1db41dc085b0538",
           "label":"平台首页图标",
@@ -442,7 +442,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/平台首页图标_u16.png"}},
+            "normal~":"images/sql开发中心/regen/平台首页图标_u16.png"}},
 {
           "id":"8d550cfe83fb4de5a373cb7929b331b6",
           "label":"最后一根分割线",
@@ -483,7 +483,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/u8.png"}},
+            "normal~":"images/sql开发中心/regen/u8.png"}},
 {
           "id":"17f468514856456c85def7e0cf61898a",
           "label":"产品分类",
@@ -526,7 +526,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/产品分类_u20.png"}},
+            "normal~":"images/sql开发中心/regen/产品分类_u20.png"}},
 {
           "id":"6b6ea68e2fa9462ea14a1da40cc2fc3d",
           "label":"直通车图标",
@@ -559,7 +559,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/直通车图标_u22.png"}},
+            "normal~":"images/sql开发中心/regen/直通车图标_u22.png"}},
 {
           "id":"fc1b53c45f444dac8663872d207b4d10",
           "label":"产品分类下拉",
@@ -600,7 +600,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/产品分类下拉_u24.png"}},
+            "normal~":"images/sql开发中心/regen/产品分类下拉_u24.png"}},
 {
           "id":"0ae204b455d54185bae6c07be79aad00",
           "label":"",
@@ -641,7 +641,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/u8.png"}},
+            "normal~":"images/sql开发中心/regen/u8.png"}},
 {
           "id":"4eaf43dfa5f6485a8452ef9ff709ae48",
           "label":"",
@@ -678,7 +678,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/u28.png"}},
+            "normal~":"images/sql开发中心/regen/u28.png"}},
 {
           "id":"779f69b65e8b4ce5907781f2cb288220",
           "label":"",
@@ -713,7 +713,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/u30.png"}},
+            "normal~":"images/sql开发中心/regen/u30.png"}},
 {
           "id":"9aca2e5de2624d2aa3ef12fa6b5eee9f",
           "label":"下拉",
@@ -754,7 +754,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/sql开发中心/产品分类下拉_u24.png"}},
+            "normal~":"images/sql开发中心/regen/产品分类下拉_u24.png"}},
 {
           "id":"80846d765a994c2b99f2e019bfd0e2db",
           "label":"左侧面板切换",
@@ -811,7 +811,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u35.png"}},
+                    "normal~":"images/sql开发中心/regen/u35.png"}},
 {
                   "id":"8aa8224bc5f84021ac8ea8dcd307086a",
                   "label":"",
@@ -852,7 +852,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u37.png"}},
+                    "normal~":"images/sql开发中心/regen/u37.png"}},
 {
                   "id":"a5be9d9f192d4f9ab44ba821e346677b",
                   "label":"输入框",
@@ -947,11 +947,11 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/输入框_u39.png",
-                    "selected~":"images/sql开发中心/输入框_u39_selected.png",
-                    "mouseOver~":"images/sql开发中心/输入框_u39_selected.png",
-                    "mouseDown~":"images/sql开发中心/输入框_u39_selected.png",
-                    "disabled~":"images/sql开发中心/输入框_u39_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/输入框_u39.png",
+                    "selected~":"images/sql开发中心/regen/输入框_u39_selected.png",
+                    "mouseOver~":"images/sql开发中心/regen/输入框_u39_selected.png",
+                    "mouseDown~":"images/sql开发中心/regen/输入框_u39_selected.png",
+                    "disabled~":"images/sql开发中心/regen/输入框_u39_disabled.png"}},
 {
                   "id":"470b8f0d4eee4666905bd352dfb6edf2",
                   "label":"",
@@ -1252,7 +1252,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/搜索悬停_u285.png"}}],
+                            "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -1315,7 +1315,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/搜索默认_u46.png"}}],
+                            "normal~":"images/sql开发中心/regen/搜索默认_u46.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -1487,7 +1487,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u53.png"}},
+                            "normal~":"images/sql开发中心/regen/u53.png"}},
 {
                           "id":"0c2360f1e23042908a434970ef805a1d",
                           "label":"",
@@ -2059,11 +2059,11 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/查找输入框_u77.png",
-                            "selected~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseOver~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseDown~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "disabled~":"images/sql开发中心/查找输入框_u77_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/查找输入框_u77.png",
+                            "selected~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "disabled~":"images/sql开发中心/regen/查找输入框_u77_disabled.png"}},
 {
                           "id":"e0d5674d63ec437488ca05a94a41c793",
                           "label":"查找",
@@ -2366,7 +2366,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/任务管理/搜索悬停_u285.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -2430,7 +2430,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/搜索默认_u46.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索默认_u46.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -2463,7 +2463,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u86_line.png"}},
+                            "line~":"images/sql开发中心/regen/u86_line.png"}},
 {
                           "id":"dd28432ebbb7489a90490741af53360b",
                           "label":"标签2",
@@ -2614,10 +2614,10 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/标签1_u88.png",
-                                    "selected~":"images/sql开发中心/标签1_u88_selected.png",
-                                    "mouseOver~":"images/sql开发中心/标签1_u88_mouseOver.png",
-                                    "mouseDown~":"images/sql开发中心/标签1_u88_mouseOver.png"}},
+                                    "normal~":"images/sql开发中心/regen/标签1_u88.png",
+                                    "selected~":"images/sql开发中心/regen/标签1_u88_selected.png",
+                                    "mouseOver~":"images/sql开发中心/regen/标签1_u88_mouseOver.png",
+                                    "mouseDown~":"images/sql开发中心/regen/标签1_u88_mouseOver.png"}},
 {
                                   "id":"5e381bf2c2ee4328a46a8d2fd705fc5c",
                                   "label":"2",
@@ -2660,7 +2660,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/2_u90.png"}},
+                                    "normal~":"images/sql开发中心/regen/2_u90.png"}},
 {
                                   "id":"48195088eb984f658d42f7a50eec5c41",
                                   "label":"1-2",
@@ -2703,7 +2703,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/1-2_u92.png"}}],
+                                    "normal~":"images/sql开发中心/regen/1-2_u92.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -2859,10 +2859,10 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/标签1_u95.png",
-                                    "selected~":"images/sql开发中心/标签1_u95_selected.png",
-                                    "mouseOver~":"images/sql开发中心/标签1_u95_selected.png",
-                                    "mouseDown~":"images/sql开发中心/标签1_u95_mouseDown.png"}},
+                                    "normal~":"images/sql开发中心/regen/标签1_u95.png",
+                                    "selected~":"images/sql开发中心/regen/标签1_u95_selected.png",
+                                    "mouseOver~":"images/sql开发中心/regen/标签1_u95_selected.png",
+                                    "mouseDown~":"images/sql开发中心/regen/标签1_u95_mouseDown.png"}},
 {
                                   "id":"1a98b4705e0349b38056533a7535d093",
                                   "label":"1",
@@ -2903,7 +2903,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/1_u97.png"}},
+                                    "normal~":"images/sql开发中心/regen/1_u97.png"}},
 {
                                   "id":"acc6d0eb8b944bcba7bcf437247e2fc1",
                                   "label":"1-1",
@@ -2948,7 +2948,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/1-1_u99.png"}}],
+                                    "normal~":"images/sql开发中心/regen/1-1_u99.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -3153,7 +3153,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u106.png"}},
+                            "normal~":"images/sql开发中心/regen/u106.png"}},
 {
                           "id":"adf895bb330d48298939a6f4eb37ffe0",
                           "label":"",
@@ -3717,11 +3717,11 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/查找输入框_u77.png",
-                            "selected~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseOver~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseDown~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "disabled~":"images/sql开发中心/查找输入框_u77_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/查找输入框_u77.png",
+                            "selected~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "disabled~":"images/sql开发中心/regen/查找输入框_u77_disabled.png"}},
 {
                           "id":"c2254eeb00004ab0b111a3df72082de7",
                           "label":"查找",
@@ -4024,7 +4024,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/任务管理/搜索悬停_u285.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -4088,7 +4088,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/搜索默认_u46.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索默认_u46.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -4151,7 +4151,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u139.png"}},
+                    "normal~":"images/sql开发中心/regen/u139.png"}},
 {
                   "id":"2be2f7b3a9fa4a0782aae3accb0d8e0e",
                   "label":"",
@@ -4315,9 +4315,9 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/按钮2_u114.png",
-                    "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                    "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                   "id":"f333badb678f417e82a8a7d1e65afcf4",
                   "label":"按钮2",
@@ -4411,9 +4411,9 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/按钮2_u145.png",
-                    "mouseOver~":"images/sql开发中心/按钮2_u145_mouseOver.png",
-                    "disabled~":"images/sql开发中心/按钮2_u145_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u145.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u145_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u145_disabled.png"}},
 {
                   "id":"d3fd069d317246338c667f6aaa6b770b",
                   "label":"按钮2",
@@ -4470,9 +4470,9 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/按钮2_u89.png",
-                    "mouseOver~":"images/任务管理/按钮2_u89_mouseOver.png",
-                    "disabled~":"images/任务管理/按钮2_u89_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u147.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u147_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u147_disabled.png"}},
 {
                   "id":"0d78572ee9db48d9a23eff2a20c9492a",
                   "label":"按钮2",
@@ -4529,9 +4529,9 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/按钮2_u114.png",
-                    "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                    "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                   "id":"128e4114254e42af906edc2d12b627f8",
                   "label":"",
@@ -4619,7 +4619,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u139.png"}},
+                    "normal~":"images/sql开发中心/regen/u139.png"}},
 {
                   "id":"d7d142a520684f87bd9141bd28446849",
                   "label":"",
@@ -4867,7 +4867,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u161.png"}},
+                    "normal~":"images/sql开发中心/regen/u161.png"}},
 {
                   "id":"e6368d61335942b095164915f4c0ce73",
                   "label":"",
@@ -4904,7 +4904,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u163.png"}},
+                    "normal~":"images/sql开发中心/regen/u163.png"}},
 {
                   "id":"0c897896630844fe8fd3274a1f44cabe",
                   "label":"",
@@ -5493,10 +5493,10 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/文本框_u177.png",
-                    "selected~":"images/新建任务/日期下拉框_u144_selected.png",
-                    "mouseDown~":"images/新建任务/日期下拉框_u144_selected.png",
-                    "disabled~":"images/新建任务/日期下拉框_u144_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/文本框_u177.png",
+                    "selected~":"images/sql开发中心/regen/文本框_u177_selected.png",
+                    "mouseDown~":"images/sql开发中心/regen/文本框_u177_selected.png",
+                    "disabled~":"images/sql开发中心/regen/文本框_u177_disabled.png"}},
 {
                   "id":"0e039a37b2d6440aace68b8fe3341693",
                   "label":"下拉选中",
@@ -5548,7 +5548,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/下拉选中_u100.png"}}],
+                            "normal~":"images/sql开发中心/regen/下拉选中_u180.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -5610,7 +5610,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u103.png"}}],
+                            "normal~":"images/sql开发中心/regen/u183.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -5840,7 +5840,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/dropdownbox_u106.png"}},
+                            "normal~":"images/sql开发中心/regen/dropdownbox_u186.png"}},
 {
                           "id":"094292c9a8ae4b16955d9c4f5717f884",
                           "label":"选项1",
@@ -6053,9 +6053,9 @@
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/选项1_u108.png",
-                            "selected~":"images/任务管理/选项1_u108_selected.png",
-                            "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
+                            "normal~":"images/sql开发中心/regen/选项1_u188.png",
+                            "selected~":"images/sql开发中心/regen/选项1_u188_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/选项1_u188_selected.png"}},
 {
                           "id":"e96df33960a04838be79b9ab5e29ccd3",
                           "label":"选型3",
@@ -6268,9 +6268,9 @@
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/选项1_u108.png",
-                            "selected~":"images/任务管理/选项1_u108_selected.png",
-                            "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
+                            "normal~":"images/sql开发中心/regen/选项1_u188.png",
+                            "selected~":"images/sql开发中心/regen/选项1_u188_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/选项1_u188_selected.png"}},
 {
                           "id":"7e15ad4dd9334a5588c850e0549f6a79",
                           "label":"选型2",
@@ -6487,9 +6487,9 @@
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/选项1_u108.png",
-                            "selected~":"images/任务管理/选项1_u108_selected.png",
-                            "mouseOver~":"images/任务管理/选项1_u108_selected.png"}}],
+                            "normal~":"images/sql开发中心/regen/选项1_u188.png",
+                            "selected~":"images/sql开发中心/regen/选项1_u188_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/选项1_u188_selected.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -6522,7 +6522,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/sql开发中心/u194_line.png"}},
+                    "line~":"images/sql开发中心/regen/u194_line.png"}},
 {
                   "id":"0f366378795346abbbea20a8fe8a5d2d",
                   "label":"创建内容",
@@ -6597,7 +6597,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"3025de51d48a4a43be26ec3c090d0735",
                           "label":"",
@@ -6735,10 +6735,10 @@
                                               "compress":false}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"e62e8d6542284ec7991f87cbb74ad7da",
                           "label":".按钮2",
@@ -6803,9 +6803,9 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"3a4746c76fdc4f1480844dcacda40913",
                           "label":"",
@@ -6828,7 +6828,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"fcbcc22d258b4947ad025eb63ef6d672",
                           "label":"",
@@ -6879,7 +6879,7 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"49592690e033477ebe7235490964702e",
                           "label":"",
@@ -6902,7 +6902,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"3f93ff0e11df4d74999a642119ab487e",
                           "label":"表头",
@@ -7166,9 +7166,9 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/新建任务/2行2列_u1661.png",
-                                                        "selected~":"images/新建任务/1行2列_u1649_selected.png",
-                                                        "mouseOver~":"images/新建任务/2行2列_u1661_mouseOver.png"}},
+                                                        "normal~":"images/sql开发中心/regen/2行2列_u226.png",
+                                                        "selected~":"images/sql开发中心/regen/1行2列_u222_selected.png",
+                                                        "mouseOver~":"images/sql开发中心/regen/2行2列_u226_mouseOver.png"}},
 {
                                                       "id":"163324d8787a4abdaae15129fbdc6f9c",
                                                       "label":"2行4列",
@@ -7215,9 +7215,9 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/sql开发中心/2行4列_u228.png",
-                                                        "selected~":"images/sql开发中心/1行4列_u224_selected.png",
-                                                        "mouseOver~":"images/sql开发中心/2行4列_u228_mouseOver.png"}},
+                                                        "normal~":"images/sql开发中心/regen/2行4列_u228.png",
+                                                        "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png",
+                                                        "mouseOver~":"images/sql开发中心/regen/2行4列_u228_mouseOver.png"}},
 {
                                                       "id":"fc0831a80ddc48bfb0fb11c70c89b19b",
                                                       "label":"3行2列",
@@ -7276,8 +7276,8 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/新建任务/3行2列_u1673.png",
-                                                        "selected~":"images/新建任务/3行2列_u1673_selected.png"}},
+                                                        "normal~":"images/sql开发中心/regen/3行2列_u230.png",
+                                                        "selected~":"images/sql开发中心/regen/3行2列_u230_selected.png"}},
 {
                                                       "id":"5a9faec5242941558defc4f42b7d05c5",
                                                       "label":"3行4列",
@@ -7324,8 +7324,8 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/sql开发中心/3行4列_u232.png",
-                                                        "selected~":"images/sql开发中心/3行4列_u232_selected.png"}},
+                                                        "normal~":"images/sql开发中心/regen/3行4列_u232.png",
+                                                        "selected~":"images/sql开发中心/regen/3行4列_u232_selected.png"}},
 {
                                                       "id":"59f0656183c044c5a2f8a31071bc59ed",
                                                       "label":"",
@@ -7368,8 +7368,8 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/新建任务/u1637.png",
-                                                        "selected~":"images/新建任务/u1637_selected.png"}},
+                                                        "normal~":"images/sql开发中心/regen/u218.png",
+                                                        "selected~":"images/sql开发中心/regen/u218_selected.png"}},
 {
                                                       "id":"5bb00e57bdaf435f8bb95bd6e9217bd1",
                                                       "label":"",
@@ -7418,8 +7418,8 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/sql开发中心/u220.png",
-                                                        "selected~":"images/sql开发中心/u220_selected.png"}},
+                                                        "normal~":"images/sql开发中心/regen/u220.png",
+                                                        "selected~":"images/sql开发中心/regen/u220_selected.png"}},
 {
                                                       "id":"8c12d3df110941e09df64263d67283bf",
                                                       "label":"1行2列",
@@ -7468,8 +7468,8 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/新建任务/1行2列_u1649.png",
-                                                        "selected~":"images/新建任务/1行2列_u1649_selected.png"}},
+                                                        "normal~":"images/sql开发中心/regen/1行2列_u222.png",
+                                                        "selected~":"images/sql开发中心/regen/1行2列_u222_selected.png"}},
 {
                                                       "id":"4dc551a045ee42fb8a8b6983c3cdc456",
                                                       "label":"1行4列",
@@ -7516,8 +7516,8 @@
                                                           "adaptiveStyles":{
 }}],
                                                       "images":{
-                                                        "normal~":"images/sql开发中心/1行4列_u224.png",
-                                                        "selected~":"images/sql开发中心/1行4列_u224_selected.png"}}]}],
+                                                        "normal~":"images/sql开发中心/regen/1行4列_u224.png",
+                                                        "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png"}}]}],
                                               "style":{
                                                 "fill":{
                                                   "fillType":"solid",
@@ -7574,7 +7574,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/新建任务/_alert__alert-success_u1626.png"}}],
+                                            "normal~":"images/sql开发中心/regen/_alert__alert-success_u234.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -7771,9 +7771,9 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/2行2列_u1661.png",
-                                                "selected~":"images/新建任务/1行2列_u1649_selected.png",
-                                                "mouseOver~":"images/新建任务/2行2列_u1661_mouseOver.png"}},
+                                                "normal~":"images/sql开发中心/regen/2行2列_u226.png",
+                                                "selected~":"images/sql开发中心/regen/1行2列_u222_selected.png",
+                                                "mouseOver~":"images/sql开发中心/regen/2行2列_u226_mouseOver.png"}},
 {
                                               "id":"c6e89c949f0949c4b556efaa10c09a9e",
                                               "label":"2行4列",
@@ -7820,9 +7820,9 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/2行4列_u228.png",
-                                                "selected~":"images/sql开发中心/1行4列_u224_selected.png",
-                                                "mouseOver~":"images/sql开发中心/2行4列_u228_mouseOver.png"}},
+                                                "normal~":"images/sql开发中心/regen/2行4列_u228.png",
+                                                "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png",
+                                                "mouseOver~":"images/sql开发中心/regen/2行4列_u228_mouseOver.png"}},
 {
                                               "id":"f76b554c60254de1859ee35998cb6665",
                                               "label":"3行2列",
@@ -7881,8 +7881,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/3行2列_u1673.png",
-                                                "selected~":"images/新建任务/3行2列_u1673_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/3行2列_u230.png",
+                                                "selected~":"images/sql开发中心/regen/3行2列_u230_selected.png"}},
 {
                                               "id":"c3dd9c6290ea49cdb3183048d305ebe8",
                                               "label":"3行4列",
@@ -7929,8 +7929,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/3行4列_u232.png",
-                                                "selected~":"images/sql开发中心/3行4列_u232_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/3行4列_u232.png",
+                                                "selected~":"images/sql开发中心/regen/3行4列_u232_selected.png"}},
 {
                                               "id":"d04305ce9e45493a9a9e5ef001a779f8",
                                               "label":"",
@@ -7973,8 +7973,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/u1637.png",
-                                                "selected~":"images/新建任务/u1637_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/u218.png",
+                                                "selected~":"images/sql开发中心/regen/u218_selected.png"}},
 {
                                               "id":"55dfae3b320c4b14a741d0579ce2b4f7",
                                               "label":"",
@@ -8023,8 +8023,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/u220.png",
-                                                "selected~":"images/sql开发中心/u220_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/u220.png",
+                                                "selected~":"images/sql开发中心/regen/u220_selected.png"}},
 {
                                               "id":"2ae369f3689d4762aa8bfb17dcec1141",
                                               "label":"1行2列",
@@ -8073,8 +8073,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/1行2列_u1649.png",
-                                                "selected~":"images/新建任务/1行2列_u1649_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/1行2列_u222.png",
+                                                "selected~":"images/sql开发中心/regen/1行2列_u222_selected.png"}},
 {
                                               "id":"beabe9fa6533490a9f384b5cca701eb2",
                                               "label":"1行4列",
@@ -8121,8 +8121,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/1行4列_u224.png",
-                                                "selected~":"images/sql开发中心/1行4列_u224_selected.png"}}]},
+                                                "normal~":"images/sql开发中心/regen/1行4列_u224.png",
+                                                "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png"}}]},
 {
                                           "id":"4b7355be21d844c3bfa0544137c19a97",
                                           "label":".alert .alert-success",
@@ -8169,7 +8169,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/新建任务/_alert__alert-success_u1626.png"}}],
+                                            "normal~":"images/sql开发中心/regen/_alert__alert-success_u234.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -8405,9 +8405,9 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/2行2列_u1661.png",
-                                                "selected~":"images/新建任务/1行2列_u1649_selected.png",
-                                                "mouseOver~":"images/新建任务/2行2列_u1661_mouseOver.png"}},
+                                                "normal~":"images/sql开发中心/regen/2行2列_u226.png",
+                                                "selected~":"images/sql开发中心/regen/1行2列_u222_selected.png",
+                                                "mouseOver~":"images/sql开发中心/regen/2行2列_u226_mouseOver.png"}},
 {
                                               "id":"6c1739ba531d435a8b14ffd4ce46146a",
                                               "label":"2行4列",
@@ -8454,9 +8454,9 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/2行4列_u228.png",
-                                                "selected~":"images/sql开发中心/1行4列_u224_selected.png",
-                                                "mouseOver~":"images/sql开发中心/2行4列_u228_mouseOver.png"}},
+                                                "normal~":"images/sql开发中心/regen/2行4列_u228.png",
+                                                "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png",
+                                                "mouseOver~":"images/sql开发中心/regen/2行4列_u228_mouseOver.png"}},
 {
                                               "id":"d1563cfd91f64c869a662fbe9cd90bfd",
                                               "label":"3行2列",
@@ -8515,8 +8515,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/3行2列_u1673.png",
-                                                "selected~":"images/新建任务/3行2列_u1673_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/3行2列_u230.png",
+                                                "selected~":"images/sql开发中心/regen/3行2列_u230_selected.png"}},
 {
                                               "id":"f61373b8ad764f1abe408cf6dd9cfcb9",
                                               "label":"3行4列",
@@ -8563,8 +8563,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/3行4列_u232.png",
-                                                "selected~":"images/sql开发中心/3行4列_u232_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/3行4列_u232.png",
+                                                "selected~":"images/sql开发中心/regen/3行4列_u232_selected.png"}},
 {
                                               "id":"c1e6fc29dd9044e69eb7e4c047cd0826",
                                               "label":"",
@@ -8607,8 +8607,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/u1637.png",
-                                                "selected~":"images/新建任务/u1637_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/u218.png",
+                                                "selected~":"images/sql开发中心/regen/u218_selected.png"}},
 {
                                               "id":"01d194cebb7547b6835a33424f7c9c62",
                                               "label":"",
@@ -8657,8 +8657,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/u220.png",
-                                                "selected~":"images/sql开发中心/u220_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/u220.png",
+                                                "selected~":"images/sql开发中心/regen/u220_selected.png"}},
 {
                                               "id":"f2b92d9e2ab74813a3fd020d8bc7e595",
                                               "label":"1行2列",
@@ -8707,8 +8707,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/新建任务/1行2列_u1649.png",
-                                                "selected~":"images/新建任务/1行2列_u1649_selected.png"}},
+                                                "normal~":"images/sql开发中心/regen/1行2列_u222.png",
+                                                "selected~":"images/sql开发中心/regen/1行2列_u222_selected.png"}},
 {
                                               "id":"b89c557bb3a04c119d8c11ca7d860bd8",
                                               "label":"1行4列",
@@ -8755,8 +8755,8 @@
                                                   "adaptiveStyles":{
 }}],
                                               "images":{
-                                                "normal~":"images/sql开发中心/1行4列_u224.png",
-                                                "selected~":"images/sql开发中心/1行4列_u224_selected.png"}}]}],
+                                                "normal~":"images/sql开发中心/regen/1行4列_u224.png",
+                                                "selected~":"images/sql开发中心/regen/1行4列_u224_selected.png"}}]}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -9059,7 +9059,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u286.png"}},
+                            "normal~":"images/sql开发中心/regen/u286.png"}},
 {
                           "id":"81fbafed6e0e41219285df19bba772f0",
                           "label":"",
@@ -9181,10 +9181,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/_按钮1_u290.png",
-                            "mouseOver~":"images/sql开发中心/_按钮1_u290_mouseOver.png",
-                            "mouseDown~":"images/sql开发中心/_按钮1_u290_mouseOver.png",
-                            "disabled~":"images/sql开发中心/_按钮1_u290_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u290.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u290_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u290_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u290_disabled.png"}},
 {
                           "id":"31faf394d478494ea571f3c903610835",
                           "label":".按钮2",
@@ -9233,9 +9233,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"62487f5707e04ea9a2f845fcd548968d",
                           "label":"",
@@ -9258,7 +9258,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"d17b4d632d814af4908371d3060620a4",
                           "label":"",
@@ -9293,7 +9293,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"41434233f52543aaa5910e22066e04c7",
                           "label":"",
@@ -9316,7 +9316,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"a7d0d8e798d34d41a46928533d5a75a9",
                           "label":"",
@@ -9549,7 +9549,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/u307.png"}},
+                                    "normal~":"images/sql开发中心/regen/u307.png"}},
 {
                                   "id":"a83454b4e66a4fb48cc343ceae48c99b",
                                   "label":"",
@@ -9691,7 +9691,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/u311.png"}},
+                                    "normal~":"images/sql开发中心/regen/u311.png"}},
 {
                                   "id":"f85ef6d1e37f48d789fb49ab759e84ba",
                                   "label":"",
@@ -9866,9 +9866,9 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/任务管理/按钮1_u87.png",
-                                    "mouseOver~":"images/sql开发中心/_按钮1_u315_mouseOver.png",
-                                    "disabled~":"images/sql开发中心/_按钮1_u315_disabled.png"}},
+                                    "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                                    "mouseOver~":"images/sql开发中心/regen/_按钮1_u315_mouseOver.png",
+                                    "disabled~":"images/sql开发中心/regen/_按钮1_u315_disabled.png"}},
 {
                                   "id":"f4534267987b4ca7b2dbec5c610f8e95",
                                   "label":".按钮2",
@@ -9955,9 +9955,9 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/任务管理/按钮2_u114.png",
-                                    "mouseOver~":"images/sql开发中心/_按钮2_u317_mouseOver.png",
-                                    "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                                    "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                                    "mouseOver~":"images/sql开发中心/regen/_按钮2_u317_mouseOver.png",
+                                    "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                                   "id":"b05017e9bcfb48d98f6a73c1b45d0b93",
                                   "label":"",
@@ -10021,7 +10021,7 @@
                                   "images":{
                                     "start~":"resources/images/transparent.gif",
                                     "end~":"resources/images/transparent.gif",
-                                    "line~":"images/sql开发中心/u321_line.png"}}],
+                                    "line~":"images/sql开发中心/regen/u321_line.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -10096,7 +10096,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"5e1fc7b91e87405abce8703508d3e014",
                           "label":"",
@@ -10218,10 +10218,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"980d8ddf76a040a99213d0476f4a0131",
                           "label":".按钮2",
@@ -10270,9 +10270,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"89aeef81ced54beb837dc85e84a7e104",
                           "label":"",
@@ -10295,7 +10295,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"7fab9d32bb3c47569d227e6688a24c57",
                           "label":"",
@@ -10330,7 +10330,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"94fe019e5dca41b7b4355f4038d45780",
                           "label":"",
@@ -10353,7 +10353,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"1fabeb2013434bfaa7471378ba39cf3d",
                           "label":"",
@@ -10504,7 +10504,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"e06f36dcdd67496e9d720d9756ea4b7d",
                           "label":"",
@@ -10626,10 +10626,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"8021d961dc064a8986ecd8b9db3fb4ea",
                           "label":".按钮2",
@@ -10678,9 +10678,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"ce3113a74033436ebe80d0b22e245358",
                           "label":"",
@@ -10703,7 +10703,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"4df38a2992144837b0488ddcdc69b803",
                           "label":"",
@@ -10738,7 +10738,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"c00f9bdd6afe4d439785cfaa9fe04230",
                           "label":"",
@@ -10761,7 +10761,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"614ac27bdfdd46b1818674a8dd9c16eb",
                           "label":"输入框1",
@@ -10824,10 +10824,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"aea7711f1bc2412dad9cc6bf49a44505",
                           "label":"表头",
@@ -11106,10 +11106,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/multilinetextboxcontainer_u355.png",
-                            "selected~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "mouseDown~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "disabled~":"images/sql开发中心/multilinetextboxcontainer_u355_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/multilinetextboxcontainer_u355.png",
+                            "selected~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "disabled~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_disabled.png"}},
 {
                           "id":"78b0cc9dfaa24b84a1714985989f48f2",
                           "label":"",
@@ -11152,7 +11152,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u357.png"}},
+                            "normal~":"images/sql开发中心/regen/u357.png"}},
 {
                           "id":"9139fd2344034635818f86f1b0392295",
                           "label":"<textarea>",
@@ -11439,10 +11439,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"7cd9eb0efb19497d981f9dfb1812d6e4",
                           "label":"表头",
@@ -11743,7 +11743,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u367.png"}},
+                            "normal~":"images/sql开发中心/regen/u367.png"}},
 {
                           "id":"6b831cd121d74d1284e869c99794e0df",
                           "label":"",
@@ -11865,10 +11865,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"faeaeb66c3b549cb9301701d3715488e",
                           "label":".按钮2",
@@ -11917,9 +11917,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"84b765c08f3d4888a544e107ef45b37d",
                           "label":"",
@@ -11942,7 +11942,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u375_line.png"}},
+                            "line~":"images/sql开发中心/regen/u375_line.png"}},
 {
                           "id":"b29096d037d446c083ac513567c285cd",
                           "label":"",
@@ -12046,7 +12046,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"e1057e20fbf440b08bd7522997f5ab20",
                           "label":"",
@@ -12168,10 +12168,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"3b4cab6f7e37483bb6385ed0558d56b3",
                           "label":".按钮2",
@@ -12220,9 +12220,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"1d9a593eac7448ceaf12043e0bcc1c45",
                           "label":"",
@@ -12245,7 +12245,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"f85cfb0088eb402fb65ecac2dd8b891f",
                           "label":"",
@@ -12280,7 +12280,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"9fc7df192277451c9ba598ddfe95ffdb",
                           "label":"",
@@ -12303,7 +12303,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"0cc8badf68a94f86a227ae657162400a",
                           "label":"输入框1",
@@ -12366,10 +12366,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"f29e30129fd8443ca5077f085b2d1500",
                           "label":"表头",
@@ -12648,10 +12648,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/multilinetextboxcontainer_u355.png",
-                            "selected~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "mouseDown~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "disabled~":"images/sql开发中心/multilinetextboxcontainer_u355_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/multilinetextboxcontainer_u355.png",
+                            "selected~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "disabled~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_disabled.png"}},
 {
                           "id":"7d10a2f504d64f1680bd46f8d75f4170",
                           "label":"",
@@ -12694,7 +12694,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u357.png"}},
+                            "normal~":"images/sql开发中心/regen/u357.png"}},
 {
                           "id":"1d52677925de44a6b4abd559f7e0e96e",
                           "label":"<textarea>",
@@ -12981,10 +12981,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"26284f134e924b1088d99651192ca8b6",
                           "label":"表头",
@@ -13285,7 +13285,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"7bdc1afaa1f94247b5bea54a1b83d93f",
                           "label":"",
@@ -13407,10 +13407,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"b18e4a894ae44fcd94b05e193d3c5963",
                           "label":".按钮2",
@@ -13459,9 +13459,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"e5066c9821854c84b8045c7441d456d2",
                           "label":"",
@@ -13484,7 +13484,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"5b20ccd40f7f4661b4682f2020576b59",
                           "label":"",
@@ -13519,7 +13519,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"649cc48e6377436b969d17c9eb49e2bd",
                           "label":"",
@@ -13542,7 +13542,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"1c70f9b883ea4a68bc7ebcc8046e1a20",
                           "label":"输入框1",
@@ -13605,10 +13605,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"46428904212d4a51bf965978b3eefb82",
                           "label":"表头",
@@ -13887,10 +13887,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/multilinetextboxcontainer_u355.png",
-                            "selected~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "mouseDown~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "disabled~":"images/sql开发中心/multilinetextboxcontainer_u355_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/multilinetextboxcontainer_u355.png",
+                            "selected~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "disabled~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_disabled.png"}},
 {
                           "id":"29653e33856849b7929e364f41d04224",
                           "label":"",
@@ -13933,7 +13933,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u357.png"}},
+                            "normal~":"images/sql开发中心/regen/u357.png"}},
 {
                           "id":"89ae06b6876a43e6a4e8b738392e6ab2",
                           "label":"<textarea>",
@@ -14206,7 +14206,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u431.png"}},
+                            "normal~":"images/sql开发中心/regen/u431.png"}},
 {
                           "id":"80ea83a35c384588837577723771c47e",
                           "label":"",
@@ -14264,7 +14264,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u435_line.png"}},
+                            "line~":"images/sql开发中心/regen/u435_line.png"}},
 {
                           "id":"85fef63042bd45a68063fcc3c1b78bf9",
                           "label":"",
@@ -14327,9 +14327,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/2行2列_u473.png",
-                                "selected~":"images/sql开发中心/1行2列_u457_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行2列_u473_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/2行2列_u473.png",
+                                "selected~":"images/sql开发中心/regen/1行2列_u457_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/2行2列_u473_mouseOver.png"}},
 {
                               "id":"7b505a7b69914858a82eb509b83deea2",
                               "label":"2行4列",
@@ -14376,9 +14376,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/2行4列_u1663.png",
-                                "selected~":"images/新建任务/1行4列_u1651_selected.png",
-                                "mouseOver~":"images/新建任务/2行4列_u1663_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/2行4列_u475.png",
+                                "selected~":"images/sql开发中心/regen/1行4列_u459_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/2行4列_u475_mouseOver.png"}},
 {
                               "id":"ce689f438c4f402fbe3160f969f1c241",
                               "label":"2行7列",
@@ -14425,9 +14425,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/2行7列_u1665.png",
-                                "selected~":"images/新建任务/1行7列_u1653_selected.png",
-                                "mouseOver~":"images/新建任务/2行7列_u1665_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/2行7列_u477.png",
+                                "selected~":"images/sql开发中心/regen/1行7列_u461_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/2行7列_u477_mouseOver.png"}},
 {
                               "id":"5a7c3a8e7914458a94c48165d09f7c79",
                               "label":"2行8列",
@@ -14474,9 +14474,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/2行8列_u1667.png",
-                                "selected~":"images/新建任务/1行8列_u1655_selected.png",
-                                "mouseOver~":"images/新建任务/2行8列_u1667_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/2行8列_u479.png",
+                                "selected~":"images/sql开发中心/regen/1行8列_u463_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/2行8列_u479_mouseOver.png"}},
 {
                               "id":"c71abf114da54500b5578b5570e548a6",
                               "label":"2行9列",
@@ -14523,9 +14523,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/2行9列_u481.png",
-                                "selected~":"images/sql开发中心/1行9列_u465_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行9列_u481_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/2行9列_u481.png",
+                                "selected~":"images/sql开发中心/regen/1行9列_u465_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/2行9列_u481_mouseOver.png"}},
 {
                               "id":"45eed04ebaf64f30878080482588a26a",
                               "label":"3行2列",
@@ -14572,8 +14572,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/3行2列_u489.png",
-                                "selected~":"images/sql开发中心/3行2列_u489_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/3行2列_u489.png",
+                                "selected~":"images/sql开发中心/regen/3行2列_u489_selected.png"}},
 {
                               "id":"0f79d0bc7b294e9182d3265a759f5194",
                               "label":"3行4列",
@@ -14620,8 +14620,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/3行4列_u1675.png",
-                                "selected~":"images/新建任务/3行4列_u1675_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/3行4列_u491.png",
+                                "selected~":"images/sql开发中心/regen/3行4列_u491_selected.png"}},
 {
                               "id":"2386e7004756480fb4b4a3d0238905fa",
                               "label":"3行7列",
@@ -14668,8 +14668,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/3行7列_u1677.png",
-                                "selected~":"images/新建任务/3行7列_u1677_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/3行7列_u493.png",
+                                "selected~":"images/sql开发中心/regen/3行7列_u493_selected.png"}},
 {
                               "id":"7bd399c3d04c477b9a3b82b9588dbadf",
                               "label":"3行8列",
@@ -14716,8 +14716,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/3行8列_u1679.png",
-                                "selected~":"images/新建任务/3行8列_u1679_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/3行8列_u495.png",
+                                "selected~":"images/sql开发中心/regen/3行8列_u495_selected.png"}},
 {
                               "id":"0fb8b81c738943868f36383c17ac4d6b",
                               "label":"3行9列",
@@ -14764,8 +14764,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/3行9列_u497.png",
-                                "selected~":"images/sql开发中心/3行9列_u497_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/3行9列_u497.png",
+                                "selected~":"images/sql开发中心/regen/3行9列_u497_selected.png"}},
 {
                               "id":"1fe6fa8a9a974cdcbb09a64ae4508e68",
                               "label":"",
@@ -14814,8 +14814,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u441.png",
-                                "selected~":"images/sql开发中心/u441_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u441.png",
+                                "selected~":"images/sql开发中心/regen/u441_selected.png"}},
 {
                               "id":"c14d149977bc495c87c9d9b3626bb02d",
                               "label":"",
@@ -14864,8 +14864,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/u1639.png",
-                                "selected~":"images/新建任务/u1639_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u443.png",
+                                "selected~":"images/sql开发中心/regen/u443_selected.png"}},
 {
                               "id":"b50203e7529448d9992e3d897274a63d",
                               "label":"",
@@ -14914,8 +14914,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/u1641.png",
-                                "selected~":"images/新建任务/u1641_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u445.png",
+                                "selected~":"images/sql开发中心/regen/u445_selected.png"}},
 {
                               "id":"7a864fbbf7114458b1a4c378a9a700a0",
                               "label":"",
@@ -14964,8 +14964,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/u1643.png",
-                                "selected~":"images/新建任务/u1643_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u447.png",
+                                "selected~":"images/sql开发中心/regen/u447_selected.png"}},
 {
                               "id":"1627e8a1ac3f4df18b6543765ada0eee",
                               "label":"",
@@ -15014,8 +15014,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u449.png",
-                                "selected~":"images/sql开发中心/u449_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u449.png",
+                                "selected~":"images/sql开发中心/regen/u449_selected.png"}},
 {
                               "id":"2bf0632a5a0e41a58882bf6ea965a62b",
                               "label":"1行2列",
@@ -15062,8 +15062,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/1行2列_u457.png",
-                                "selected~":"images/sql开发中心/1行2列_u457_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/1行2列_u457.png",
+                                "selected~":"images/sql开发中心/regen/1行2列_u457_selected.png"}},
 {
                               "id":"70d7ee620e4148479b533fedbfa6b972",
                               "label":"1行4列",
@@ -15110,8 +15110,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/1行4列_u1651.png",
-                                "selected~":"images/新建任务/1行4列_u1651_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/1行4列_u459.png",
+                                "selected~":"images/sql开发中心/regen/1行4列_u459_selected.png"}},
 {
                               "id":"0f20a7d891ea4adeaa6a02e111b2734c",
                               "label":"1行7列",
@@ -15158,8 +15158,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/1行7列_u1653.png",
-                                "selected~":"images/新建任务/1行7列_u1653_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/1行7列_u461.png",
+                                "selected~":"images/sql开发中心/regen/1行7列_u461_selected.png"}},
 {
                               "id":"c7e68397fabd4cf39c3509132c136fdd",
                               "label":"1行8列",
@@ -15206,8 +15206,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/新建任务/1行8列_u1655.png",
-                                "selected~":"images/新建任务/1行8列_u1655_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/1行8列_u463.png",
+                                "selected~":"images/sql开发中心/regen/1行8列_u463_selected.png"}},
 {
                               "id":"7aaf38facbcd4acda2eaf3595a3c17ce",
                               "label":"1行9列",
@@ -15254,8 +15254,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/1行9列_u465.png",
-                                "selected~":"images/sql开发中心/1行9列_u465_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/1行9列_u465.png",
+                                "selected~":"images/sql开发中心/regen/1行9列_u465_selected.png"}},
 {
                               "id":"ab6ea6367a1f454fbd956a04abbbbdec",
                               "label":"",
@@ -15302,8 +15302,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u439.png",
-                                "selected~":"images/sql开发中心/u439_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u439.png",
+                                "selected~":"images/sql开发中心/regen/u439_selected.png"}},
 {
                               "id":"8b06e69679444acf9da4afe24f09a870",
                               "label":"1行1列",
@@ -15350,8 +15350,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/1行1列_u455.png",
-                                "selected~":"images/sql开发中心/1行1列_u455_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/1行1列_u455.png",
+                                "selected~":"images/sql开发中心/regen/1行1列_u455_selected.png"}},
 {
                               "id":"a017eaad217440c6a1e5c6c34f306249",
                               "label":"2行1列",
@@ -15398,9 +15398,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/2行1列_u471.png",
-                                "selected~":"images/sql开发中心/1行1列_u455_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行1列_u471_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/2行1列_u471.png",
+                                "selected~":"images/sql开发中心/regen/1行1列_u455_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/2行1列_u471_mouseOver.png"}},
 {
                               "id":"f965b7021cf24913b70a657130e4f1ad",
                               "label":"3行1列",
@@ -15447,8 +15447,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/3行1列_u487.png",
-                                "selected~":"images/sql开发中心/3行1列_u487_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/3行1列_u487.png",
+                                "selected~":"images/sql开发中心/regen/3行1列_u487_selected.png"}},
 {
                               "id":"995c359fa57f46829e3bfe941c0e18e8",
                               "label":"",
@@ -15497,8 +15497,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u451.png",
-                                "selected~":"images/sql开发中心/u451_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u451.png",
+                                "selected~":"images/sql开发中心/regen/u451_selected.png"}},
 {
                               "id":"2c41254ab32647748606d9030cde9d55",
                               "label":"",
@@ -15545,8 +15545,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u467.png",
-                                "selected~":"images/sql开发中心/u467_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u467.png",
+                                "selected~":"images/sql开发中心/regen/u467_selected.png"}},
 {
                               "id":"c8367c66436b4b15b6610404ac7f1874",
                               "label":"",
@@ -15593,9 +15593,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u483.png",
-                                "selected~":"images/sql开发中心/u467_selected.png",
-                                "mouseOver~":"images/sql开发中心/u483_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/u483.png",
+                                "selected~":"images/sql开发中心/regen/u467_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/u483_mouseOver.png"}},
 {
                               "id":"31588e9c818d40f79f8e7491f33ebbcd",
                               "label":"",
@@ -15642,8 +15642,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u499.png",
-                                "selected~":"images/sql开发中心/u499_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u499.png",
+                                "selected~":"images/sql开发中心/regen/u499_selected.png"}},
 {
                               "id":"c8316c5da2494c47b75ebb9a55ce0992",
                               "label":"",
@@ -15684,8 +15684,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u437.png",
-                                "selected~":"images/sql开发中心/u437_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u437.png",
+                                "selected~":"images/sql开发中心/regen/u437_selected.png"}},
 {
                               "id":"a627c06596fc4ffc847f310f3b6572ac",
                               "label":"",
@@ -15732,8 +15732,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u453.png",
-                                "selected~":"images/sql开发中心/u453_selected.png"}},
+                                "normal~":"images/sql开发中心/regen/u453.png",
+                                "selected~":"images/sql开发中心/regen/u453_selected.png"}},
 {
                               "id":"d5b1dc49ec1547d2997c0fdcb1aad714",
                               "label":"",
@@ -15780,9 +15780,9 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u469.png",
-                                "selected~":"images/sql开发中心/u453_selected.png",
-                                "mouseOver~":"images/sql开发中心/u469_mouseOver.png"}},
+                                "normal~":"images/sql开发中心/regen/u469.png",
+                                "selected~":"images/sql开发中心/regen/u453_selected.png",
+                                "mouseOver~":"images/sql开发中心/regen/u469_mouseOver.png"}},
 {
                               "id":"304371bf560a4f23b1ed7727229b320f",
                               "label":"",
@@ -15829,8 +15829,8 @@
                                   "adaptiveStyles":{
 }}],
                               "images":{
-                                "normal~":"images/sql开发中心/u485.png",
-                                "selected~":"images/sql开发中心/u485_selected.png"}}]},
+                                "normal~":"images/sql开发中心/regen/u485.png",
+                                "selected~":"images/sql开发中心/regen/u485_selected.png"}}]},
 {
                           "id":"6fd1c82be8ea4b2ca0896063c44ae133",
                           "label":"<label>",
@@ -15928,7 +15928,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u223.png"}},
+                            "normal~":"images/sql开发中心/regen/u503.png"}},
 {
                           "id":"2a559c5248444ba6867373a85094257a",
                           "label":"",
@@ -15976,9 +15976,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u223.png",
-                            "selected~":"images/任务管理/u225_selected.png",
-                            "mouseOver~":"images/任务管理/u225_selected.png"}},
+                            "normal~":"images/sql开发中心/regen/u503.png",
+                            "selected~":"images/sql开发中心/regen/u505_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/u505_selected.png"}},
 {
                           "id":"54741f3b91e44ba7bd63a91fcc6ffd1a",
                           "label":"2",
@@ -16025,7 +16025,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u223.png"}},
+                            "normal~":"images/sql开发中心/regen/u503.png"}},
 {
                           "id":"02a5383fa7ea4c6a8a636e674ab13b5f",
                           "label":"3",
@@ -16074,7 +16074,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/3_u229.png"}},
+                            "normal~":"images/sql开发中心/regen/3_u509.png"}},
 {
                           "id":"f94c793d35be48159f080fdb876f3a1b",
                           "label":"1",
@@ -16138,7 +16138,7 @@
                                   "isNewIfGroup":false,
                                   "actions":[]}]}},
                           "images":{
-                            "normal~":"images/任务管理/1_u231.png"}},
+                            "normal~":"images/sql开发中心/regen/1_u511.png"}},
 {
                           "id":"7d3847ec9e954f48b249a6fece0d48b9",
                           "label":"",
@@ -16185,7 +16185,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u223.png"}},
+                            "normal~":"images/sql开发中心/regen/u503.png"}},
 {
                           "id":"46c870bc16a8488093d4e54c5cf92ca7",
                           "label":"刷新",
@@ -16230,7 +16230,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/刷新_u235.png"}},
+                            "normal~":"images/sql开发中心/regen/刷新_u515.png"}},
 {
                           "id":"d6879740f43b45ce972700f73cc086d7",
                           "label":"",
@@ -16265,7 +16265,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u237.png"}},
+                            "normal~":"images/sql开发中心/regen/u517.png"}},
 {
                           "id":"970e1f1e6993439a8938f03bf705cf03",
                           "label":"",
@@ -16300,7 +16300,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u239.png"}},
+                            "normal~":"images/sql开发中心/regen/u519.png"}},
 {
                           "id":"81b1294b16274f3ca72eaa44dba6fe7c",
                           "label":"",
@@ -16335,7 +16335,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u241.png"}},
+                            "normal~":"images/sql开发中心/regen/u521.png"}},
 {
                           "id":"34ea9f81cebc43239e4d2c0866adee57",
                           "label":"",
@@ -16370,7 +16370,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u243.png"}},
+                            "normal~":"images/sql开发中心/regen/u523.png"}},
 {
                           "id":"b91923d8de504b3abff3dac83066a4bf",
                           "label":"输入框",
@@ -16433,10 +16433,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/输入框_u245.png",
-                            "selected~":"images/任务管理/输入框_u245_selected.png",
-                            "mouseDown~":"images/任务管理/输入框_u245_selected.png",
-                            "disabled~":"images/任务管理/输入框_u245_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框_u525.png",
+                            "selected~":"images/sql开发中心/regen/输入框_u525_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框_u525_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框_u525_disabled.png"}},
 {
                           "id":"d6df433eb67344a3a035c563a2d6d5d4",
                           "label":"文字区域",
@@ -16764,10 +16764,10 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"2d4b1552ede5409ba072ff69314d2fba",
                           "label":".按钮2",
@@ -16832,9 +16832,9 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"2d6f8056799e4f0aa93121301a40a202",
                           "label":".按钮2",
@@ -16883,9 +16883,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"4210418d4459469bb61f35abf8657a04",
                           "label":"1",
@@ -17371,7 +17371,7 @@
                                               "compress":false}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/u547.png"}}],
+                            "normal~":"images/sql开发中心/regen/u547.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -17467,7 +17467,7 @@
                                               "compress":false}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/u549.png"}}],
+                            "normal~":"images/sql开发中心/regen/u549.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -17565,7 +17565,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/u551.png"}},
+                    "normal~":"images/sql开发中心/regen/u551.png"}},
 {
                   "id":"a935e6e3547e404c91fb58bbe6d11065",
                   "label":"",
@@ -17680,7 +17680,7 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/u555.png"}}],
+                    "normal~":"images/sql开发中心/regen/u555.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -17735,7 +17735,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u557.png"}},
+                    "normal~":"images/sql开发中心/regen/u557.png"}},
 {
                   "id":"3b675067356a4990a29bf32282bc2be6",
                   "label":"",
@@ -17782,7 +17782,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u559.png"}},
+                    "normal~":"images/sql开发中心/regen/u559.png"}},
 {
                   "id":"5632261e7c394ecb9fa1bf83c3aab506",
                   "label":"",
@@ -17819,7 +17819,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u163.png"}},
+                    "normal~":"images/sql开发中心/regen/u163.png"}},
 {
                   "id":"69ad05330ee34b598670a19964df45c4",
                   "label":"",
@@ -18030,11 +18030,11 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/输入框_u567.png",
-                    "selected~":"images/sql开发中心/输入框_u567_selected.png",
-                    "mouseOver~":"images/sql开发中心/输入框_u567_selected.png",
-                    "mouseDown~":"images/sql开发中心/输入框_u567_selected.png",
-                    "disabled~":"images/sql开发中心/输入框_u567_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/输入框_u567.png",
+                    "selected~":"images/sql开发中心/regen/输入框_u567_selected.png",
+                    "mouseOver~":"images/sql开发中心/regen/输入框_u567_selected.png",
+                    "mouseDown~":"images/sql开发中心/regen/输入框_u567_selected.png",
+                    "disabled~":"images/sql开发中心/regen/输入框_u567_disabled.png"}},
 {
                   "id":"dd9367b421d44008bf9d2ebc4cf7a28f",
                   "label":"",
@@ -18335,7 +18335,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/搜索悬停_u285.png"}}],
+                            "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -18398,7 +18398,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/搜索默认_u46.png"}}],
+                            "normal~":"images/sql开发中心/regen/搜索默认_u46.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -18490,7 +18490,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u35.png"}},
+                    "normal~":"images/sql开发中心/regen/u35.png"}},
 {
                   "id":"21bf1bdb817b49d9b3a971bad5605f11",
                   "label":"SQL内容",
@@ -18550,7 +18550,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u106.png"}},
+                            "normal~":"images/sql开发中心/regen/u106.png"}},
 {
                           "id":"c60412b8b0134ec69dce64084ace6d3c",
                           "label":"",
@@ -19122,11 +19122,11 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/查找输入框_u77.png",
-                            "selected~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseOver~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseDown~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "disabled~":"images/sql开发中心/查找输入框_u77_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/查找输入框_u77.png",
+                            "selected~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "disabled~":"images/sql开发中心/regen/查找输入框_u77_disabled.png"}},
 {
                           "id":"5b8974e628504f4ab240ffc8bd5ab717",
                           "label":"查找",
@@ -19429,7 +19429,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/任务管理/搜索悬停_u285.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -19493,7 +19493,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/搜索默认_u46.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索默认_u46.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -19526,7 +19526,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u86_line.png"}},
+                            "line~":"images/sql开发中心/regen/u86_line.png"}},
 {
                           "id":"6d49e279742944699b1d366b69a0d346",
                           "label":"标签2",
@@ -19677,10 +19677,10 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/标签1_u88.png",
-                                    "selected~":"images/sql开发中心/标签1_u88_selected.png",
-                                    "mouseOver~":"images/sql开发中心/标签1_u88_mouseOver.png",
-                                    "mouseDown~":"images/sql开发中心/标签1_u88_mouseOver.png"}},
+                                    "normal~":"images/sql开发中心/regen/标签1_u88.png",
+                                    "selected~":"images/sql开发中心/regen/标签1_u88_selected.png",
+                                    "mouseOver~":"images/sql开发中心/regen/标签1_u88_mouseOver.png",
+                                    "mouseDown~":"images/sql开发中心/regen/标签1_u88_mouseOver.png"}},
 {
                                   "id":"c84fd2e76bd44c259e07c8db9bc7f47d",
                                   "label":"2",
@@ -19723,7 +19723,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/2_u90.png"}},
+                                    "normal~":"images/sql开发中心/regen/2_u90.png"}},
 {
                                   "id":"86c97970300b4c139e98a049f2fe4fa9",
                                   "label":"1-2",
@@ -19766,7 +19766,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/1-2_u92.png"}}],
+                                    "normal~":"images/sql开发中心/regen/1-2_u92.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -19922,10 +19922,10 @@
                                                       "showType":"none"}}}]}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/标签1_u95.png",
-                                    "selected~":"images/sql开发中心/标签1_u95_selected.png",
-                                    "mouseOver~":"images/sql开发中心/标签1_u95_selected.png",
-                                    "mouseDown~":"images/sql开发中心/标签1_u95_mouseDown.png"}},
+                                    "normal~":"images/sql开发中心/regen/标签1_u95.png",
+                                    "selected~":"images/sql开发中心/regen/标签1_u95_selected.png",
+                                    "mouseOver~":"images/sql开发中心/regen/标签1_u95_selected.png",
+                                    "mouseDown~":"images/sql开发中心/regen/标签1_u95_mouseDown.png"}},
 {
                                   "id":"aeaf585ffc134b4a9beabd9adc43aa19",
                                   "label":"1",
@@ -19966,7 +19966,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/1_u97.png"}},
+                                    "normal~":"images/sql开发中心/regen/1_u97.png"}},
 {
                                   "id":"983b28770452484c9f3460d497ec58b7",
                                   "label":"1-1",
@@ -20011,7 +20011,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/1-1_u99.png"}}],
+                                    "normal~":"images/sql开发中心/regen/1-1_u99.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -20216,7 +20216,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u106.png"}},
+                            "normal~":"images/sql开发中心/regen/u106.png"}},
 {
                           "id":"47631edec0fd4ba396c0393e8825a529",
                           "label":"",
@@ -20780,11 +20780,11 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/查找输入框_u77.png",
-                            "selected~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseOver~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "mouseDown~":"images/sql开发中心/查找输入框_u77_selected.png",
-                            "disabled~":"images/sql开发中心/查找输入框_u77_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/查找输入框_u77.png",
+                            "selected~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/查找输入框_u77_selected.png",
+                            "disabled~":"images/sql开发中心/regen/查找输入框_u77_disabled.png"}},
 {
                           "id":"6afafb4807ea471abc4cda9e8763b8e6",
                           "label":"查找",
@@ -21087,7 +21087,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/任务管理/搜索悬停_u285.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -21151,7 +21151,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/搜索默认_u46.png"}}],
+                                    "normal~":"images/sql开发中心/regen/搜索默认_u46.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -21214,7 +21214,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u139.png"}},
+                    "normal~":"images/sql开发中心/regen/u139.png"}},
 {
                   "id":"8aadf36a1875406d9b93fb9d53d7143d",
                   "label":"",
@@ -21367,7 +21367,7 @@
                                   "panelPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
                                   "stateInfo":{
                                     "setStateType":"diagram",
-                                    "stateNumber":6,
+                                    "stateNumber":3,
                                     "stateValue":{
                                       "exprType":"stringLiteral",
                                       "value":"1",
@@ -21378,9 +21378,9 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/按钮2_u114.png",
-                    "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                    "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                   "id":"52d9183b7c1a4d0c894318790d3b674e",
                   "label":"按钮2",
@@ -21463,7 +21463,7 @@
                                   "panelPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
                                   "stateInfo":{
                                     "setStateType":"diagram",
-                                    "stateNumber":7,
+                                    "stateNumber":4,
                                     "stateValue":{
                                       "exprType":"stringLiteral",
                                       "value":"1",
@@ -21474,9 +21474,9 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/按钮2_u145.png",
-                    "mouseOver~":"images/sql开发中心/按钮2_u145_mouseOver.png",
-                    "disabled~":"images/sql开发中心/按钮2_u145_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u145.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u145_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u145_disabled.png"}},
 {
                   "id":"99486171b0f54b979d32b8398000f8f7",
                   "label":"按钮2",
@@ -21533,9 +21533,9 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/按钮2_u114.png",
-                    "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                    "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                   "id":"07f318c2baa545d694d88344146e77f3",
                   "label":"按钮2",
@@ -21592,9 +21592,9 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/按钮2_u114.png",
-                    "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                    "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                   "id":"0ce1bbaf4c59441797201622650e810a",
                   "label":"",
@@ -21637,7 +21637,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/u139.png"}},
+                    "normal~":"images/sql开发中心/regen/u139.png"}},
 {
                   "id":"5a35db1f6a2a42f2ad1811cc191d8a94",
                   "label":"",
@@ -21777,7 +21777,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/sql开发中心/u194_line.png"}},
+                    "line~":"images/sql开发中心/regen/u194_line.png"}},
 {
                   "id":"9db523987e4749118788488dddfdcb03",
                   "label":"",
@@ -22098,2205 +22098,6 @@
                   "fitToContent":true,
                   "propagate":false,
                   "diagrams":[{
-                      "id":"c8144d25197949ae9dd71079b86fac69",
-                      "label":"创建输入",
-                      "type":"Axure:PanelDiagram",
-                      "objects":[{
-                          "id":"672ad9a4e5e042348c9d3db95bffdd8b",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "size":{
-                              "width":830,
-                              "height":580},
-                            "borderWidth":"-1",
-                            "outerShadow":{
-                              "on":true,
-                              "offsetX":5,
-                              "offsetY":5,
-                              "blurRadius":5,
-                              "color":{
-                                "r":0,
-                                "g":0,
-                                "b":0,
-                                "a":0.349019607843137}}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"e1497f507903492d9091f7fda21b1ff0",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "size":{
-                                  "width":830,
-                                  "height":580},
-                                "borderWidth":"-1",
-                                "outerShadow":{
-                                  "on":true,
-                                  "offsetX":5,
-                                  "offsetY":5,
-                                  "blurRadius":5,
-                                  "color":{
-                                    "r":0,
-                                    "g":0,
-                                    "b":0,
-                                    "a":0.349019607843137}}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
-{
-                          "id":"a2da8343f8f444de834aa830c46a78b0",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Arial Negreta', 'Arial'",
-                            "fontSize":"13px",
-                            "fontWeight":"700",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":7,
-                              "y":10},
-                            "size":{
-                              "width":53,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"73c0f83e55094aa2831645d2196638aa",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Arial Negreta', 'Arial'",
-                                "fontSize":"13px",
-                                "fontWeight":"700",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":7,
-                                  "y":10},
-                                "size":{
-                                  "width":53,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"2ab1cd32415b42858cb27b6965abae30",
-                          "label":"按钮1",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei'",
-                            "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
-                            "stateStyles":{
-                              "mouseOver":{
-                                "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                              "mouseDown":{
-                                "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                              "disabled":{
-                                "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
-                            "location":{
-                              "x":269,
-                              "y":528},
-                            "size":{
-                              "width":65,
-                              "height":32},
-                            "borderWidth":"-1",
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFFFFF},
-                            "linePattern":"none"},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"87ae293065eb48f59879070afc211f6b",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                                  "mouseDown":{
-                                    "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                                  "disabled":{
-                                    "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
-                                "location":{
-                                  "x":269,
-                                  "y":528},
-                                "size":{
-                                  "width":65,
-                                  "height":32},
-                                "borderWidth":"-1",
-                                "borderFill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "linePattern":"none"},
-                              "adaptiveStyles":{
-}}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"隐藏 创建内容111",
-                                      "objectsToFades":[{
-                                          "objectPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]}},
-                          "tabbable":true,
-                          "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
-{
-                          "id":"fa004ba49f364987a66f2e32a91cf47b",
-                          "label":"按钮2",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei'",
-                            "baseStyle":"8a8065df3960467786ec2e2b753983d3",
-                            "stateStyles":{
-                              "mouseOver":{
-                                "baseStyle":"64f55b4d653348978fa3cd3bcd5dc922"},
-                              "disabled":{
-                                "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
-                            "location":{
-                              "x":360,
-                              "y":528},
-                            "size":{
-                              "width":65,
-                              "height":32}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"451e30ba871447e68d2869f4ae9463f5",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"8a8065df3960467786ec2e2b753983d3",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"64f55b4d653348978fa3cd3bcd5dc922"},
-                                  "disabled":{
-                                    "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
-                                "location":{
-                                  "x":360,
-                                  "y":528},
-                                "size":{
-                                  "width":65,
-                                  "height":32}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
-{
-                          "id":"17ee2a929892464cadc84cf9b42d7397",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":7,
-                              "y":29},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"97a52d83820d4b348e2f485b88d78ea8",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"imageBox",
-                          "styleType":"imageBox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":791,
-                              "y":8},
-                            "size":{
-                              "width":26,
-                              "height":23}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"f1d0ba3552d74ef39009af5080d092bd",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":791,
-                                  "y":8},
-                                "size":{
-                                  "width":26,
-                                  "height":23}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
-{
-                          "id":"b3082d8c34f042f39f96aa321520d1d0",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"table",
-                          "styleType":"table",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":7,
-                              "y":100},
-                            "size":{
-                              "width":803,
-                              "height":162}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"5bb60fc2c8894a5a810331915418a427",
-                              "label":"1行1列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":0,
-                                  "y":40},
-                                "size":{
-                                  "width":42,
-                                  "height":39}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"2d1fa592ef3a472d878b93104c54124e",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":0,
-                                      "y":40},
-                                    "size":{
-                                      "width":42,
-                                      "height":39}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/1行1列_u725.png",
-                                "selected~":"images/sql开发中心/1行1列_u725_selected.png"}},
-{
-                              "id":"d86de24003ef4c9caf4e5bf14190d68a",
-                              "label":"1行2列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":42,
-                                  "y":40},
-                                "size":{
-                                  "width":171,
-                                  "height":39}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"c749393a50794b09bc720edca6fe6dd9",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":42,
-                                      "y":40},
-                                    "size":{
-                                      "width":171,
-                                      "height":39}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/1行2列_u727.png",
-                                "selected~":"images/sql开发中心/1行2列_u727_selected.png"}},
-{
-                              "id":"ef7fc18d34644a12b9b23993b9ed12e9",
-                              "label":"1行3列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":213,
-                                  "y":40},
-                                "size":{
-                                  "width":183,
-                                  "height":39}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"2e044792b0e84f2b9c8bf80eb6e9fc50",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":213,
-                                      "y":40},
-                                    "size":{
-                                      "width":183,
-                                      "height":39}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/1行3列_u729.png",
-                                "selected~":"images/sql开发中心/1行3列_u729_selected.png"}},
-{
-                              "id":"e1c0920890a54bb9969d4f39f6ae3632",
-                              "label":"1行4列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":396,
-                                  "y":40},
-                                "size":{
-                                  "width":94,
-                                  "height":39}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"2077b1371e9f414da221df16734fb709",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":396,
-                                      "y":40},
-                                    "size":{
-                                      "width":94,
-                                      "height":39}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/1行4列_u731.png",
-                                "selected~":"images/sql开发中心/1行4列_u731_selected.png"}},
-{
-                              "id":"353a77cac0cd48e2b0702d001a4508b0",
-                              "label":"1行5列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":490,
-                                  "y":40},
-                                "size":{
-                                  "width":94,
-                                  "height":39}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"c2240ae9cc3e4cce9b5976a71f031ac5",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":490,
-                                      "y":40},
-                                    "size":{
-                                      "width":94,
-                                      "height":39}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/1行4列_u731.png",
-                                "selected~":"images/sql开发中心/1行4列_u731_selected.png"}},
-{
-                              "id":"080c353d31f8489eab2afb4bbd282d3e",
-                              "label":"1行6列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":584,
-                                  "y":40},
-                                "size":{
-                                  "width":219,
-                                  "height":39}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"e901a68966b34ebd859e27e0663ae91f",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":584,
-                                      "y":40},
-                                    "size":{
-                                      "width":219,
-                                      "height":39}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/1行6列_u735.png",
-                                "selected~":"images/sql开发中心/1行6列_u735_selected.png"}},
-{
-                              "id":"2be14c4a36c84ffbaac79c92b3177861",
-                              "label":"2行1列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":0,
-                                  "y":79},
-                                "size":{
-                                  "width":42,
-                                  "height":41}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"c3b08928249e411b896824bf72ce8bdf",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":0,
-                                      "y":79},
-                                    "size":{
-                                      "width":42,
-                                      "height":41}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/2行1列_u737.png",
-                                "selected~":"images/sql开发中心/2行1列_u737_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行1列_u737_mouseOver.png"}},
-{
-                              "id":"0eda8ad966844b52ab3eb8f5a5a60d85",
-                              "label":"2行2列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":42,
-                                  "y":79},
-                                "size":{
-                                  "width":171,
-                                  "height":41}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"58db710384314a0092b38824cecbdf6a",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":42,
-                                      "y":79},
-                                    "size":{
-                                      "width":171,
-                                      "height":41}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/2行2列_u739.png",
-                                "selected~":"images/sql开发中心/2行2列_u739_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行2列_u739_mouseOver.png"}},
-{
-                              "id":"0aa1e32a8355470cb5b61f6e01fa71f3",
-                              "label":"2行3列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":213,
-                                  "y":79},
-                                "size":{
-                                  "width":183,
-                                  "height":41}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"e8334da608a8455898a5f02887712d65",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":213,
-                                      "y":79},
-                                    "size":{
-                                      "width":183,
-                                      "height":41}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/2行3列_u741.png",
-                                "selected~":"images/sql开发中心/2行3列_u741_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行3列_u741_mouseOver.png"}},
-{
-                              "id":"120977c4b6b34d4089e232befbe4436a",
-                              "label":"2行4列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":396,
-                                  "y":79},
-                                "size":{
-                                  "width":94,
-                                  "height":41}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"513b70c5ab304c89ac28024ad875d010",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":396,
-                                      "y":79},
-                                    "size":{
-                                      "width":94,
-                                      "height":41}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/2行4列_u743.png",
-                                "selected~":"images/sql开发中心/2行4列_u743_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行4列_u743_mouseOver.png"}},
-{
-                              "id":"027937cf93c241949aa1fc4589789e3d",
-                              "label":"2行5列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":490,
-                                  "y":79},
-                                "size":{
-                                  "width":94,
-                                  "height":41}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"6b68e1e3d6df405087f3cd84adb64fc0",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":490,
-                                      "y":79},
-                                    "size":{
-                                      "width":94,
-                                      "height":41}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/2行4列_u743.png",
-                                "selected~":"images/sql开发中心/2行4列_u743_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行4列_u743_mouseOver.png"}},
-{
-                              "id":"7c6b3e46d11944bcb2070584b4586442",
-                              "label":"2行6列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":584,
-                                  "y":79},
-                                "size":{
-                                  "width":219,
-                                  "height":41}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"e30b89a2df6045198d3258f6bf5eb680",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d5ea84dc9f149d4a6d725634ebdcfe5",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "baseStyle":"71b013c767764d94bce2a7da0cfc2444"},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":584,
-                                      "y":79},
-                                    "size":{
-                                      "width":219,
-                                      "height":41}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/2行6列_u747.png",
-                                "selected~":"images/sql开发中心/2行6列_u747_selected.png",
-                                "mouseOver~":"images/sql开发中心/2行6列_u747_mouseOver.png"}},
-{
-                              "id":"ef69637456be4db0aa78727c3162293b",
-                              "label":"3行1列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":0,
-                                  "y":120},
-                                "size":{
-                                  "width":42,
-                                  "height":42}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"bb7ab2f729954d789d9209ef015c7690",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":0,
-                                      "y":120},
-                                    "size":{
-                                      "width":42,
-                                      "height":42}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/3行1列_u749.png",
-                                "selected~":"images/sql开发中心/3行1列_u749_selected.png"}},
-{
-                              "id":"e77adaa23b734c08978ca3daed0c435e",
-                              "label":"3行2列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":42,
-                                  "y":120},
-                                "size":{
-                                  "width":171,
-                                  "height":42}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"0a7813224dc14f0aa66f97819e08c77e",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":42,
-                                      "y":120},
-                                    "size":{
-                                      "width":171,
-                                      "height":42}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/3行2列_u751.png",
-                                "selected~":"images/sql开发中心/3行2列_u751_selected.png"}},
-{
-                              "id":"8116443f42104516a4dfe8c38694c295",
-                              "label":"3行3列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":213,
-                                  "y":120},
-                                "size":{
-                                  "width":183,
-                                  "height":42}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"7a726b8211cb45368bd5a1eaa0f742a0",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":213,
-                                      "y":120},
-                                    "size":{
-                                      "width":183,
-                                      "height":42}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/3行3列_u753.png",
-                                "selected~":"images/sql开发中心/3行3列_u753_selected.png"}},
-{
-                              "id":"418aa44c8def4fae92322e4e27b21c5e",
-                              "label":"3行4列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":396,
-                                  "y":120},
-                                "size":{
-                                  "width":94,
-                                  "height":42}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"bfeb3c1eda8c4123803cb82d39ebb7a5",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":396,
-                                      "y":120},
-                                    "size":{
-                                      "width":94,
-                                      "height":42}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/3行4列_u755.png",
-                                "selected~":"images/sql开发中心/3行4列_u755_selected.png"}},
-{
-                              "id":"f0ac2ebdc3414f05825a879bb8f10c1b",
-                              "label":"3行5列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":490,
-                                  "y":120},
-                                "size":{
-                                  "width":94,
-                                  "height":42}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"c4890b7308c442839bec9207fd094b7b",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":490,
-                                      "y":120},
-                                    "size":{
-                                      "width":94,
-                                      "height":42}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/3行4列_u755.png",
-                                "selected~":"images/sql开发中心/3行4列_u755_selected.png"}},
-{
-                              "id":"3b843a87bb2b4c119f83971f7aca6a27",
-                              "label":"3行6列",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":584,
-                                  "y":120},
-                                "size":{
-                                  "width":219,
-                                  "height":42}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"898759f7161240179b609da5716f99cb",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"797c89b59b344e7eb9865f796bf6821e",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":584,
-                                      "y":120},
-                                    "size":{
-                                      "width":219,
-                                      "height":42}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/3行6列_u759.png",
-                                "selected~":"images/sql开发中心/3行6列_u759_selected.png"}},
-{
-                              "id":"7203b03fbc6e459f9195ec3112fe1e87",
-                              "label":"",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "baseStyle":"3f16fa0d143040468230063abc899202",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "size":{
-                                  "width":42,
-                                  "height":40}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"53db6bfa148b4379b8e84aaaaf679e94",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"3f16fa0d143040468230063abc899202",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "size":{
-                                      "width":42,
-                                      "height":40}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/u713.png",
-                                "selected~":"images/sql开发中心/u713_selected.png"}},
-{
-                              "id":"2e64148e465240e9aef09bbbbd3aa0ab",
-                              "label":"",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"3f16fa0d143040468230063abc899202",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":42,
-                                  "y":0},
-                                "size":{
-                                  "width":171,
-                                  "height":40}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"7fdaf0f34242437db6689ff64f2bdd65",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Microsoft YaHei'",
-                                    "baseStyle":"3f16fa0d143040468230063abc899202",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":42,
-                                      "y":0},
-                                    "size":{
-                                      "width":171,
-                                      "height":40}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/u715.png",
-                                "selected~":"images/sql开发中心/u715_selected.png"}},
-{
-                              "id":"b963bc60ee0f498c85045e00d4d23b1b",
-                              "label":"",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"3f16fa0d143040468230063abc899202",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":213,
-                                  "y":0},
-                                "size":{
-                                  "width":183,
-                                  "height":40}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"75c54ab5186340e3b7c5a53463cd7a28",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Microsoft YaHei'",
-                                    "baseStyle":"3f16fa0d143040468230063abc899202",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":213,
-                                      "y":0},
-                                    "size":{
-                                      "width":183,
-                                      "height":40}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/u717.png",
-                                "selected~":"images/sql开发中心/u717_selected.png"}},
-{
-                              "id":"3c7f1da8ae2d48538b30471827d8001d",
-                              "label":"",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"3f16fa0d143040468230063abc899202",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":396,
-                                  "y":0},
-                                "size":{
-                                  "width":94,
-                                  "height":40}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"e09e6f7004874aa2b45bc510d38a659f",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Microsoft YaHei'",
-                                    "baseStyle":"3f16fa0d143040468230063abc899202",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":396,
-                                      "y":0},
-                                    "size":{
-                                      "width":94,
-                                      "height":40}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/u719.png",
-                                "selected~":"images/sql开发中心/u719_selected.png"}},
-{
-                              "id":"45edf65d678e4da58df86f72036e597a",
-                              "label":"",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"3f16fa0d143040468230063abc899202",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":490,
-                                  "y":0},
-                                "size":{
-                                  "width":94,
-                                  "height":40}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"146c3a521af845a1adb0d1ff0f2ef6ba",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Microsoft YaHei'",
-                                    "baseStyle":"3f16fa0d143040468230063abc899202",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":490,
-                                      "y":0},
-                                    "size":{
-                                      "width":94,
-                                      "height":40}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/u719.png",
-                                "selected~":"images/sql开发中心/u719_selected.png"}},
-{
-                              "id":"14d190bfe5cd4ea39592990a6184d72a",
-                              "label":"",
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"tableCell",
-                              "styleType":"tableCell",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"3f16fa0d143040468230063abc899202",
-                                "stateStyles":{
-                                  "mouseOver":{
-},
-                                  "selected":{
-                                    "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                "location":{
-                                  "x":584,
-                                  "y":0},
-                                "size":{
-                                  "width":219,
-                                  "height":40}},
-                              "adaptiveStyles":{
-},
-                              "objects":[{
-                                  "id":"40fe4dcabbb646ab90e8f528f9a15d74",
-                                  "label":"",
-                                  "isContained":true,
-                                  "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                                  "type":"richTextPanel",
-                                  "styleType":"paragraph",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Microsoft YaHei'",
-                                    "baseStyle":"3f16fa0d143040468230063abc899202",
-                                    "stateStyles":{
-                                      "mouseOver":{
-},
-                                      "selected":{
-                                        "baseStyle":"bf5f3363077a4bb1870ae94f307023b7"}},
-                                    "location":{
-                                      "x":584,
-                                      "y":0},
-                                    "size":{
-                                      "width":219,
-                                      "height":40}},
-                                  "adaptiveStyles":{
-}}],
-                              "images":{
-                                "normal~":"images/sql开发中心/u723.png",
-                                "selected~":"images/sql开发中心/u723_selected.png"}}]},
-{
-                          "id":"e4b00c63440741efb61b0e81ccca8175",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":10,
-                              "y":500},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"34b3f5b309fc45fd8546fae540effdc0",
-                          "label":"3",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"checkbox",
-                          "styleType":"checkbox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":20,
-                              "y":113},
-                            "size":{
-                              "width":16,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"56625e1226734b0582d93ddb76501399",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":20,
-                                  "y":113},
-                                "size":{
-                                  "width":16,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"a972f82429414d10a0f33a0c46f47c96",
-                          "label":"4",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"checkbox",
-                          "styleType":"checkbox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":20,
-                              "y":154},
-                            "size":{
-                              "width":16,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"bbbb078da76f4b4b902d489fea2eabb9",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":20,
-                                  "y":154},
-                                "size":{
-                                  "width":16,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"ba0d4b0329ab4dfebfe0cccbc176d023",
-                          "label":"4",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"checkbox",
-                          "styleType":"checkbox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":20,
-                              "y":190},
-                            "size":{
-                              "width":16,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"efab6573b7a14846a008cbcb0f847c32",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":20,
-                                  "y":190},
-                                "size":{
-                                  "width":16,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"66b03553604a412bbbdec1dc729b262b",
-                          "label":"4",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"checkbox",
-                          "styleType":"checkbox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":20,
-                              "y":234},
-                            "size":{
-                              "width":16,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"b50bec84d4a546ee9ec7f322f6c69b30",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":20,
-                                  "y":234},
-                                "size":{
-                                  "width":16,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"8985ecf7037f4e4684a15847064cf100",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontSize":"13px",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":15,
-                              "y":61},
-                            "size":{
-                              "width":196,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"22cb3bd9024741fba1949a2dac704d74",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontSize":"13px",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":15,
-                                  "y":61},
-                                "size":{
-                                  "width":196,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"973dd1bb4dc9450daa80dbeb2f56e3d8",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":7,
-                              "y":80},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"ff7c176a23cf482ebc0e62c92724beeb",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontSize":"13px",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":10,
-                              "y":291},
-                            "size":{
-                              "width":53,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"1fd3e5794ae948a090df870d68b45dcd",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontSize":"13px",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":10,
-                                  "y":291},
-                                "size":{
-                                  "width":53,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"0b01cb6f062d4d75bf441416feb57f08",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":7,
-                              "y":310},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"8cbb76aff014473c9e7c14dde40ff9cc",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontSize":"13px",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":27,
-                              "y":341},
-                            "size":{
-                              "width":235,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"4693bbda5c034376a6a18586f95bde6a",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontSize":"13px",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":27,
-                                  "y":341},
-                                "size":{
-                                  "width":235,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"187b93a276c74a308baf84260560a57c",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"paragraph",
-                          "visible":true,
-                          "style":{
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFFFF0000,
-                              "opacity":1},
-                            "location":{
-                              "x":160,
-                              "y":240},
-                            "size":{
-                              "width":200,
-                              "height":32}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"6d44c9d468d54981822c4bc57dd64097",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFF0000,
-                                  "opacity":1},
-                                "location":{
-                                  "x":160,
-                                  "y":240},
-                                "size":{
-                                  "width":200,
-                                  "height":32}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}}],
-                      "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
-                        "image":null,
-                        "imageHorizontalAlignment":"near",
-                        "imageVerticalAlignment":"near",
-                        "imageRepeat":"auto"},
-                      "adaptiveStyles":{
-}},
-{
-                      "id":"2ee68e4fce6c40c89e8257356dc65039",
-                      "label":"创建输出",
-                      "type":"Axure:PanelDiagram",
-                      "objects":[{
-                          "id":"2c60040c3e024a88886d7791fc5d908b",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "size":{
-                              "width":830,
-                              "height":580},
-                            "borderWidth":"-1",
-                            "outerShadow":{
-                              "on":true,
-                              "offsetX":5,
-                              "offsetY":5,
-                              "blurRadius":5,
-                              "color":{
-                                "r":0,
-                                "g":0,
-                                "b":0,
-                                "a":0.349019607843137}}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"c24c4128d60042489d77ef677b46deff",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "size":{
-                                  "width":830,
-                                  "height":580},
-                                "borderWidth":"-1",
-                                "outerShadow":{
-                                  "on":true,
-                                  "offsetX":5,
-                                  "offsetY":5,
-                                  "blurRadius":5,
-                                  "color":{
-                                    "r":0,
-                                    "g":0,
-                                    "b":0,
-                                    "a":0.349019607843137}}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
-{
-                          "id":"77e48a2665774fb2866e02dc1412a1c5",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Arial Negreta', 'Arial'",
-                            "fontSize":"13px",
-                            "fontWeight":"700",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":8,
-                              "y":10},
-                            "size":{
-                              "width":53,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"ee2d0907d26149c8a8678307628b13a6",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Arial Negreta', 'Arial'",
-                                "fontSize":"13px",
-                                "fontWeight":"700",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":8,
-                                  "y":10},
-                                "size":{
-                                  "width":53,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"b8f7c8342072498ab126ef3f32eae3b8",
-                          "label":".按钮1",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei'",
-                            "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
-                            "stateStyles":{
-                              "mouseOver":{
-                                "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                              "mouseDown":{
-                                "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                              "disabled":{
-                                "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
-                            "location":{
-                              "x":269,
-                              "y":528},
-                            "size":{
-                              "width":65,
-                              "height":32},
-                            "borderWidth":"-1",
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFFFFF},
-                            "linePattern":"none"},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"edcab851257b41d38f5afa07a4ea001e",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                                  "mouseDown":{
-                                    "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                                  "disabled":{
-                                    "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
-                                "location":{
-                                  "x":269,
-                                  "y":528},
-                                "size":{
-                                  "width":65,
-                                  "height":32},
-                                "borderWidth":"-1",
-                                "borderFill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "linePattern":"none"},
-                              "adaptiveStyles":{
-}}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"隐藏 创建内容111",
-                                      "objectsToFades":[{
-                                          "objectPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]}},
-                          "tabbable":true,
-                          "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
-{
-                          "id":"7cab6bf2a35e4e99ae0f29bed5db4321",
-                          "label":".按钮2",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei'",
-                            "baseStyle":"8a8065df3960467786ec2e2b753983d3",
-                            "stateStyles":{
-                              "mouseOver":{
-                                "baseStyle":"64f55b4d653348978fa3cd3bcd5dc922"},
-                              "disabled":{
-                                "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
-                            "location":{
-                              "x":360,
-                              "y":528},
-                            "size":{
-                              "width":65,
-                              "height":32}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"110b996846494c1aaaf32e5573f28bb1",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"8a8065df3960467786ec2e2b753983d3",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"64f55b4d653348978fa3cd3bcd5dc922"},
-                                  "disabled":{
-                                    "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
-                                "location":{
-                                  "x":360,
-                                  "y":528},
-                                "size":{
-                                  "width":65,
-                                  "height":32}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
-{
-                          "id":"0243c364716140d985cc2ccfaa75915c",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":7,
-                              "y":29},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"d3b14710882c4e0082f81a9de09eb27b",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"imageBox",
-                          "styleType":"imageBox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":791,
-                              "y":8},
-                            "size":{
-                              "width":26,
-                              "height":23}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"982ba3ddcab742689e28e1127481326b",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":791,
-                                  "y":8},
-                                "size":{
-                                  "width":26,
-                                  "height":23}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
-{
-                          "id":"8fba262eb7074fb6ac07c83ac0d3dd8b",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":10,
-                              "y":500},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"9313e0def5f2400d9093b6f220740c23",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontSize":"13px",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":20,
-                              "y":61},
-                            "size":{
-                              "width":235,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"e31f51a60f5448fd8cd4ce7d3089ea13",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontSize":"13px",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":20,
-                                  "y":61},
-                                "size":{
-                                  "width":235,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}}],
-                      "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
-                        "image":null,
-                        "imageHorizontalAlignment":"near",
-                        "imageVerticalAlignment":"near",
-                        "imageRepeat":"auto"},
-                      "adaptiveStyles":{
-}},
-{
                       "id":"61d0b83ccea54302acec15a31de0bd15",
                       "label":"注册数据源",
                       "type":"Axure:PanelDiagram",
@@ -24350,7 +22151,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u794.png"}},
+                            "normal~":"images/sql开发中心/regen/u701.png"}},
 {
                           "id":"547b2bbcec3a45f0861090cb7e6a923f",
                           "label":"",
@@ -24396,7 +22197,7 @@
                             "normal~":"resources/images/transparent.gif"}},
 {
                           "id":"0b4ed9fe08b34bb6b1ce75084938878d",
-                          "label":".按钮1",
+                          "label":"按钮1",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -24472,13 +22273,13 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"e562eeb1017f4094ab619c4605751e8e",
-                          "label":".按钮2",
+                          "label":"按钮2",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -24540,9 +22341,9 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"30bce7cbc003453da26a33dc08cc69c3",
                           "label":"",
@@ -24565,7 +22366,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"63832ee1c2f247d49f866f1313329fa7",
                           "label":"",
@@ -24761,7 +22562,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/任务管理/下拉选中_u100.png"}}],
+                                    "normal~":"images/sql开发中心/regen/下拉选中_u180.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -25076,10 +22877,10 @@
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/文本框_u810.png",
-                                    "selected~":"images/sql开发中心/文本框_u810_selected.png",
-                                    "mouseDown~":"images/sql开发中心/文本框_u810_selected.png",
-                                    "disabled~":"images/sql开发中心/文本框_u810_disabled.png"}},
+                                    "normal~":"images/sql开发中心/regen/文本框_u717.png",
+                                    "selected~":"images/sql开发中心/regen/文本框_u717_selected.png",
+                                    "mouseDown~":"images/sql开发中心/regen/文本框_u717_selected.png",
+                                    "disabled~":"images/sql开发中心/regen/文本框_u717_disabled.png"}},
 {
                                   "id":"c84b46f5d96d4075a7c896b4a071164b",
                                   "label":"options",
@@ -25299,7 +23100,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/sql开发中心/dropdownbox_u813.png"}},
+                                            "normal~":"images/sql开发中心/regen/dropdownbox_u720.png"}},
 {
                                           "id":"15e3b5ecdadc4878abf5e7a2bd3e030f",
                                           "label":"选项1",
@@ -25512,9 +23313,9 @@
                                                                 "stos":[]}]}]}}]}]}},
                                           "tabbable":true,
                                           "images":{
-                                            "normal~":"images/sql开发中心/选项1_u815.png",
-                                            "selected~":"images/sql开发中心/选项1_u815_selected.png",
-                                            "mouseOver~":"images/sql开发中心/选项1_u815_selected.png"}},
+                                            "normal~":"images/sql开发中心/regen/选项1_u722.png",
+                                            "selected~":"images/sql开发中心/regen/选项1_u722_selected.png",
+                                            "mouseOver~":"images/sql开发中心/regen/选项1_u722_selected.png"}},
 {
                                           "id":"51eb79115bb44750ae57b9dd7015a35c",
                                           "label":"选型3",
@@ -25727,9 +23528,9 @@
                                                                 "stos":[]}]}]}}]}]}},
                                           "tabbable":true,
                                           "images":{
-                                            "normal~":"images/sql开发中心/选型3_u817.png",
-                                            "selected~":"images/sql开发中心/选型3_u817_selected.png",
-                                            "mouseOver~":"images/sql开发中心/选型3_u817_selected.png"}},
+                                            "normal~":"images/sql开发中心/regen/选型3_u724.png",
+                                            "selected~":"images/sql开发中心/regen/选型3_u724_selected.png",
+                                            "mouseOver~":"images/sql开发中心/regen/选型3_u724_selected.png"}},
 {
                                           "id":"f944ad28ad2c45cbb650cdf17bc3d939",
                                           "label":"textFieldContainer",
@@ -25824,11 +23625,11 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "selected~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "mouseOver~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "mouseDown~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "disabled~":"images/sql开发中心/textfieldcontainer_u819_disabled.png"}},
+                                            "normal~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "selected~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "mouseOver~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "mouseDown~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "disabled~":"images/sql开发中心/regen/textfieldcontainer_u726_disabled.png"}},
 {
                                           "id":"c1576ce21a5e4d2d99d6e91f299eaf63",
                                           "label":"",
@@ -26147,7 +23948,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/任务管理/搜索悬停_u285.png"}},
+                                            "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}},
 {
                                           "id":"5ba513e488894dd6b87fb1ade7b70686",
                                           "label":"选型2",
@@ -26364,9 +24165,9 @@
                                                                 "stos":[]}]}]}}]}]}},
                                           "tabbable":true,
                                           "images":{
-                                            "normal~":"images/sql开发中心/选项1_u815.png",
-                                            "selected~":"images/sql开发中心/选项1_u815_selected.png",
-                                            "mouseOver~":"images/sql开发中心/选项1_u815_selected.png"}}],
+                                            "normal~":"images/sql开发中心/regen/选项1_u722.png",
+                                            "selected~":"images/sql开发中心/regen/选项1_u722_selected.png",
+                                            "mouseOver~":"images/sql开发中心/regen/选项1_u722_selected.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -26428,7 +24229,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/任务管理/u103.png"}}],
+                                            "normal~":"images/sql开发中心/regen/u183.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -26524,7 +24325,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/新建任务/_alert__alert-success_u1626.png"}},
+                                    "normal~":"images/sql开发中心/regen/_alert__alert-success_u234.png"}},
 {
                                   "id":"72f9837f20544418b27d6880643c7610",
                                   "label":"",
@@ -26881,10 +24682,10 @@
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/文本框_u810.png",
-                                    "selected~":"images/sql开发中心/文本框_u810_selected.png",
-                                    "mouseDown~":"images/sql开发中心/文本框_u810_selected.png",
-                                    "disabled~":"images/sql开发中心/文本框_u810_disabled.png"}},
+                                    "normal~":"images/sql开发中心/regen/文本框_u717.png",
+                                    "selected~":"images/sql开发中心/regen/文本框_u717_selected.png",
+                                    "mouseDown~":"images/sql开发中心/regen/文本框_u717_selected.png",
+                                    "disabled~":"images/sql开发中心/regen/文本框_u717_disabled.png"}},
 {
                                   "id":"2477f88d15a14d60af04b90e0ff365e7",
                                   "label":"options",
@@ -27104,7 +24905,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/sql开发中心/dropdownbox_u813.png"}},
+                                            "normal~":"images/sql开发中心/regen/dropdownbox_u720.png"}},
 {
                                           "id":"465e7d51302546b29b3ba7bcaf70acd7",
                                           "label":"选项1",
@@ -27317,9 +25118,9 @@
                                                                 "stos":[]}]}]}}]}]}},
                                           "tabbable":true,
                                           "images":{
-                                            "normal~":"images/sql开发中心/选项1_u815.png",
-                                            "selected~":"images/sql开发中心/选项1_u815_selected.png",
-                                            "mouseOver~":"images/sql开发中心/选项1_u815_selected.png"}},
+                                            "normal~":"images/sql开发中心/regen/选项1_u722.png",
+                                            "selected~":"images/sql开发中心/regen/选项1_u722_selected.png",
+                                            "mouseOver~":"images/sql开发中心/regen/选项1_u722_selected.png"}},
 {
                                           "id":"cdce76cee03147f4a04d2def8dae25b5",
                                           "label":"选型3",
@@ -27532,9 +25333,9 @@
                                                                 "stos":[]}]}]}}]}]}},
                                           "tabbable":true,
                                           "images":{
-                                            "normal~":"images/sql开发中心/选型3_u817.png",
-                                            "selected~":"images/sql开发中心/选型3_u817_selected.png",
-                                            "mouseOver~":"images/sql开发中心/选型3_u817_selected.png"}},
+                                            "normal~":"images/sql开发中心/regen/选型3_u724.png",
+                                            "selected~":"images/sql开发中心/regen/选型3_u724_selected.png",
+                                            "mouseOver~":"images/sql开发中心/regen/选型3_u724_selected.png"}},
 {
                                           "id":"793d3a0e03584b3f9375e513ea0e4fdf",
                                           "label":"textFieldContainer",
@@ -27629,11 +25430,11 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "selected~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "mouseOver~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "mouseDown~":"images/sql开发中心/textfieldcontainer_u819.png",
-                                            "disabled~":"images/sql开发中心/textfieldcontainer_u819_disabled.png"}},
+                                            "normal~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "selected~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "mouseOver~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "mouseDown~":"images/sql开发中心/regen/textfieldcontainer_u726.png",
+                                            "disabled~":"images/sql开发中心/regen/textfieldcontainer_u726_disabled.png"}},
 {
                                           "id":"6371a272024041018073688deead6f2e",
                                           "label":"",
@@ -27952,7 +25753,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/任务管理/搜索悬停_u285.png"}},
+                                            "normal~":"images/sql开发中心/regen/搜索悬停_u43.png"}},
 {
                                           "id":"07cbee982d6840bba57fc251ca3eeb28",
                                           "label":"选型2",
@@ -28169,9 +25970,9 @@
                                                                 "stos":[]}]}]}}]}]}},
                                           "tabbable":true,
                                           "images":{
-                                            "normal~":"images/sql开发中心/选项1_u815.png",
-                                            "selected~":"images/sql开发中心/选项1_u815_selected.png",
-                                            "mouseOver~":"images/sql开发中心/选项1_u815_selected.png"}}],
+                                            "normal~":"images/sql开发中心/regen/选项1_u722.png",
+                                            "selected~":"images/sql开发中心/regen/选项1_u722_selected.png",
+                                            "mouseOver~":"images/sql开发中心/regen/选项1_u722_selected.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -28233,7 +26034,7 @@
                                               "adaptiveStyles":{
 }}],
                                           "images":{
-                                            "normal~":"images/任务管理/u103.png"}}],
+                                            "normal~":"images/sql开发中心/regen/u183.png"}}],
                                       "style":{
                                         "fill":{
                                           "fillType":"solid",
@@ -28329,7 +26130,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/新建任务/_alert__alert-success_u1626.png"}},
+                                    "normal~":"images/sql开发中心/regen/_alert__alert-success_u234.png"}},
 {
                                   "id":"164cd1065f1142a5afba61d238f9abf0",
                                   "label":"",
@@ -28416,414 +26217,6 @@
                       "adaptiveStyles":{
 }},
 {
-                      "id":"f0e21df932bb4a778348b9577d261e59",
-                      "label":"预览样本数据",
-                      "type":"Axure:PanelDiagram",
-                      "objects":[{
-                          "id":"91e1f0f25b824f26bbe3f5241c50f6fe",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "size":{
-                              "width":830,
-                              "height":580},
-                            "borderWidth":"-1",
-                            "outerShadow":{
-                              "on":true,
-                              "offsetX":5,
-                              "offsetY":5,
-                              "blurRadius":5,
-                              "color":{
-                                "r":0,
-                                "g":0,
-                                "b":0,
-                                "a":0.349019607843137}}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"1cfebaeb3fa54bf5ac846920d63460af",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "size":{
-                                  "width":830,
-                                  "height":580},
-                                "borderWidth":"-1",
-                                "outerShadow":{
-                                  "on":true,
-                                  "offsetX":5,
-                                  "offsetY":5,
-                                  "blurRadius":5,
-                                  "color":{
-                                    "r":0,
-                                    "g":0,
-                                    "b":0,
-                                    "a":0.349019607843137}}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
-{
-                          "id":"c074815302454dcb9fd7b7b5554ac487",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Arial Negreta', 'Arial'",
-                            "fontSize":"13px",
-                            "fontWeight":"700",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":3,
-                              "y":10},
-                            "size":{
-                              "width":79,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"a64a1cee0f5e4c94a8d8a1a55a1f9178",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Arial Negreta', 'Arial'",
-                                "fontSize":"13px",
-                                "fontWeight":"700",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":3,
-                                  "y":10},
-                                "size":{
-                                  "width":79,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"0bf9d614e7c64a9f93c473c4a96d6efa",
-                          "label":".按钮1",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei'",
-                            "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
-                            "stateStyles":{
-                              "mouseOver":{
-                                "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                              "mouseDown":{
-                                "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                              "disabled":{
-                                "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
-                            "location":{
-                              "x":269,
-                              "y":528},
-                            "size":{
-                              "width":65,
-                              "height":32},
-                            "borderWidth":"-1",
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFFFFF},
-                            "linePattern":"none"},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"a86ee61001f941e8b00756f2d7547b1d",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                                  "mouseDown":{
-                                    "baseStyle":"d9b6a206ba804492b7eabd480553c0b2"},
-                                  "disabled":{
-                                    "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
-                                "location":{
-                                  "x":269,
-                                  "y":528},
-                                "size":{
-                                  "width":65,
-                                  "height":32},
-                                "borderWidth":"-1",
-                                "borderFill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "linePattern":"none"},
-                              "adaptiveStyles":{
-}}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"隐藏 创建内容111",
-                                      "objectsToFades":[{
-                                          "objectPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]}},
-                          "tabbable":true,
-                          "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
-{
-                          "id":"f005f8d19b2e48ffb99e2e573ac79f60",
-                          "label":".按钮2",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei'",
-                            "baseStyle":"8a8065df3960467786ec2e2b753983d3",
-                            "stateStyles":{
-                              "mouseOver":{
-                                "baseStyle":"64f55b4d653348978fa3cd3bcd5dc922"},
-                              "disabled":{
-                                "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
-                            "location":{
-                              "x":360,
-                              "y":528},
-                            "size":{
-                              "width":65,
-                              "height":32}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"309b149dc29a44e4bac8367feb81228c",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei'",
-                                "baseStyle":"8a8065df3960467786ec2e2b753983d3",
-                                "stateStyles":{
-                                  "mouseOver":{
-                                    "baseStyle":"64f55b4d653348978fa3cd3bcd5dc922"},
-                                  "disabled":{
-                                    "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
-                                "location":{
-                                  "x":360,
-                                  "y":528},
-                                "size":{
-                                  "width":65,
-                                  "height":32}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
-{
-                          "id":"75527521c16343aba273dcc319aa631d",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":7,
-                              "y":29},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"e703915dfa06457fb871714b49bb0e64",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"imageBox",
-                          "styleType":"imageBox",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":791,
-                              "y":8},
-                            "size":{
-                              "width":26,
-                              "height":23}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"9ea7e57f04d0439b9a2dbb0733dfe719",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":791,
-                                  "y":8},
-                                "size":{
-                                  "width":26,
-                                  "height":23}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
-{
-                          "id":"4e41bb79c78045b582df43669002e567",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"horizontalLine",
-                          "styleType":"horizontalLine",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":10,
-                              "y":500},
-                            "size":{
-                              "width":810,
-                              "height":10},
-                            "borderFill":{
-                              "fillType":"solid",
-                              "color":0xFFCCCCCC}},
-                          "adaptiveStyles":{
-},
-                          "images":{
-                            "start~":"resources/images/transparent.gif",
-                            "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
-{
-                          "id":"4b2ddd820c424c46be944c7979d616e3",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontSize":"13px",
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":13,
-                              "y":60},
-                            "size":{
-                              "width":163,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"16b6e670ac9c448c8ed8d9aa0d2adecb",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontSize":"13px",
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":13,
-                                  "y":60},
-                                "size":{
-                                  "width":163,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"5f9dba74b94e4d238294f0f3ef6cdcb9",
-                          "label":"",
-                          "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                          "type":"buttonShape",
-                          "styleType":"h1",
-                          "visible":true,
-                          "style":{
-                            "fontSize":"13px",
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFFFF0000,
-                              "opacity":1},
-                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                            "location":{
-                              "x":30,
-                              "y":110},
-                            "size":{
-                              "width":118,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"069935c203da4535b6593f49eb9c5adc",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontSize":"13px",
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFF0000,
-                                  "opacity":1},
-                                "baseStyle":"627587b6038d43cca051c114ac41ad32",
-                                "location":{
-                                  "x":30,
-                                  "y":110},
-                                "size":{
-                                  "width":118,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}}],
-                      "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
-                        "image":null,
-                        "imageHorizontalAlignment":"near",
-                        "imageVerticalAlignment":"near",
-                        "imageRepeat":"auto"},
-                      "adaptiveStyles":{
-}},
-{
                       "id":"6578273655ab44a1b49ee808fd852f5e",
                       "label":"新建作业",
                       "type":"Axure:PanelDiagram",
@@ -28877,7 +26270,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"f1cb219f126941f0a4ae56017d625f53",
                           "label":"",
@@ -28923,7 +26316,7 @@
                             "normal~":"resources/images/transparent.gif"}},
 {
                           "id":"012d99acc1bb425ca8548c243af2aaf3",
-                          "label":".按钮1",
+                          "label":"按钮1",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -28999,13 +26392,13 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"3bef1d154a1d4c1fa2d0e6d15a90dbb7",
-                          "label":".按钮2",
+                          "label":"按钮2",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -29051,9 +26444,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"5baef8c08a0545d0bf77c69f04aa1d85",
                           "label":"",
@@ -29076,7 +26469,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"c05260782ad443dcb7b0b45ea2635dca",
                           "label":"",
@@ -29111,7 +26504,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"b58891cb569049a094cbf2547f13a4c3",
                           "label":"",
@@ -29134,7 +26527,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"112f46d989a340089eef2daef8c2a3ef",
                           "label":"输入框1",
@@ -29197,10 +26590,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"8145b4730db34839bf6b402fe3fa655b",
                           "label":"表头",
@@ -29479,10 +26872,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/multilinetextboxcontainer_u355.png",
-                            "selected~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "mouseDown~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "disabled~":"images/sql开发中心/multilinetextboxcontainer_u355_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/multilinetextboxcontainer_u355.png",
+                            "selected~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "disabled~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_disabled.png"}},
 {
                           "id":"0be36682141b49539f0b7c885958e4f7",
                           "label":"",
@@ -29525,7 +26918,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u357.png"}},
+                            "normal~":"images/sql开发中心/regen/u357.png"}},
 {
                           "id":"c50c74daba084e07b98e9897bd054684",
                           "label":"<textarea>",
@@ -29812,10 +27205,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"95f004412a074ac1a28ec4b76490aad4",
                           "label":"表头",
@@ -30116,7 +27509,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u367.png"}},
+                            "normal~":"images/sql开发中心/regen/u367.png"}},
 {
                           "id":"5bde55bbb0a2407483812bfc337e433c",
                           "label":"",
@@ -30162,7 +27555,7 @@
                             "normal~":"resources/images/transparent.gif"}},
 {
                           "id":"e7c1bd62105e4ed181630db596470759",
-                          "label":".按钮1",
+                          "label":"按钮1",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -30238,13 +27631,13 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"858e51398c0e4e6588dc7149704e266c",
-                          "label":".按钮2",
+                          "label":"按钮2",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -30290,9 +27683,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"af1311c3d6684ca38d14adc7a7d95ac6",
                           "label":"",
@@ -30315,7 +27708,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u375_line.png"}},
+                            "line~":"images/sql开发中心/regen/u375_line.png"}},
 {
                           "id":"f6143e5532ec4b129ce4fa644ca37149",
                           "label":"",
@@ -30419,7 +27812,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"0edadca173bb4ec88c8deb5349a5e44d",
                           "label":"",
@@ -30465,7 +27858,7 @@
                             "normal~":"resources/images/transparent.gif"}},
 {
                           "id":"f010f8d85ad44ca88a3c76c8c4f9937d",
-                          "label":".按钮1",
+                          "label":"按钮1",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -30541,13 +27934,13 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"69019539befc4ac2996bf2e6988e9668",
-                          "label":".按钮2",
+                          "label":"按钮2",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -30593,9 +27986,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"af649ecc813e4beebf03792d3001ca0b",
                           "label":"",
@@ -30618,7 +28011,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"a38136a65d47416aa2e494d52a24ccfa",
                           "label":"",
@@ -30653,7 +28046,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"d5f6466560704255aa6f300cc342ed37",
                           "label":"",
@@ -30676,7 +28069,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"04df0f0d00f8419889efa7908604a85d",
                           "label":"输入框1",
@@ -30739,10 +28132,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"74084a1476674d9c86e93d8d5d6d7751",
                           "label":"表头",
@@ -31021,10 +28414,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/multilinetextboxcontainer_u355.png",
-                            "selected~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "mouseDown~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "disabled~":"images/sql开发中心/multilinetextboxcontainer_u355_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/multilinetextboxcontainer_u355.png",
+                            "selected~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "disabled~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_disabled.png"}},
 {
                           "id":"da8b100677a34c2ebe5d26f7f489fe20",
                           "label":"",
@@ -31067,7 +28460,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u357.png"}},
+                            "normal~":"images/sql开发中心/regen/u357.png"}},
 {
                           "id":"68bd5e055d284ae993cf1f58931fc846",
                           "label":"<textarea>",
@@ -31354,10 +28747,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"8cf440e5ae554bfaa16e2f3281696ea6",
                           "label":"表头",
@@ -31658,7 +29051,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u196.png"}},
+                            "normal~":"images/sql开发中心/regen/u196.png"}},
 {
                           "id":"702ec18934e04e899a96466074c76957",
                           "label":"",
@@ -31704,7 +29097,7 @@
                             "normal~":"resources/images/transparent.gif"}},
 {
                           "id":"8702f707437f4de8b6ae37f65814d720",
-                          "label":".按钮1",
+                          "label":"按钮1",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -31780,13 +29173,13 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/按钮1_u87.png",
-                            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/_按钮1_u200.png",
+                            "mouseOver~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "mouseDown~":"images/sql开发中心/regen/_按钮1_u200_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/_按钮1_u200_disabled.png"}},
 {
                           "id":"d3366cacc13a45d0b3b6445c666ebef9",
-                          "label":".按钮2",
+                          "label":"按钮2",
                           "parentDynamicPanel":"cc6d63fb1888431f8bcfc48fa47449c7",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
@@ -31832,9 +29225,9 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/按钮2_u114.png",
-                            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
-                            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/按钮2_u143.png",
+                            "mouseOver~":"images/sql开发中心/regen/按钮2_u143_mouseOver.png",
+                            "disabled~":"images/sql开发中心/regen/按钮2_u143_disabled.png"}},
 {
                           "id":"6b4622e127904a8093e9b162f9d2479a",
                           "label":"",
@@ -31857,7 +29250,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"db8ede0eb3d948a1aedc77be103af449",
                           "label":"",
@@ -31892,7 +29285,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u205.png"}},
+                            "normal~":"images/sql开发中心/regen/u205.png"}},
 {
                           "id":"914a4b5b99d84c54b3911eb03522fa59",
                           "label":"",
@@ -31915,7 +29308,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u204_line.png"}},
+                            "line~":"images/sql开发中心/regen/u204_line.png"}},
 {
                           "id":"a3def6bdea9f41568ecd9b744e07112d",
                           "label":"输入框1",
@@ -31978,10 +29371,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/新建任务/输入框4_u1590.png",
-                            "selected~":"images/新建任务/输入框4_u1590_selected.png",
-                            "mouseDown~":"images/新建任务/输入框4_u1590_selected.png",
-                            "disabled~":"images/新建任务/输入框4_u1590_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/输入框1_u350.png",
+                            "selected~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/输入框1_u350_selected.png",
+                            "disabled~":"images/sql开发中心/regen/输入框1_u350_disabled.png"}},
 {
                           "id":"10038808671648c6b0b521434dbd8c16",
                           "label":"表头",
@@ -32260,10 +29653,10 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/multilinetextboxcontainer_u355.png",
-                            "selected~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "mouseDown~":"images/sql开发中心/multilinetextboxcontainer_u355_selected.png",
-                            "disabled~":"images/sql开发中心/multilinetextboxcontainer_u355_disabled.png"}},
+                            "normal~":"images/sql开发中心/regen/multilinetextboxcontainer_u355.png",
+                            "selected~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "mouseDown~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_selected.png",
+                            "disabled~":"images/sql开发中心/regen/multilinetextboxcontainer_u355_disabled.png"}},
 {
                           "id":"b4ae6d5a5fad4affacc68f1fc42c433d",
                           "label":"",
@@ -32306,7 +29699,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u357.png"}},
+                            "normal~":"images/sql开发中心/regen/u357.png"}},
 {
                           "id":"3014fa5ee43f4902b2868e5494eef9c6",
                           "label":"<textarea>",
@@ -32836,10 +30229,10 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/文本框_u177.png",
-                    "selected~":"images/新建任务/日期下拉框_u144_selected.png",
-                    "mouseDown~":"images/新建任务/日期下拉框_u144_selected.png",
-                    "disabled~":"images/新建任务/日期下拉框_u144_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/文本框_u177.png",
+                    "selected~":"images/sql开发中心/regen/文本框_u177_selected.png",
+                    "mouseDown~":"images/sql开发中心/regen/文本框_u177_selected.png",
+                    "disabled~":"images/sql开发中心/regen/文本框_u177_disabled.png"}},
 {
                   "id":"3e4ceb0da8374ca3a5f26951c8fe2ad0",
                   "label":"下拉选中",
@@ -32891,7 +30284,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/下拉选中_u100.png"}}],
+                            "normal~":"images/sql开发中心/regen/下拉选中_u180.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -32953,7 +30346,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/u103.png"}}],
+                            "normal~":"images/sql开发中心/regen/u183.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -33124,7 +30517,7 @@
                                   "panelPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
                                   "stateInfo":{
                                     "setStateType":"diagram",
-                                    "stateNumber":5,
+                                    "stateNumber":2,
                                     "stateValue":{
                                       "exprType":"stringLiteral",
                                       "value":"1",
@@ -33218,7 +30611,7 @@
                                   "panelPath":["cc6d63fb1888431f8bcfc48fa47449c7"],
                                   "stateInfo":{
                                     "setStateType":"diagram",
-                                    "stateNumber":3,
+                                    "stateNumber":1,
                                     "stateValue":{
                                       "exprType":"stringLiteral",
                                       "value":"1",
@@ -33229,9 +30622,9 @@
                                       "compress":false}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/sql开发中心/按钮2_u983.png",
-                    "mouseOver~":"images/sql开发中心/按钮2_u983_mouseOver.png",
-                    "disabled~":"images/sql开发中心/按钮2_u983_disabled.png"}},
+                    "normal~":"images/sql开发中心/regen/按钮2_u874.png",
+                    "mouseOver~":"images/sql开发中心/regen/按钮2_u874_mouseOver.png",
+                    "disabled~":"images/sql开发中心/regen/按钮2_u874_disabled.png"}},
 {
                   "id":"410a27fd57734f7dafea3cbcf92b6fb0",
                   "label":"options",
@@ -33451,7 +30844,7 @@
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/任务管理/dropdownbox_u106.png"}},
+                            "normal~":"images/sql开发中心/regen/dropdownbox_u186.png"}},
 {
                           "id":"456856c74bb64afb80b043d4e85985d5",
                           "label":"选项1",
@@ -33664,9 +31057,9 @@
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/选项1_u108.png",
-                            "selected~":"images/任务管理/选项1_u108_selected.png",
-                            "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
+                            "normal~":"images/sql开发中心/regen/选项1_u188.png",
+                            "selected~":"images/sql开发中心/regen/选项1_u188_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/选项1_u188_selected.png"}},
 {
                           "id":"10a4547359ce480f9e37d9e42b4e7f60",
                           "label":"选型3",
@@ -33879,9 +31272,9 @@
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/选项1_u108.png",
-                            "selected~":"images/任务管理/选项1_u108_selected.png",
-                            "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
+                            "normal~":"images/sql开发中心/regen/选项1_u188.png",
+                            "selected~":"images/sql开发中心/regen/选项1_u188_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/选项1_u188_selected.png"}},
 {
                           "id":"174d6ede7e484671ad168e19143aa49e",
                           "label":"选型2",
@@ -34098,9 +31491,9 @@
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/任务管理/选项1_u108.png",
-                            "selected~":"images/任务管理/选项1_u108_selected.png",
-                            "mouseOver~":"images/任务管理/选项1_u108_selected.png"}}],
+                            "normal~":"images/sql开发中心/regen/选项1_u188.png",
+                            "selected~":"images/sql开发中心/regen/选项1_u188_selected.png",
+                            "mouseOver~":"images/sql开发中心/regen/选项1_u188_selected.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -34226,7 +31619,7 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/u995.png"}}],
+                            "normal~":"images/sql开发中心/regen/u886.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -34307,7 +31700,7 @@
                                               "showType":"none"}}}]}]}]}},
                           "tabbable":true,
                           "images":{
-                            "normal~":"images/sql开发中心/u997.png"}}],
+                            "normal~":"images/sql开发中心/regen/u888.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -34432,7 +31825,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u1004_line.png"}},
+                            "line~":"images/sql开发中心/regen/u895_line.png"}},
 {
                           "id":"ca67d685f126410d8c3d7872df8d2221",
                           "label":"",
@@ -34454,7 +31847,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u1005_line.png"}},
+                            "line~":"images/sql开发中心/regen/u896_line.png"}},
 {
                           "id":"ec56089665b945d58f9f9d9f614e1ace",
                           "label":"",
@@ -34476,7 +31869,7 @@
                           "images":{
                             "start~":"resources/images/transparent.gif",
                             "end~":"resources/images/transparent.gif",
-                            "line~":"images/sql开发中心/u1005_line.png"}}],
+                            "line~":"images/sql开发中心/regen/u896_line.png"}}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -36016,621 +33409,403 @@
       "scriptId":"u699"},
     "cc6d63fb1888431f8bcfc48fa47449c7":{
       "scriptId":"u700"},
-    "672ad9a4e5e042348c9d3db95bffdd8b":{
-      "scriptId":"u701"},
-    "e1497f507903492d9091f7fda21b1ff0":{
-      "scriptId":"u702"},
-    "a2da8343f8f444de834aa830c46a78b0":{
-      "scriptId":"u703"},
-    "73c0f83e55094aa2831645d2196638aa":{
-      "scriptId":"u704"},
-    "2ab1cd32415b42858cb27b6965abae30":{
-      "scriptId":"u705"},
-    "87ae293065eb48f59879070afc211f6b":{
-      "scriptId":"u706"},
-    "fa004ba49f364987a66f2e32a91cf47b":{
-      "scriptId":"u707"},
-    "451e30ba871447e68d2869f4ae9463f5":{
-      "scriptId":"u708"},
-    "17ee2a929892464cadc84cf9b42d7397":{
-      "scriptId":"u709"},
-    "97a52d83820d4b348e2f485b88d78ea8":{
-      "scriptId":"u710"},
-    "f1d0ba3552d74ef39009af5080d092bd":{
-      "scriptId":"u711"},
-    "b3082d8c34f042f39f96aa321520d1d0":{
-      "scriptId":"u712"},
-    "7203b03fbc6e459f9195ec3112fe1e87":{
-      "scriptId":"u713"},
-    "53db6bfa148b4379b8e84aaaaf679e94":{
-      "scriptId":"u714"},
-    "2e64148e465240e9aef09bbbbd3aa0ab":{
-      "scriptId":"u715"},
-    "7fdaf0f34242437db6689ff64f2bdd65":{
-      "scriptId":"u716"},
-    "b963bc60ee0f498c85045e00d4d23b1b":{
-      "scriptId":"u717"},
-    "75c54ab5186340e3b7c5a53463cd7a28":{
-      "scriptId":"u718"},
-    "3c7f1da8ae2d48538b30471827d8001d":{
-      "scriptId":"u719"},
-    "e09e6f7004874aa2b45bc510d38a659f":{
-      "scriptId":"u720"},
-    "45edf65d678e4da58df86f72036e597a":{
-      "scriptId":"u721"},
-    "146c3a521af845a1adb0d1ff0f2ef6ba":{
-      "scriptId":"u722"},
-    "14d190bfe5cd4ea39592990a6184d72a":{
-      "scriptId":"u723"},
-    "40fe4dcabbb646ab90e8f528f9a15d74":{
-      "scriptId":"u724"},
-    "5bb60fc2c8894a5a810331915418a427":{
-      "scriptId":"u725"},
-    "2d1fa592ef3a472d878b93104c54124e":{
-      "scriptId":"u726"},
-    "d86de24003ef4c9caf4e5bf14190d68a":{
-      "scriptId":"u727"},
-    "c749393a50794b09bc720edca6fe6dd9":{
-      "scriptId":"u728"},
-    "ef7fc18d34644a12b9b23993b9ed12e9":{
-      "scriptId":"u729"},
-    "2e044792b0e84f2b9c8bf80eb6e9fc50":{
-      "scriptId":"u730"},
-    "e1c0920890a54bb9969d4f39f6ae3632":{
-      "scriptId":"u731"},
-    "2077b1371e9f414da221df16734fb709":{
-      "scriptId":"u732"},
-    "353a77cac0cd48e2b0702d001a4508b0":{
-      "scriptId":"u733"},
-    "c2240ae9cc3e4cce9b5976a71f031ac5":{
-      "scriptId":"u734"},
-    "080c353d31f8489eab2afb4bbd282d3e":{
-      "scriptId":"u735"},
-    "e901a68966b34ebd859e27e0663ae91f":{
-      "scriptId":"u736"},
-    "2be14c4a36c84ffbaac79c92b3177861":{
-      "scriptId":"u737"},
-    "c3b08928249e411b896824bf72ce8bdf":{
-      "scriptId":"u738"},
-    "0eda8ad966844b52ab3eb8f5a5a60d85":{
-      "scriptId":"u739"},
-    "58db710384314a0092b38824cecbdf6a":{
-      "scriptId":"u740"},
-    "0aa1e32a8355470cb5b61f6e01fa71f3":{
-      "scriptId":"u741"},
-    "e8334da608a8455898a5f02887712d65":{
-      "scriptId":"u742"},
-    "120977c4b6b34d4089e232befbe4436a":{
-      "scriptId":"u743"},
-    "513b70c5ab304c89ac28024ad875d010":{
-      "scriptId":"u744"},
-    "027937cf93c241949aa1fc4589789e3d":{
-      "scriptId":"u745"},
-    "6b68e1e3d6df405087f3cd84adb64fc0":{
-      "scriptId":"u746"},
-    "7c6b3e46d11944bcb2070584b4586442":{
-      "scriptId":"u747"},
-    "e30b89a2df6045198d3258f6bf5eb680":{
-      "scriptId":"u748"},
-    "ef69637456be4db0aa78727c3162293b":{
-      "scriptId":"u749"},
-    "bb7ab2f729954d789d9209ef015c7690":{
-      "scriptId":"u750"},
-    "e77adaa23b734c08978ca3daed0c435e":{
-      "scriptId":"u751"},
-    "0a7813224dc14f0aa66f97819e08c77e":{
-      "scriptId":"u752"},
-    "8116443f42104516a4dfe8c38694c295":{
-      "scriptId":"u753"},
-    "7a726b8211cb45368bd5a1eaa0f742a0":{
-      "scriptId":"u754"},
-    "418aa44c8def4fae92322e4e27b21c5e":{
-      "scriptId":"u755"},
-    "bfeb3c1eda8c4123803cb82d39ebb7a5":{
-      "scriptId":"u756"},
-    "f0ac2ebdc3414f05825a879bb8f10c1b":{
-      "scriptId":"u757"},
-    "c4890b7308c442839bec9207fd094b7b":{
-      "scriptId":"u758"},
-    "3b843a87bb2b4c119f83971f7aca6a27":{
-      "scriptId":"u759"},
-    "898759f7161240179b609da5716f99cb":{
-      "scriptId":"u760"},
-    "e4b00c63440741efb61b0e81ccca8175":{
-      "scriptId":"u761"},
-    "34b3f5b309fc45fd8546fae540effdc0":{
-      "scriptId":"u762"},
-    "56625e1226734b0582d93ddb76501399":{
-      "scriptId":"u763"},
-    "a972f82429414d10a0f33a0c46f47c96":{
-      "scriptId":"u764"},
-    "bbbb078da76f4b4b902d489fea2eabb9":{
-      "scriptId":"u765"},
-    "ba0d4b0329ab4dfebfe0cccbc176d023":{
-      "scriptId":"u766"},
-    "efab6573b7a14846a008cbcb0f847c32":{
-      "scriptId":"u767"},
-    "66b03553604a412bbbdec1dc729b262b":{
-      "scriptId":"u768"},
-    "b50bec84d4a546ee9ec7f322f6c69b30":{
-      "scriptId":"u769"},
-    "8985ecf7037f4e4684a15847064cf100":{
-      "scriptId":"u770"},
-    "22cb3bd9024741fba1949a2dac704d74":{
-      "scriptId":"u771"},
-    "973dd1bb4dc9450daa80dbeb2f56e3d8":{
-      "scriptId":"u772"},
-    "ff7c176a23cf482ebc0e62c92724beeb":{
-      "scriptId":"u773"},
-    "1fd3e5794ae948a090df870d68b45dcd":{
-      "scriptId":"u774"},
-    "0b01cb6f062d4d75bf441416feb57f08":{
-      "scriptId":"u775"},
-    "8cbb76aff014473c9e7c14dde40ff9cc":{
-      "scriptId":"u776"},
-    "4693bbda5c034376a6a18586f95bde6a":{
-      "scriptId":"u777"},
-    "187b93a276c74a308baf84260560a57c":{
-      "scriptId":"u778"},
-    "6d44c9d468d54981822c4bc57dd64097":{
-      "scriptId":"u779"},
-    "2c60040c3e024a88886d7791fc5d908b":{
-      "scriptId":"u780"},
-    "c24c4128d60042489d77ef677b46deff":{
-      "scriptId":"u781"},
-    "77e48a2665774fb2866e02dc1412a1c5":{
-      "scriptId":"u782"},
-    "ee2d0907d26149c8a8678307628b13a6":{
-      "scriptId":"u783"},
-    "b8f7c8342072498ab126ef3f32eae3b8":{
-      "scriptId":"u784"},
-    "edcab851257b41d38f5afa07a4ea001e":{
-      "scriptId":"u785"},
-    "7cab6bf2a35e4e99ae0f29bed5db4321":{
-      "scriptId":"u786"},
-    "110b996846494c1aaaf32e5573f28bb1":{
-      "scriptId":"u787"},
-    "0243c364716140d985cc2ccfaa75915c":{
-      "scriptId":"u788"},
-    "d3b14710882c4e0082f81a9de09eb27b":{
-      "scriptId":"u789"},
-    "982ba3ddcab742689e28e1127481326b":{
-      "scriptId":"u790"},
-    "8fba262eb7074fb6ac07c83ac0d3dd8b":{
-      "scriptId":"u791"},
-    "9313e0def5f2400d9093b6f220740c23":{
-      "scriptId":"u792"},
-    "e31f51a60f5448fd8cd4ce7d3089ea13":{
-      "scriptId":"u793"},
     "5866e1b0260d46569037796dd564b9be":{
-      "scriptId":"u794"},
+      "scriptId":"u701"},
     "d633adf9d70e4e4cbd779a20ae8e0044":{
-      "scriptId":"u795"},
+      "scriptId":"u702"},
     "547b2bbcec3a45f0861090cb7e6a923f":{
-      "scriptId":"u796"},
+      "scriptId":"u703"},
     "6f73f2ea198846f0858405e67605c072":{
-      "scriptId":"u797"},
+      "scriptId":"u704"},
     "0b4ed9fe08b34bb6b1ce75084938878d":{
-      "scriptId":"u798"},
+      "scriptId":"u705"},
     "353210d6459b4e1fb7f6c85d56f6293d":{
-      "scriptId":"u799"},
+      "scriptId":"u706"},
     "e562eeb1017f4094ab619c4605751e8e":{
-      "scriptId":"u800"},
+      "scriptId":"u707"},
     "0590bdabd0bd46a08b4b714cdbd40084":{
-      "scriptId":"u801"},
+      "scriptId":"u708"},
     "30bce7cbc003453da26a33dc08cc69c3":{
-      "scriptId":"u802"},
+      "scriptId":"u709"},
     "63832ee1c2f247d49f866f1313329fa7":{
-      "scriptId":"u803"},
+      "scriptId":"u710"},
     "16b263ff14434f72a34f4b7d744a6ce8":{
-      "scriptId":"u804"},
+      "scriptId":"u711"},
     "68a7d046fcdf47a19757a3a4c99966b1":{
-      "scriptId":"u805"},
+      "scriptId":"u712"},
     "ed607ba161d74cad9c000986cf3a423d":{
-      "scriptId":"u806"},
+      "scriptId":"u713"},
     "60d3e6ead6eb4fabbb4922a0dd3e81f0":{
-      "scriptId":"u807"},
+      "scriptId":"u714"},
     "a7d930f6c3eb49ddaba4bdaae47d447b":{
-      "scriptId":"u808"},
+      "scriptId":"u715"},
     "231eddf3c5ec42b29e70b9f6fd1b7e43":{
-      "scriptId":"u809"},
+      "scriptId":"u716"},
     "b8405406c9aa46d1a76e8f2cd5eec4b8":{
-      "scriptId":"u810"},
+      "scriptId":"u717"},
     "ba0936eb837046ecb90cbeaa4cb020b1":{
-      "scriptId":"u811"},
+      "scriptId":"u718"},
     "c84b46f5d96d4075a7c896b4a071164b":{
-      "scriptId":"u812"},
+      "scriptId":"u719"},
     "c06e8ec8c32d4dd88a5773d422d27de3":{
-      "scriptId":"u813"},
+      "scriptId":"u720"},
     "2245046be63a4ab58f7b0c08e1ec7537":{
-      "scriptId":"u814"},
+      "scriptId":"u721"},
     "15e3b5ecdadc4878abf5e7a2bd3e030f":{
-      "scriptId":"u815"},
+      "scriptId":"u722"},
     "451dee5d4c77439987c538ca39bcdd33":{
-      "scriptId":"u816"},
+      "scriptId":"u723"},
     "51eb79115bb44750ae57b9dd7015a35c":{
-      "scriptId":"u817"},
+      "scriptId":"u724"},
     "1a9427baf81747cfbe6fe8adca09a12f":{
-      "scriptId":"u818"},
+      "scriptId":"u725"},
     "f944ad28ad2c45cbb650cdf17bc3d939":{
-      "scriptId":"u819"},
+      "scriptId":"u726"},
     "e31528cf7dca42239f35201aefb77302":{
-      "scriptId":"u820"},
+      "scriptId":"u727"},
     "c1576ce21a5e4d2d99d6e91f299eaf63":{
-      "scriptId":"u821"},
+      "scriptId":"u728"},
     "0dc5c2889f88428dad181bfd251ba6fb":{
-      "scriptId":"u822"},
+      "scriptId":"u729"},
     "0f48e7eb22184108826b8ede3a2bd7c4":{
-      "scriptId":"u823"},
+      "scriptId":"u730"},
     "5ba513e488894dd6b87fb1ade7b70686":{
-      "scriptId":"u824"},
+      "scriptId":"u731"},
     "cfde82d1275a489d84228fb845a1d258":{
-      "scriptId":"u825"},
+      "scriptId":"u732"},
     "196064dd7bec4b4786a824466bd22ede":{
-      "scriptId":"u826"},
+      "scriptId":"u733"},
     "36dfd8e8081740f090ab3f94ef7c27cd":{
-      "scriptId":"u827"},
+      "scriptId":"u734"},
     "d8fa10aa71604dc7b4c655a80ca478f5":{
-      "scriptId":"u828"},
+      "scriptId":"u735"},
     "a7526039ae464552b54798f36f9981b8":{
-      "scriptId":"u829"},
+      "scriptId":"u736"},
     "79bd9c082639448a9a012428371ec006":{
-      "scriptId":"u830"},
+      "scriptId":"u737"},
     "2315fd8c38c644419a2a4f381708b6b3":{
-      "scriptId":"u831"},
+      "scriptId":"u738"},
     "b243c695eda34fa9878bd038818be630":{
-      "scriptId":"u832"},
+      "scriptId":"u739"},
     "72f9837f20544418b27d6880643c7610":{
-      "scriptId":"u833"},
+      "scriptId":"u740"},
     "19887811799d467289edf46ade4684ae":{
-      "scriptId":"u834"},
+      "scriptId":"u741"},
     "16af1e4c4c8a443c9cec06e5cc55c03f":{
-      "scriptId":"u835"},
+      "scriptId":"u742"},
     "729f2ceee6994139a588a8e226f36ba2":{
-      "scriptId":"u836"},
+      "scriptId":"u743"},
     "2477f88d15a14d60af04b90e0ff365e7":{
-      "scriptId":"u837"},
+      "scriptId":"u744"},
     "02e91efdf9214b28a67e76b24b534007":{
-      "scriptId":"u838"},
+      "scriptId":"u745"},
     "d0bbc5f8bd18435cbfda5a5e9769923c":{
-      "scriptId":"u839"},
+      "scriptId":"u746"},
     "465e7d51302546b29b3ba7bcaf70acd7":{
-      "scriptId":"u840"},
+      "scriptId":"u747"},
     "b266262f9d3345899f1dd014c3ed2ab4":{
-      "scriptId":"u841"},
+      "scriptId":"u748"},
     "cdce76cee03147f4a04d2def8dae25b5":{
-      "scriptId":"u842"},
+      "scriptId":"u749"},
     "93128519d7004eef9dcefb333913b8c4":{
-      "scriptId":"u843"},
+      "scriptId":"u750"},
     "793d3a0e03584b3f9375e513ea0e4fdf":{
-      "scriptId":"u844"},
+      "scriptId":"u751"},
     "da2ddf0001cb47afaa45ddadf8119ecf":{
-      "scriptId":"u845"},
+      "scriptId":"u752"},
     "6371a272024041018073688deead6f2e":{
-      "scriptId":"u846"},
+      "scriptId":"u753"},
     "87e5a64a2e984a2c96c7bbc8be94f9ab":{
-      "scriptId":"u847"},
+      "scriptId":"u754"},
     "ce16fc8cb3814d77bc015672ccc9f4e3":{
-      "scriptId":"u848"},
+      "scriptId":"u755"},
     "07cbee982d6840bba57fc251ca3eeb28":{
-      "scriptId":"u849"},
+      "scriptId":"u756"},
     "c1f0e3391eb64598b981961c7ab6867b":{
-      "scriptId":"u850"},
+      "scriptId":"u757"},
     "8f8ae1f584a344708b0aca1b439b1dd2":{
-      "scriptId":"u851"},
+      "scriptId":"u758"},
     "ca250e7dd7ea46c4bc5eb6f3a5625a2b":{
-      "scriptId":"u852"},
+      "scriptId":"u759"},
     "ce456a4e5c144757abc6155b1c9363f9":{
-      "scriptId":"u853"},
+      "scriptId":"u760"},
     "80952bf9283e46fca3be848309439766":{
-      "scriptId":"u854"},
+      "scriptId":"u761"},
     "7acac86eef0f444a8c79b103925f78ef":{
-      "scriptId":"u855"},
+      "scriptId":"u762"},
     "fd22f758357349debae2b168e6a58f56":{
-      "scriptId":"u856"},
+      "scriptId":"u763"},
     "dcef5af09dbb4020a356d3c15f74070f":{
-      "scriptId":"u857"},
+      "scriptId":"u764"},
     "164cd1065f1142a5afba61d238f9abf0":{
-      "scriptId":"u858"},
+      "scriptId":"u765"},
     "94c805d1bd3b4536bdc102e0a391fe90":{
-      "scriptId":"u859"},
-    "91e1f0f25b824f26bbe3f5241c50f6fe":{
-      "scriptId":"u860"},
-    "1cfebaeb3fa54bf5ac846920d63460af":{
-      "scriptId":"u861"},
-    "c074815302454dcb9fd7b7b5554ac487":{
-      "scriptId":"u862"},
-    "a64a1cee0f5e4c94a8d8a1a55a1f9178":{
-      "scriptId":"u863"},
-    "0bf9d614e7c64a9f93c473c4a96d6efa":{
-      "scriptId":"u864"},
-    "a86ee61001f941e8b00756f2d7547b1d":{
-      "scriptId":"u865"},
-    "f005f8d19b2e48ffb99e2e573ac79f60":{
-      "scriptId":"u866"},
-    "309b149dc29a44e4bac8367feb81228c":{
-      "scriptId":"u867"},
-    "75527521c16343aba273dcc319aa631d":{
-      "scriptId":"u868"},
-    "e703915dfa06457fb871714b49bb0e64":{
-      "scriptId":"u869"},
-    "9ea7e57f04d0439b9a2dbb0733dfe719":{
-      "scriptId":"u870"},
-    "4e41bb79c78045b582df43669002e567":{
-      "scriptId":"u871"},
-    "4b2ddd820c424c46be944c7979d616e3":{
-      "scriptId":"u872"},
-    "16b6e670ac9c448c8ed8d9aa0d2adecb":{
-      "scriptId":"u873"},
-    "5f9dba74b94e4d238294f0f3ef6cdcb9":{
-      "scriptId":"u874"},
-    "069935c203da4535b6593f49eb9c5adc":{
-      "scriptId":"u875"},
+      "scriptId":"u766"},
     "1ff5de4ccbf44c4886af3b4e13dc6ba9":{
-      "scriptId":"u876"},
+      "scriptId":"u767"},
     "9a68fba6517a49718113d1876b9a8df9":{
-      "scriptId":"u877"},
+      "scriptId":"u768"},
     "f1cb219f126941f0a4ae56017d625f53":{
-      "scriptId":"u878"},
+      "scriptId":"u769"},
     "09ffe4623415465884f1a82ed19ada69":{
-      "scriptId":"u879"},
+      "scriptId":"u770"},
     "012d99acc1bb425ca8548c243af2aaf3":{
-      "scriptId":"u880"},
+      "scriptId":"u771"},
     "2a683d66ad244664b69b8d2cf52fcb47":{
-      "scriptId":"u881"},
+      "scriptId":"u772"},
     "3bef1d154a1d4c1fa2d0e6d15a90dbb7":{
-      "scriptId":"u882"},
+      "scriptId":"u773"},
     "c94bb0dc724348ba893ccaf5b785b25d":{
-      "scriptId":"u883"},
+      "scriptId":"u774"},
     "5baef8c08a0545d0bf77c69f04aa1d85":{
-      "scriptId":"u884"},
+      "scriptId":"u775"},
     "c05260782ad443dcb7b0b45ea2635dca":{
-      "scriptId":"u885"},
+      "scriptId":"u776"},
     "e5e2770287854d3b813dfe9cb957f0b3":{
-      "scriptId":"u886"},
+      "scriptId":"u777"},
     "b58891cb569049a094cbf2547f13a4c3":{
-      "scriptId":"u887"},
+      "scriptId":"u778"},
     "112f46d989a340089eef2daef8c2a3ef":{
-      "scriptId":"u888"},
+      "scriptId":"u779"},
     "7d9f83ca26d14aeb89486c8e8028bbe9":{
-      "scriptId":"u889"},
+      "scriptId":"u780"},
     "8145b4730db34839bf6b402fe3fa655b":{
-      "scriptId":"u890"},
+      "scriptId":"u781"},
     "dbfe77c84a884d3da7031eab6757efb4":{
-      "scriptId":"u891"},
+      "scriptId":"u782"},
     "96137e04012044cab77b317b7a28260b":{
-      "scriptId":"u892"},
+      "scriptId":"u783"},
     "bc800fa69f2b4589a64659c776433dcb":{
-      "scriptId":"u893"},
+      "scriptId":"u784"},
     "0c591c2397e743c7bbffab792c8b7d02":{
-      "scriptId":"u894"},
+      "scriptId":"u785"},
     "0be36682141b49539f0b7c885958e4f7":{
-      "scriptId":"u895"},
+      "scriptId":"u786"},
     "d199c63b64e549488206f4df899541db":{
-      "scriptId":"u896"},
+      "scriptId":"u787"},
     "c50c74daba084e07b98e9897bd054684":{
-      "scriptId":"u897"},
+      "scriptId":"u788"},
     "c08a2eee6adf44aeb3990e89658b86ea":{
-      "scriptId":"u898"},
+      "scriptId":"u789"},
     "d3ffa9e9634c480486126f2027474692":{
-      "scriptId":"u899"},
+      "scriptId":"u790"},
     "fa3b0433072a44219ea62b22cbe583f1":{
-      "scriptId":"u900"},
+      "scriptId":"u791"},
     "59d11df3a6c74348957c493352f1869f":{
-      "scriptId":"u901"},
+      "scriptId":"u792"},
     "95f004412a074ac1a28ec4b76490aad4":{
-      "scriptId":"u902"},
+      "scriptId":"u793"},
     "8ec9d251a02540949ee77c958c420e97":{
-      "scriptId":"u903"},
+      "scriptId":"u794"},
     "f5d1d45256d841069faaf57b606b09f4":{
-      "scriptId":"u904"},
+      "scriptId":"u795"},
     "d03cda0d03c04c4da10f4c231e8c1f84":{
-      "scriptId":"u905"},
+      "scriptId":"u796"},
     "787329490ad84fbfb4fef2a6dd50b75e":{
-      "scriptId":"u906"},
+      "scriptId":"u797"},
     "5bde55bbb0a2407483812bfc337e433c":{
-      "scriptId":"u907"},
+      "scriptId":"u798"},
     "a44d7aa94c6844b4836e330ae89b6491":{
-      "scriptId":"u908"},
+      "scriptId":"u799"},
     "e7c1bd62105e4ed181630db596470759":{
-      "scriptId":"u909"},
+      "scriptId":"u800"},
     "5a7dbfcfc6024015a80f7290b35a7c9d":{
-      "scriptId":"u910"},
+      "scriptId":"u801"},
     "858e51398c0e4e6588dc7149704e266c":{
-      "scriptId":"u911"},
+      "scriptId":"u802"},
     "18d8f86c8e434837a06d8fe856520423":{
-      "scriptId":"u912"},
+      "scriptId":"u803"},
     "af1311c3d6684ca38d14adc7a7d95ac6":{
-      "scriptId":"u913"},
+      "scriptId":"u804"},
     "f6143e5532ec4b129ce4fa644ca37149":{
-      "scriptId":"u914"},
+      "scriptId":"u805"},
     "f11eb046975c418197daef27f253fef5":{
-      "scriptId":"u915"},
+      "scriptId":"u806"},
     "e9adf9c882864aa4b347f57130d1d9b2":{
-      "scriptId":"u916"},
+      "scriptId":"u807"},
     "70606d1694ea44e48fbcd83669e6fbd0":{
-      "scriptId":"u917"},
+      "scriptId":"u808"},
     "0edadca173bb4ec88c8deb5349a5e44d":{
-      "scriptId":"u918"},
+      "scriptId":"u809"},
     "191b53c4a1144aa1a58f9802063fd4e2":{
-      "scriptId":"u919"},
+      "scriptId":"u810"},
     "f010f8d85ad44ca88a3c76c8c4f9937d":{
-      "scriptId":"u920"},
+      "scriptId":"u811"},
     "8abf9a707b424b148d731b50b2a1fd57":{
-      "scriptId":"u921"},
+      "scriptId":"u812"},
     "69019539befc4ac2996bf2e6988e9668":{
-      "scriptId":"u922"},
+      "scriptId":"u813"},
     "29e16c6935504346b15e1d860146a499":{
-      "scriptId":"u923"},
+      "scriptId":"u814"},
     "af649ecc813e4beebf03792d3001ca0b":{
-      "scriptId":"u924"},
+      "scriptId":"u815"},
     "a38136a65d47416aa2e494d52a24ccfa":{
-      "scriptId":"u925"},
+      "scriptId":"u816"},
     "49361a51d65744f0a99b75ba9832941d":{
-      "scriptId":"u926"},
+      "scriptId":"u817"},
     "d5f6466560704255aa6f300cc342ed37":{
-      "scriptId":"u927"},
+      "scriptId":"u818"},
     "04df0f0d00f8419889efa7908604a85d":{
-      "scriptId":"u928"},
+      "scriptId":"u819"},
     "ca5582eae5c34075964ab8ce5b899661":{
-      "scriptId":"u929"},
+      "scriptId":"u820"},
     "74084a1476674d9c86e93d8d5d6d7751":{
-      "scriptId":"u930"},
+      "scriptId":"u821"},
     "1d0834d4f2024baf86d9c8d8e0d4b10f":{
-      "scriptId":"u931"},
+      "scriptId":"u822"},
     "50b56c536c3f4cbc8f39e45c9bdb9796":{
-      "scriptId":"u932"},
+      "scriptId":"u823"},
     "e9b54ca9f3754093a56de04ca9a2e642":{
-      "scriptId":"u933"},
+      "scriptId":"u824"},
     "3a9082bc2a3f414ba778172e9c6cec77":{
-      "scriptId":"u934"},
+      "scriptId":"u825"},
     "da8b100677a34c2ebe5d26f7f489fe20":{
-      "scriptId":"u935"},
+      "scriptId":"u826"},
     "8cb68ddc393a4bfca87caa8554286c49":{
-      "scriptId":"u936"},
+      "scriptId":"u827"},
     "68bd5e055d284ae993cf1f58931fc846":{
-      "scriptId":"u937"},
+      "scriptId":"u828"},
     "e4b00570bb164b46b45ae26df137a8c1":{
-      "scriptId":"u938"},
+      "scriptId":"u829"},
     "fad7c5efa0dc45ee959564e33789bd62":{
-      "scriptId":"u939"},
+      "scriptId":"u830"},
     "8d94cafbe8244ff799675ac5adbf9faa":{
-      "scriptId":"u940"},
+      "scriptId":"u831"},
     "a2f09b9e0ee94bd693ed977ab363b5ce":{
-      "scriptId":"u941"},
+      "scriptId":"u832"},
     "8cf440e5ae554bfaa16e2f3281696ea6":{
-      "scriptId":"u942"},
+      "scriptId":"u833"},
     "dee2c0fc3fa54059a002cf2fa25cea76":{
-      "scriptId":"u943"},
+      "scriptId":"u834"},
     "c39004b7b7254b7ba9356a1e904ba19f":{
-      "scriptId":"u944"},
+      "scriptId":"u835"},
     "2e2619e727724d00a04f60ee9593a8e3":{
-      "scriptId":"u945"},
+      "scriptId":"u836"},
     "2cd8505501ad44fda1fb62670e741f6b":{
-      "scriptId":"u946"},
+      "scriptId":"u837"},
     "702ec18934e04e899a96466074c76957":{
-      "scriptId":"u947"},
+      "scriptId":"u838"},
     "4a1e1d3281af4a7582e7416790e6bb65":{
-      "scriptId":"u948"},
+      "scriptId":"u839"},
     "8702f707437f4de8b6ae37f65814d720":{
-      "scriptId":"u949"},
+      "scriptId":"u840"},
     "3fe0c2d88e654e0c904d7c0e25d8ab35":{
-      "scriptId":"u950"},
+      "scriptId":"u841"},
     "d3366cacc13a45d0b3b6445c666ebef9":{
-      "scriptId":"u951"},
+      "scriptId":"u842"},
     "4165ee25505242419f0274651d04bc91":{
-      "scriptId":"u952"},
+      "scriptId":"u843"},
     "6b4622e127904a8093e9b162f9d2479a":{
-      "scriptId":"u953"},
+      "scriptId":"u844"},
     "db8ede0eb3d948a1aedc77be103af449":{
-      "scriptId":"u954"},
+      "scriptId":"u845"},
     "986987cd6c2143129358121b78394546":{
-      "scriptId":"u955"},
+      "scriptId":"u846"},
     "914a4b5b99d84c54b3911eb03522fa59":{
-      "scriptId":"u956"},
+      "scriptId":"u847"},
     "a3def6bdea9f41568ecd9b744e07112d":{
-      "scriptId":"u957"},
+      "scriptId":"u848"},
     "49e23eda490f41fb859e61a7ea39c5f8":{
-      "scriptId":"u958"},
+      "scriptId":"u849"},
     "10038808671648c6b0b521434dbd8c16":{
-      "scriptId":"u959"},
+      "scriptId":"u850"},
     "7a069621c5a140e9bf00e82345dec561":{
-      "scriptId":"u960"},
+      "scriptId":"u851"},
     "697392b9d9684bd4bab6675c0aa78e60":{
-      "scriptId":"u961"},
+      "scriptId":"u852"},
     "cd8b2301cee541d09d5358d91c08349d":{
-      "scriptId":"u962"},
+      "scriptId":"u853"},
     "7afb923b86af4aeba2c96e69fe3cf899":{
-      "scriptId":"u963"},
+      "scriptId":"u854"},
     "b4ae6d5a5fad4affacc68f1fc42c433d":{
-      "scriptId":"u964"},
+      "scriptId":"u855"},
     "9387e3f7d3454b7886e8364ba1870071":{
-      "scriptId":"u965"},
+      "scriptId":"u856"},
     "3014fa5ee43f4902b2868e5494eef9c6":{
-      "scriptId":"u966"},
+      "scriptId":"u857"},
     "60636be6511e46b2893c564d7f4156a1":{
-      "scriptId":"u967"},
+      "scriptId":"u858"},
     "4f5baf73764c45529192d9284b3176f6":{
-      "scriptId":"u968"},
+      "scriptId":"u859"},
     "895fdda837c84150b952cffc66f4e3f6":{
-      "scriptId":"u969"},
+      "scriptId":"u860"},
     "0b36843c87274965a168b5b8253f09f4":{
-      "scriptId":"u970"},
+      "scriptId":"u861"},
     "3e4ceb0da8374ca3a5f26951c8fe2ad0":{
-      "scriptId":"u971"},
+      "scriptId":"u862"},
     "d9b4057f137e4522ad4e6076d5b39aac":{
-      "scriptId":"u972"},
+      "scriptId":"u863"},
     "81f678cc523c448b83f8c7c38d902161":{
-      "scriptId":"u973"},
+      "scriptId":"u864"},
     "1416a055fa344d62b3f3efaf2df346aa":{
-      "scriptId":"u974"},
+      "scriptId":"u865"},
     "47fd2163cea446489124fccc2c7c1bcf":{
-      "scriptId":"u975"},
+      "scriptId":"u866"},
     "d1b29d99061640e181e8d741585a037d":{
-      "scriptId":"u976"},
+      "scriptId":"u867"},
     "0159a95f2d8a44d7aa2f206ae57425ca":{
-      "scriptId":"u977"},
+      "scriptId":"u868"},
     "35f7da7a57454da284eb664c78897f3d":{
-      "scriptId":"u978"},
+      "scriptId":"u869"},
     "4679d054c49e4f319b19d43bd4470547":{
-      "scriptId":"u979"},
+      "scriptId":"u870"},
     "11106dae6a0e42d4b0a5b172dcee9d5b":{
-      "scriptId":"u980"},
+      "scriptId":"u871"},
     "70ce013b8b344e8993f6d7700a8dbf8d":{
-      "scriptId":"u981"},
+      "scriptId":"u872"},
     "3dcee8dea06a4e33944af4aa69cd694e":{
-      "scriptId":"u982"},
+      "scriptId":"u873"},
     "97d2396bd56a48d7b33f9c18e27046c4":{
-      "scriptId":"u983"},
+      "scriptId":"u874"},
     "3d98081deb004b8aa41650a78456ffb0":{
-      "scriptId":"u984"},
+      "scriptId":"u875"},
     "410a27fd57734f7dafea3cbcf92b6fb0":{
-      "scriptId":"u985"},
+      "scriptId":"u876"},
     "76b6a5b808d94f85aaac8c37dee09570":{
-      "scriptId":"u986"},
+      "scriptId":"u877"},
     "e5d3d4db47cc426897cbf31739aa05e9":{
-      "scriptId":"u987"},
+      "scriptId":"u878"},
     "456856c74bb64afb80b043d4e85985d5":{
-      "scriptId":"u988"},
+      "scriptId":"u879"},
     "4b32a2febda9425b8410390286cadfa1":{
-      "scriptId":"u989"},
+      "scriptId":"u880"},
     "10a4547359ce480f9e37d9e42b4e7f60":{
-      "scriptId":"u990"},
+      "scriptId":"u881"},
     "c005c167ca8a43ad8f0e5afd323bd27e":{
-      "scriptId":"u991"},
+      "scriptId":"u882"},
     "174d6ede7e484671ad168e19143aa49e":{
-      "scriptId":"u992"},
+      "scriptId":"u883"},
     "eb95bf54c7aa4c86b566e083b47a5e6d":{
-      "scriptId":"u993"},
+      "scriptId":"u884"},
     "5274eaa548c54e55b9444a14514b8ef9":{
-      "scriptId":"u994"},
+      "scriptId":"u885"},
     "6634d03d3a004282b7760a0dc0887921":{
-      "scriptId":"u995"},
+      "scriptId":"u886"},
     "e1367f8a39b34f6db27fafe723a47b3e":{
-      "scriptId":"u996"},
+      "scriptId":"u887"},
     "0aaddf34202043c49053f7103d7a7367":{
-      "scriptId":"u997"},
+      "scriptId":"u888"},
     "830cef1cb6e84b068c46dfcd314bb4e7":{
-      "scriptId":"u998"},
+      "scriptId":"u889"},
     "57a338a416f646ba964ea075d30fcfe5":{
-      "scriptId":"u999"},
+      "scriptId":"u890"},
     "9db6bd4241d04aa9a6fdba34e3f27478":{
-      "scriptId":"u1000"},
+      "scriptId":"u891"},
     "af9c53f03dcf4c25b467de381d028f12":{
-      "scriptId":"u1001"},
+      "scriptId":"u892"},
     "26507a5b907f42b19b2faeb926deeb29":{
-      "scriptId":"u1002"},
+      "scriptId":"u893"},
     "b1acdb3a54de4856ba217e1782ee2952":{
-      "scriptId":"u1003"},
+      "scriptId":"u894"},
     "cbd54a02e1f2456ca99ef9efd35bd6c6":{
-      "scriptId":"u1004"},
+      "scriptId":"u895"},
     "ca67d685f126410d8c3d7872df8d2221":{
-      "scriptId":"u1005"},
+      "scriptId":"u896"},
     "ec56089665b945d58f9f9d9f614e1ace":{
-      "scriptId":"u1006"},
+      "scriptId":"u897"},
     "0bcee6efa4f1423d825f6250c1524550":{
-      "scriptId":"u1007"},
+      "scriptId":"u898"},
     "b3614ebdffb14d01a32a674575637e74":{
-      "scriptId":"u1008"},
+      "scriptId":"u899"},
     "e309cda555d9404b802cae6c65ca4183":{
-      "scriptId":"u1009"}}});
+      "scriptId":"u900"}}});
