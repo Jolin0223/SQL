@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"任务详情.html",
-  "generationDate":new Date(1499145247876.52),
+  "generationDate":new Date(1499157614628.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -2618,7 +2618,7 @@
               "disabled":{
                 "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
             "location":{
-              "x":724,
+              "x":660,
               "y":1000},
             "size":{
               "width":65,
@@ -2648,7 +2648,7 @@
                   "disabled":{
                     "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
                 "location":{
-                  "x":724,
+                  "x":660,
                   "y":1000},
                 "size":{
                   "width":65,
@@ -2666,14 +2666,7 @@
               "cases":[{
                   "description":"用例 1",
                   "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 SQL开发中心",
-                      "target":{
-                        "targetType":"page",
-                        "url":"sql开发中心.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]},
+                  "actions":[]}]},
             "onMouseHover":{
               "description":"OnMouseHover",
               "cases":[{
