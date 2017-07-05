@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"任务详情.html",
-  "generationDate":new Date(1499233588769.72),
+  "generationDate":new Date(1499239857415.15),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -1006,7 +1006,7 @@
           "styleType":"h1",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "fontSize":"20px",
             "fontWeight":"400",
             "baseStyle":"627587b6038d43cca051c114ac41ad32",
@@ -1026,7 +1026,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "fontSize":"20px",
                 "fontWeight":"400",
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
@@ -1208,7 +1208,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
             "stateStyles":{
               "mouseOver":{
@@ -1234,7 +1234,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
                 "stateStyles":{
                   "mouseOver":{
@@ -1700,7 +1700,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
             "location":{
               "x":1181,
@@ -1718,7 +1718,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
                 "location":{
                   "x":1181,
@@ -1835,9 +1835,10 @@
           "styleType":"h1",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Bold', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "fontSize":"16px",
-            "fontWeight":"650",
+            "fontWeight":"400",
+            "fontStyle":"normal",
             "baseStyle":"627587b6038d43cca051c114ac41ad32",
             "location":{
               "x":247,
@@ -1855,9 +1856,10 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Bold', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "fontSize":"16px",
-                "fontWeight":"650",
+                "fontWeight":"400",
+                "fontStyle":"normal",
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":247,
@@ -1876,7 +1878,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":278,
@@ -1894,7 +1896,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":278,
@@ -1913,7 +1915,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":848,
@@ -1931,7 +1933,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":848,
@@ -1950,7 +1952,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":278,
@@ -1968,7 +1970,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":278,
@@ -1987,7 +1989,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":848,
@@ -2005,7 +2007,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":848,
@@ -2024,7 +2026,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":278,
@@ -2042,7 +2044,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":278,
@@ -2061,7 +2063,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":817,
@@ -2079,7 +2081,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":817,
@@ -2098,7 +2100,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":278,
@@ -2116,7 +2118,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":278,
@@ -2157,9 +2159,10 @@
           "styleType":"h1",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Bold', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "fontSize":"20px",
-            "fontWeight":"650",
+            "fontWeight":"400",
+            "fontStyle":"normal",
             "baseStyle":"627587b6038d43cca051c114ac41ad32",
             "location":{
               "x":261,
@@ -2177,9 +2180,10 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Bold', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "fontSize":"20px",
-                "fontWeight":"650",
+                "fontWeight":"400",
+                "fontStyle":"normal",
                 "baseStyle":"627587b6038d43cca051c114ac41ad32",
                 "location":{
                   "x":261,
@@ -2198,7 +2202,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":817,
@@ -2216,7 +2220,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":817,
@@ -2235,7 +2239,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":261,
@@ -2253,7 +2257,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":261,
@@ -2272,7 +2276,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":817,
@@ -2290,7 +2294,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":817,
@@ -2545,7 +2549,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":261,
@@ -2563,7 +2567,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":261,
@@ -2604,7 +2608,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
             "stateStyles":{
               "mouseOver":{
@@ -2634,7 +2638,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                 "stateStyles":{
                   "mouseOver":{
@@ -2685,7 +2689,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"8a8065df3960467786ec2e2b753983d3",
             "stateStyles":{
               "mouseOver":{
@@ -2708,7 +2712,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                 "stateStyles":{
                   "mouseOver":{
@@ -2734,7 +2738,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":435,
@@ -2752,7 +2756,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":435,
@@ -2771,7 +2775,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":435,
@@ -2789,7 +2793,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":435,
@@ -2808,7 +2812,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":435,
@@ -2826,7 +2830,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":435,
@@ -2845,7 +2849,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":435,
@@ -2863,7 +2867,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":435,
@@ -2882,7 +2886,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":435,
@@ -2900,7 +2904,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":435,
@@ -2919,7 +2923,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":996,
@@ -2937,7 +2941,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":996,
@@ -2956,7 +2960,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":996,
@@ -2974,7 +2978,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":996,
@@ -3790,7 +3794,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":848,
@@ -3808,7 +3812,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":848,
@@ -3827,7 +3831,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":996,
@@ -3845,7 +3849,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":996,
@@ -3864,7 +3868,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":278,
@@ -3882,7 +3886,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":278,
@@ -3901,7 +3905,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":435,
@@ -3919,7 +3923,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":435,
@@ -3938,7 +3942,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":960,
@@ -3956,7 +3960,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":960,
@@ -3975,7 +3979,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":960,
@@ -3993,7 +3997,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":960,
@@ -4012,7 +4016,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
             "location":{
               "x":960,
@@ -4030,7 +4034,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                 "location":{
                   "x":960,
@@ -4700,7 +4704,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
             "location":{
               "x":261,
@@ -4718,7 +4722,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                 "location":{
                   "x":261,
