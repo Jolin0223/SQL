@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"任务详情.html",
-  "generationDate":new Date(1499239857415.15),
+  "generationDate":new Date(1499329469697.57),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -3283,7 +3283,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/sql开发中心/u86_line.png"}},
+            "line~":"images/sql开发中心/u186_line.png"}},
 {
           "id":"915370a556a94c9ba273c6d733bdf096",
           "label":"标签2",
@@ -3491,7 +3491,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/2_u90.png"}},
+                    "normal~":"images/任务详情/2_u135.png"}},
 {
                   "id":"07d6f039b38248d582b44f3571c0c489",
                   "label":"1-2",
@@ -3534,7 +3534,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/1-2_u92.png"}}],
+                    "normal~":"images/sql开发中心/1-2_u808.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -3776,7 +3776,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/1-1_u99.png"}}],
+                    "normal~":"images/sql开发中心/1-1_u815.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -4253,7 +4253,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/2_u90.png"}},
+                    "normal~":"images/任务详情/2_u135.png"}},
 {
                   "id":"9d976d05174d4266a5a392bf7c6bf848",
                   "label":"1-2",
@@ -4296,7 +4296,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/1-2_u92.png"}}],
+                    "normal~":"images/sql开发中心/1-2_u808.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -4514,7 +4514,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/2_u90.png"}},
+                    "normal~":"images/任务详情/2_u135.png"}},
 {
                   "id":"f5cffcad09fa45d39e368fbb3ff8d587",
                   "label":"1-2",
@@ -4557,7 +4557,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/sql开发中心/1-2_u92.png"}}],
+                    "normal~":"images/sql开发中心/1-2_u808.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",

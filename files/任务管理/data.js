@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"任务管理.html",
-  "generationDate":new Date(1499241791578.86),
+  "generationDate":new Date(1499329442133.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -135,7 +135,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u0.png"}},
+            "normal~":"images/任务管理/u0.png"}},
 {
           "id":"a2a5efe5f7384462b2fb7d87cecca1ca",
           "label":"平台首页",
@@ -184,7 +184,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/平台首页_u2.png"}},
+            "normal~":"images/任务管理/平台首页_u2.png"}},
 {
           "id":"839caa0665bb48d095105c33bc4d6cc2",
           "label":"产品分类按钮",
@@ -237,7 +237,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/产品分类按钮_u4.png"}},
+            "normal~":"images/任务管理/产品分类按钮_u4.png"}},
 {
           "id":"76e5a6c2a5f14bbcadad2a715e331444",
           "label":"数据直通车",
@@ -280,8 +280,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/数据直通车_u6.png",
-            "selected~":"images/任务管理/regen/数据直通车_u6.png"}},
+            "normal~":"images/任务管理/数据直通车_u6.png",
+            "selected~":"images/任务管理/数据直通车_u6.png"}},
 {
           "id":"09e5aa5deb33438495e0849558443fd0",
           "label":"",
@@ -322,7 +322,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u8.png"}},
+            "normal~":"images/任务管理/u8.png"}},
 {
           "id":"0d2d0ae024a7477b86f3f320bbd7f74d",
           "label":"",
@@ -355,8 +355,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u10.png",
-            "mouseOver~":"images/任务管理/regen/u10.png"}},
+            "normal~":"images/任务管理/u10.png",
+            "mouseOver~":"images/任务管理/u10.png"}},
 {
           "id":"6ddb16f7cbed4cd4a195908e47a51276",
           "label":"",
@@ -397,7 +397,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u8.png"}},
+            "normal~":"images/任务管理/u8.png"}},
 {
           "id":"3c9668188bd5481ab73213d9a3976eeb",
           "label":"",
@@ -438,7 +438,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u8.png"}},
+            "normal~":"images/任务管理/u8.png"}},
 {
           "id":"b8dc22a308e1480683c5b57d5cd17564",
           "label":"平台首页图标",
@@ -477,7 +477,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/平台首页图标_u16.png"}},
+            "normal~":"images/任务管理/平台首页图标_u16.png"}},
 {
           "id":"ba67797e58874fc9a7f0af9b595b3648",
           "label":"最后一根分割线",
@@ -518,7 +518,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u8.png"}},
+            "normal~":"images/任务管理/u8.png"}},
 {
           "id":"9981fb9b8a154001bfceccef66a292f1",
           "label":"产品分类",
@@ -561,7 +561,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/产品分类_u20.png"}},
+            "normal~":"images/任务管理/产品分类_u20.png"}},
 {
           "id":"b8bad83653b0408bb9bf172f0d32d9f6",
           "label":"直通车图标",
@@ -594,7 +594,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/直通车图标_u22.png"}},
+            "normal~":"images/任务管理/直通车图标_u22.png"}},
 {
           "id":"99a65d667a0a4800bcaa238e9c78903b",
           "label":"产品分类下拉",
@@ -635,7 +635,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/产品分类下拉_u24.png"}},
+            "normal~":"images/任务管理/产品分类下拉_u24.png"}},
 {
           "id":"bf48ed80b91d4e12b9a051b7506d8ea1",
           "label":"",
@@ -676,7 +676,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u8.png"}},
+            "normal~":"images/任务管理/u8.png"}},
 {
           "id":"2d9bc1ebaf854141bf0fb31ae979c43a",
           "label":"",
@@ -713,7 +713,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u28.png"}},
+            "normal~":"images/任务管理/u28.png"}},
 {
           "id":"147fe53fd0ee4f488c50905eb98c664b",
           "label":"",
@@ -748,7 +748,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u30.png"}},
+            "normal~":"images/任务管理/u30.png"}},
 {
           "id":"7dbdb72e880f4f86a5e852eb5c123362",
           "label":"下拉",
@@ -789,7 +789,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/产品分类下拉_u24.png"}},
+            "normal~":"images/任务管理/产品分类下拉_u24.png"}},
 {
           "id":"47e7d6da6862489d8ce49e3047af73e8",
           "label":"",
@@ -834,7 +834,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u34.png"}},
+            "normal~":"images/任务管理/u34.png"}},
 {
           "id":"5f8f71422adc4450b29760b3b52212d0",
           "label":"",
@@ -875,7 +875,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u36.png"}},
+            "normal~":"images/任务管理/u36.png"}},
 {
           "id":"ad12378f00984b8985a7f7220873a2ff",
           "label":"item1",
@@ -1008,7 +1008,7 @@
           "tabbable":true,
           "images":{
             "normal~":"resources/images/transparent.gif",
-            "selected~":"images/任务管理/regen/我的数据概览_u40_selected.png",
+            "selected~":"images/任务管理/我的数据概览_u40_selected.png",
             "mouseOver~":"resources/images/transparent.gif"}},
 {
           "id":"a24d36bc6c4645a499d37746a533b225",
@@ -1061,7 +1061,7 @@
                       "panelsToStates":[]}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/任务管理/regen/u42.png"}},
+            "normal~":"images/任务管理/u42.png"}},
 {
           "id":"b8eb89a94f6847ea8b03efce60e059f5",
           "label":"横线1",
@@ -1083,7 +1083,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/任务管理/regen/横线1_u44_line.png"}},
+            "line~":"images/任务管理/横线1_u44_line.png"}},
 {
           "id":"a46f82d68c3b4e119bcce0e2b92d7f45",
           "label":"横线2",
@@ -1105,7 +1105,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/任务管理/regen/横线1_u44_line.png"}},
+            "line~":"images/任务管理/横线1_u44_line.png"}},
 {
           "id":"2bfa9b23c1574abba3191480fa05a3ad",
           "label":"横线4",
@@ -1127,7 +1127,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/任务管理/regen/横线1_u44_line.png"}},
+            "line~":"images/任务管理/横线1_u44_line.png"}},
 {
           "id":"321b6e91ff4f4bd0b18a91e5cd723929",
           "label":"展开菜单",
@@ -1186,7 +1186,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u48.png"}},
+                    "normal~":"images/任务管理/u48.png"}},
 {
                   "id":"3de1b7075de74ebb933dc85da892271a",
                   "label":"任务管理",
@@ -1263,7 +1263,7 @@
                   "tabbable":true,
                   "images":{
                     "normal~":"resources/images/transparent.gif",
-                    "selected~":"images/任务管理/regen/任务管理_u50_selected.png",
+                    "selected~":"images/任务管理/任务管理_u50_selected.png",
                     "mouseOver~":"resources/images/transparent.gif"}},
 {
                   "id":"c41390ccb3f54983a77747629fb9b6cf",
@@ -1365,7 +1365,7 @@
                   "tabbable":true,
                   "images":{
                     "normal~":"resources/images/transparent.gif",
-                    "selected~":"images/任务管理/regen/任务管理_u50_selected.png",
+                    "selected~":"images/任务管理/任务管理_u50_selected.png",
                     "mouseOver~":"resources/images/transparent.gif"}},
 {
                   "id":"8028c8c6fe504fccbad6e711c4355243",
@@ -1475,7 +1475,7 @@
                   "tabbable":true,
                   "images":{
                     "normal~":"resources/images/transparent.gif",
-                    "selected~":"images/任务管理/regen/任务管理_u50_selected.png",
+                    "selected~":"images/任务管理/任务管理_u50_selected.png",
                     "mouseOver~":"resources/images/transparent.gif"}},
 {
                   "id":"7ad76d8405234fcb842dd32cd12f7bd2",
@@ -1499,7 +1499,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/任务管理/regen/横线1_u44_line.png"}}],
+                    "line~":"images/任务管理/横线1_u44_line.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -1603,7 +1603,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u42.png"}},
+                    "normal~":"images/任务管理/u42.png"}},
 {
                   "id":"d65d9ba0b6614c7081d4f8773512d9f6",
                   "label":"item2",
@@ -1781,7 +1781,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u63.png"}},
+                    "normal~":"images/任务管理/u63.png"}},
 {
                   "id":"ed4bee0358314d52b170d6557e390f48",
                   "label":"item2",
@@ -1920,8 +1920,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u67.png",
-            "mouseOver~":"images/任务管理/regen/u67.png"}},
+            "normal~":"images/任务管理/u67.png",
+            "mouseOver~":"images/任务管理/u67.png"}},
 {
           "id":"4ee1638329684f0090e565f8a285cd40",
           "label":"",
@@ -1978,8 +1978,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u67.png",
-            "mouseOver~":"images/任务管理/regen/u67.png"}},
+            "normal~":"images/任务管理/u67.png",
+            "mouseOver~":"images/任务管理/u67.png"}},
 {
           "id":"709073498a9440abb9b976293e50ac75",
           "label":"",
@@ -2036,8 +2036,8 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u67.png",
-            "mouseOver~":"images/任务管理/regen/u67.png"}},
+            "normal~":"images/任务管理/u67.png",
+            "mouseOver~":"images/任务管理/u67.png"}},
 {
           "id":"9bd9a80ae4de4a84acdb5828a91b9b79",
           "label":"",
@@ -2059,7 +2059,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/任务管理/regen/u73_line.png"}},
+            "line~":"images/任务管理/u73_line.png"}},
 {
           "id":"90662ff2c7184163b670769ea7f8625e",
           "label":"",
@@ -2149,7 +2149,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u76.png"}},
+            "normal~":"images/任务管理/u76.png"}},
 {
           "id":"b791465bbbbd473eb0ea2e7ca5ed0551",
           "label":"表头",
@@ -2288,10 +2288,10 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/输入框1_u82.png",
-            "selected~":"images/任务管理/regen/输入框1_u82_selected.png",
-            "mouseDown~":"images/任务管理/regen/输入框1_u82_selected.png",
-            "disabled~":"images/任务管理/regen/输入框1_u82_disabled.png"}},
+            "normal~":"images/任务管理/输入框1_u82.png",
+            "selected~":"images/任务管理/输入框1_u82_selected.png",
+            "mouseDown~":"images/任务管理/输入框1_u82_selected.png",
+            "disabled~":"images/任务管理/输入框1_u82_disabled.png"}},
 {
           "id":"4bf39d5b6b954c25b6736b1c4d42f4d8",
           "label":"表头",
@@ -2585,10 +2585,10 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮1_u87.png",
-            "mouseOver~":"images/任务管理/regen/按钮1_u87_mouseOver.png",
-            "mouseDown~":"images/任务管理/regen/按钮1_u87_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮1_u87_disabled.png"}},
+            "normal~":"images/任务管理/按钮1_u87.png",
+            "mouseOver~":"images/任务管理/按钮1_u87_mouseOver.png",
+            "mouseDown~":"images/任务管理/按钮1_u87_mouseOver.png",
+            "disabled~":"images/任务管理/按钮1_u87_disabled.png"}},
 {
           "id":"7bb816e7e8ed420bb6738c1c148456d8",
           "label":"按钮2",
@@ -2635,9 +2635,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u89.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u89_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u89_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u89.png",
+            "mouseOver~":"images/任务管理/按钮2_u89_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u89_disabled.png"}},
 {
           "id":"1d49a67f94224fa19ac551badf891170",
           "label":"表头",
@@ -3028,10 +3028,10 @@
                                 "stos":[]}]}]}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/任务管理/regen/文本框_u97.png",
-            "selected~":"images/任务管理/regen/文本框_u97_selected.png",
-            "mouseDown~":"images/任务管理/regen/文本框_u97_selected.png",
-            "disabled~":"images/任务管理/regen/文本框_u97_disabled.png"}},
+            "normal~":"images/任务管理/文本框_u97.png",
+            "selected~":"images/任务管理/文本框_u97_selected.png",
+            "mouseDown~":"images/任务管理/文本框_u97_selected.png",
+            "disabled~":"images/任务管理/文本框_u97_disabled.png"}},
 {
           "id":"ce8f707fee0344fdbaad7d756c749704",
           "label":"下拉选中",
@@ -3082,7 +3082,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/下拉选中_u100.png"}}],
+                    "normal~":"images/任务管理/下拉选中_u100.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -3143,7 +3143,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u103.png"}}],
+                    "normal~":"images/任务管理/u103.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -3372,7 +3372,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/dropdownbox_u106.png"}},
+                    "normal~":"images/任务管理/dropdownbox_u106.png"}},
 {
                   "id":"d2abce2165a84e4ca1f935a2c7ac8c48",
                   "label":"选项1",
@@ -3585,9 +3585,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"4cf22c0ce28c4f498745a60dfd468785",
                   "label":"选型3",
@@ -3800,9 +3800,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"fb09dcce99554364bfbf5ef5da0d71f7",
                   "label":"选型2",
@@ -4019,9 +4019,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}}],
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -4093,9 +4093,9 @@
                       "linkType":"new"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"cffea9d06a074c7bb382607dc16093fd",
           "label":"按钮2",
@@ -4142,9 +4142,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"fd3874fb68244df990cfcdbca65155bf",
           "label":"按钮2",
@@ -4191,9 +4191,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"6a9696e15ba944bdbd2ccefa02fbf765",
           "label":"按钮2",
@@ -4240,9 +4240,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"7bc5be2b597c472fa9460d5b18d164ff",
           "label":"按钮2",
@@ -4289,9 +4289,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"1735573459ea4f20be9efd3886b28eaa",
           "label":"按钮2",
@@ -4338,9 +4338,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"a01ee7426dc049d7969cee658ba241dc",
           "label":"按钮2",
@@ -4387,9 +4387,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"363947ea0da346b3a25d469620a75b75",
           "label":"按钮2",
@@ -4436,9 +4436,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u114.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u114_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u114_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u114.png",
+            "mouseOver~":"images/任务管理/按钮2_u114_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u114_disabled.png"}},
 {
           "id":"bee603731451433192eb9a31bdfd6279",
           "label":"按钮2",
@@ -4485,9 +4485,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/按钮2_u130.png",
-            "mouseOver~":"images/任务管理/regen/按钮2_u130_mouseOver.png",
-            "disabled~":"images/任务管理/regen/按钮2_u130_disabled.png"}},
+            "normal~":"images/任务管理/按钮2_u130.png",
+            "mouseOver~":"images/任务管理/按钮2_u130_mouseOver.png",
+            "disabled~":"images/任务管理/按钮2_u130_disabled.png"}},
 {
           "id":"7199d2e4dc39449f9eb993316b67a5ba",
           "label":"",
@@ -4547,9 +4547,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/2行1列_u173.png",
-                "selected~":"images/任务管理/regen/1行1列_u153_selected.png",
-                "mouseOver~":"images/任务管理/regen/2行1列_u173_mouseOver.png"}},
+                "normal~":"images/任务管理/2行1列_u173.png",
+                "selected~":"images/任务管理/1行1列_u153_selected.png",
+                "mouseOver~":"images/任务管理/2行1列_u173_mouseOver.png"}},
 {
               "id":"1d3993fb5eaa4d898a8cd80fac784911",
               "label":"2行2列",
@@ -4594,9 +4594,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/2行2列_u175.png",
-                "selected~":"images/任务管理/regen/1行2列_u155_selected.png",
-                "mouseOver~":"images/任务管理/regen/2行2列_u175_mouseOver.png"}},
+                "normal~":"images/任务管理/2行2列_u175.png",
+                "selected~":"images/任务管理/1行2列_u155_selected.png",
+                "mouseOver~":"images/任务管理/2行2列_u175_mouseOver.png"}},
 {
               "id":"94e8d9f88a5049b780f52dc5adf8dfd4",
               "label":"2行4列",
@@ -4664,9 +4664,9 @@
                           "linkType":"new"}]}]}},
               "tabbable":true,
               "images":{
-                "normal~":"images/任务管理/regen/2行4列_u177.png",
-                "selected~":"images/任务管理/regen/1行4列_u157_selected.png",
-                "mouseOver~":"images/任务管理/regen/2行4列_u177_mouseOver.png"}},
+                "normal~":"images/任务管理/2行4列_u177.png",
+                "selected~":"images/任务管理/1行4列_u157_selected.png",
+                "mouseOver~":"images/任务管理/2行4列_u177_mouseOver.png"}},
 {
               "id":"e7964ccab6b541379411d8443a0aabb6",
               "label":"2行7列",
@@ -4711,9 +4711,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/2行7列_u181.png",
-                "selected~":"images/任务管理/regen/1行7列_u161_selected.png",
-                "mouseOver~":"images/任务管理/regen/2行7列_u181_mouseOver.png"}},
+                "normal~":"images/任务管理/2行7列_u181.png",
+                "selected~":"images/任务管理/1行7列_u161_selected.png",
+                "mouseOver~":"images/任务管理/2行7列_u181_mouseOver.png"}},
 {
               "id":"7cf05bf59c024d7aa6c45d9359f03ada",
               "label":"2行8列",
@@ -4758,9 +4758,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/2行8列_u185.png",
-                "selected~":"images/任务管理/regen/1行8列_u165_selected.png",
-                "mouseOver~":"images/任务管理/regen/2行8列_u185_mouseOver.png"}},
+                "normal~":"images/任务管理/2行8列_u185.png",
+                "selected~":"images/任务管理/1行8列_u165_selected.png",
+                "mouseOver~":"images/任务管理/2行8列_u185_mouseOver.png"}},
 {
               "id":"3d19010a7da74f0eb85b8b1a82bc7d1d",
               "label":"2行9列",
@@ -4805,9 +4805,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/2行9列_u187.png",
-                "selected~":"images/任务管理/regen/1行9列_u167_selected.png",
-                "mouseOver~":"images/任务管理/regen/2行9列_u187_mouseOver.png"}},
+                "normal~":"images/任务管理/2行9列_u187.png",
+                "selected~":"images/任务管理/1行9列_u167_selected.png",
+                "mouseOver~":"images/任务管理/2行9列_u187_mouseOver.png"}},
 {
               "id":"09916c6c04ad4e3b8326cea9cee3a568",
               "label":"3行1列",
@@ -4852,8 +4852,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/3行1列_u193.png",
-                "selected~":"images/任务管理/regen/3行1列_u193_selected.png"}},
+                "normal~":"images/任务管理/3行1列_u193.png",
+                "selected~":"images/任务管理/3行1列_u193_selected.png"}},
 {
               "id":"204614045cef449cb802ceddeffed88d",
               "label":"3行2列",
@@ -4898,8 +4898,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/3行2列_u195.png",
-                "selected~":"images/任务管理/regen/3行2列_u195_selected.png"}},
+                "normal~":"images/任务管理/3行2列_u195.png",
+                "selected~":"images/任务管理/3行2列_u195_selected.png"}},
 {
               "id":"5b7a5cb119d547279e99ec3b15fcb2ad",
               "label":"3行4列",
@@ -4967,8 +4967,8 @@
                           "linkType":"current"}]}]}},
               "tabbable":true,
               "images":{
-                "normal~":"images/任务管理/regen/3行4列_u197.png",
-                "selected~":"images/任务管理/regen/3行4列_u197_selected.png"}},
+                "normal~":"images/任务管理/3行4列_u197.png",
+                "selected~":"images/任务管理/3行4列_u197_selected.png"}},
 {
               "id":"b8b44f5e9e964ff1a3d471e9a4ec927c",
               "label":"3行7列",
@@ -5013,8 +5013,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/3行7列_u201.png",
-                "selected~":"images/任务管理/regen/3行7列_u201_selected.png"}},
+                "normal~":"images/任务管理/3行7列_u201.png",
+                "selected~":"images/任务管理/3行7列_u201_selected.png"}},
 {
               "id":"aa931a22f2114d37a624c19278b3dc12",
               "label":"3行8列",
@@ -5059,8 +5059,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/3行8列_u205.png",
-                "selected~":"images/任务管理/regen/3行8列_u205_selected.png"}},
+                "normal~":"images/任务管理/3行8列_u205.png",
+                "selected~":"images/任务管理/3行8列_u205_selected.png"}},
 {
               "id":"c9dc32e4f48d4a588ebd0ec5a89ce24e",
               "label":"3行9列",
@@ -5105,8 +5105,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/3行9列_u207.png",
-                "selected~":"images/任务管理/regen/3行9列_u207_selected.png"}},
+                "normal~":"images/任务管理/3行9列_u207.png",
+                "selected~":"images/任务管理/3行9列_u207_selected.png"}},
 {
               "id":"bf77bd09fe0b4daca1f2bb3abd7ec894",
               "label":"",
@@ -5145,8 +5145,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u133.png",
-                "selected~":"images/任务管理/regen/u133_selected.png"}},
+                "normal~":"images/任务管理/u133.png",
+                "selected~":"images/任务管理/u133_selected.png"}},
 {
               "id":"6c72438cf2964588b7bfd1d000e29323",
               "label":"",
@@ -5193,8 +5193,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u135.png",
-                "selected~":"images/任务管理/regen/u135_selected.png"}},
+                "normal~":"images/任务管理/u135.png",
+                "selected~":"images/任务管理/u135_selected.png"}},
 {
               "id":"dfbc8d8f6d074273acc8e06d89395d4f",
               "label":"",
@@ -5241,8 +5241,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u137.png",
-                "selected~":"images/任务管理/regen/u137_selected.png"}},
+                "normal~":"images/任务管理/u137.png",
+                "selected~":"images/任务管理/u137_selected.png"}},
 {
               "id":"3910cfe4931445a7a49f85c30c4fce0d",
               "label":"",
@@ -5289,8 +5289,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u141.png",
-                "selected~":"images/任务管理/regen/u141_selected.png"}},
+                "normal~":"images/任务管理/u141.png",
+                "selected~":"images/任务管理/u141_selected.png"}},
 {
               "id":"2142b93e0524435b8ada02809d2f8f22",
               "label":"",
@@ -5337,8 +5337,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u145.png",
-                "selected~":"images/任务管理/regen/u145_selected.png"}},
+                "normal~":"images/任务管理/u145.png",
+                "selected~":"images/任务管理/u145_selected.png"}},
 {
               "id":"c65f7f1cf81646e6bbcbd4d3c8cd31f4",
               "label":"",
@@ -5385,8 +5385,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u147.png",
-                "selected~":"images/任务管理/regen/u147_selected.png"}},
+                "normal~":"images/任务管理/u147.png",
+                "selected~":"images/任务管理/u147_selected.png"}},
 {
               "id":"fcc837fc3d804178801e0ebd000dee87",
               "label":"1行1列",
@@ -5431,8 +5431,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/1行1列_u153.png",
-                "selected~":"images/任务管理/regen/1行1列_u153_selected.png"}},
+                "normal~":"images/任务管理/1行1列_u153.png",
+                "selected~":"images/任务管理/1行1列_u153_selected.png"}},
 {
               "id":"6fbc07c1ca9446f3bb15d3ab42f0256c",
               "label":"1行2列",
@@ -5477,8 +5477,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/1行2列_u155.png",
-                "selected~":"images/任务管理/regen/1行2列_u155_selected.png"}},
+                "normal~":"images/任务管理/1行2列_u155.png",
+                "selected~":"images/任务管理/1行2列_u155_selected.png"}},
 {
               "id":"8051b19969d44d06a03e2158ee2c5b2e",
               "label":"1行4列",
@@ -5546,8 +5546,8 @@
                           "linkType":"new"}]}]}},
               "tabbable":true,
               "images":{
-                "normal~":"images/任务管理/regen/1行4列_u157.png",
-                "selected~":"images/任务管理/regen/1行4列_u157_selected.png"}},
+                "normal~":"images/任务管理/1行4列_u157.png",
+                "selected~":"images/任务管理/1行4列_u157_selected.png"}},
 {
               "id":"d158eb171b2b4643a113778a862877fb",
               "label":"1行7列",
@@ -5592,8 +5592,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/1行7列_u161.png",
-                "selected~":"images/任务管理/regen/1行7列_u161_selected.png"}},
+                "normal~":"images/任务管理/1行7列_u161.png",
+                "selected~":"images/任务管理/1行7列_u161_selected.png"}},
 {
               "id":"e68fbbb68cf743b585a9d173fa2cd1f2",
               "label":"1行8列",
@@ -5638,8 +5638,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/1行8列_u165.png",
-                "selected~":"images/任务管理/regen/1行8列_u165_selected.png"}},
+                "normal~":"images/任务管理/1行8列_u165.png",
+                "selected~":"images/任务管理/1行8列_u165_selected.png"}},
 {
               "id":"c5bcf998b79040c89acb1f99cddd3715",
               "label":"1行9列",
@@ -5684,8 +5684,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/1行9列_u167.png",
-                "selected~":"images/任务管理/regen/1行9列_u167_selected.png"}},
+                "normal~":"images/任务管理/1行9列_u167.png",
+                "selected~":"images/任务管理/1行9列_u167_selected.png"}},
 {
               "id":"f76c43f223824d3da597e51a2465636d",
               "label":"",
@@ -5732,8 +5732,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u149.png",
-                "selected~":"images/任务管理/regen/u149_selected.png"}},
+                "normal~":"images/任务管理/u149.png",
+                "selected~":"images/任务管理/u149_selected.png"}},
 {
               "id":"827a91e6ce5d47de986e7711d3bfce5b",
               "label":"",
@@ -5778,8 +5778,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u169.png",
-                "selected~":"images/任务管理/regen/u169_selected.png"}},
+                "normal~":"images/任务管理/u169.png",
+                "selected~":"images/任务管理/u169_selected.png"}},
 {
               "id":"663613ad2cfe45d086604dc48865ed46",
               "label":"",
@@ -5824,9 +5824,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u189.png",
-                "selected~":"images/任务管理/regen/u169_selected.png",
-                "mouseOver~":"images/任务管理/regen/u189_mouseOver.png"}},
+                "normal~":"images/任务管理/u189.png",
+                "selected~":"images/任务管理/u169_selected.png",
+                "mouseOver~":"images/任务管理/u189_mouseOver.png"}},
 {
               "id":"d6c8e3fd5f5447a69283935aa277a2ca",
               "label":"",
@@ -5871,8 +5871,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u209.png",
-                "selected~":"images/任务管理/regen/u209_selected.png"}},
+                "normal~":"images/任务管理/u209.png",
+                "selected~":"images/任务管理/u209_selected.png"}},
 {
               "id":"23edd008ab24457b8b633574c50fc881",
               "label":"",
@@ -5919,8 +5919,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u151.png",
-                "selected~":"images/任务管理/regen/u151_selected.png"}},
+                "normal~":"images/任务管理/u151.png",
+                "selected~":"images/任务管理/u151_selected.png"}},
 {
               "id":"5a5dc7f9fd874031a09640114541f111",
               "label":"",
@@ -5965,8 +5965,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u171.png",
-                "selected~":"images/任务管理/regen/u171_selected.png"}},
+                "normal~":"images/任务管理/u171.png",
+                "selected~":"images/任务管理/u171_selected.png"}},
 {
               "id":"ba60e446c56a4fb8a7a5660d4c083ed3",
               "label":"",
@@ -6011,9 +6011,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u191.png",
-                "selected~":"images/任务管理/regen/u171_selected.png",
-                "mouseOver~":"images/任务管理/regen/u191_mouseOver.png"}},
+                "normal~":"images/任务管理/u191.png",
+                "selected~":"images/任务管理/u171_selected.png",
+                "mouseOver~":"images/任务管理/u191_mouseOver.png"}},
 {
               "id":"3be026f20cbb49469464ec031c2cf888",
               "label":"",
@@ -6058,8 +6058,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u211.png",
-                "selected~":"images/任务管理/regen/u211_selected.png"}},
+                "normal~":"images/任务管理/u211.png",
+                "selected~":"images/任务管理/u211_selected.png"}},
 {
               "id":"92f02160e12b408696ba4ec70f201386",
               "label":"",
@@ -6106,8 +6106,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u139.png",
-                "selected~":"images/任务管理/regen/u139_selected.png"}},
+                "normal~":"images/任务管理/u139.png",
+                "selected~":"images/任务管理/u139_selected.png"}},
 {
               "id":"3d0cde80eaa24aabbadcf8a55b192fac",
               "label":"",
@@ -6152,8 +6152,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u159.png",
-                "selected~":"images/任务管理/regen/u159_selected.png"}},
+                "normal~":"images/任务管理/u159.png",
+                "selected~":"images/任务管理/u159_selected.png"}},
 {
               "id":"cc405b487ec547dfad04c89ba9d2c5f7",
               "label":"",
@@ -6198,9 +6198,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u179.png",
-                "selected~":"images/任务管理/regen/u159_selected.png",
-                "mouseOver~":"images/任务管理/regen/u179_mouseOver.png"}},
+                "normal~":"images/任务管理/u179.png",
+                "selected~":"images/任务管理/u159_selected.png",
+                "mouseOver~":"images/任务管理/u179_mouseOver.png"}},
 {
               "id":"dff02fb7592d456bbe0e6a03e6c9fb98",
               "label":"",
@@ -6245,8 +6245,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u199.png",
-                "selected~":"images/任务管理/regen/u199_selected.png"}},
+                "normal~":"images/任务管理/u199.png",
+                "selected~":"images/任务管理/u199_selected.png"}},
 {
               "id":"580a0213556f42a498074d13078552ab",
               "label":"",
@@ -6293,8 +6293,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u139.png",
-                "selected~":"images/任务管理/regen/u139_selected.png"}},
+                "normal~":"images/任务管理/u139.png",
+                "selected~":"images/任务管理/u139_selected.png"}},
 {
               "id":"49dd4b88af124ed5a66655aa6a74b3ec",
               "label":"",
@@ -6339,8 +6339,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u159.png",
-                "selected~":"images/任务管理/regen/u159_selected.png"}},
+                "normal~":"images/任务管理/u159.png",
+                "selected~":"images/任务管理/u159_selected.png"}},
 {
               "id":"4e0a4c8e38bf42d09f3f21c0aa0e4461",
               "label":"",
@@ -6385,9 +6385,9 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u179.png",
-                "selected~":"images/任务管理/regen/u159_selected.png",
-                "mouseOver~":"images/任务管理/regen/u179_mouseOver.png"}},
+                "normal~":"images/任务管理/u179.png",
+                "selected~":"images/任务管理/u159_selected.png",
+                "mouseOver~":"images/任务管理/u179_mouseOver.png"}},
 {
               "id":"b70105a710c04fe38802f09ae6e2738d",
               "label":"",
@@ -6432,8 +6432,8 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/任务管理/regen/u199.png",
-                "selected~":"images/任务管理/regen/u199_selected.png"}}]},
+                "normal~":"images/任务管理/u199.png",
+                "selected~":"images/任务管理/u199_selected.png"}}]},
 {
           "id":"e5d893922da942d295f9ff11e401f7ce",
           "label":"1",
@@ -6894,7 +6894,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'PingFang SC Regular', 'PingFang SC'",
+            "fontName":"'PingFang SC'",
             "fontSize":"12px",
             "fontWeight":"400",
             "foreGroundFill":{
@@ -6918,7 +6918,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'PingFang SC Regular', 'PingFang SC'",
+                "fontName":"'PingFang SC'",
                 "fontSize":"12px",
                 "fontWeight":"400",
                 "foreGroundFill":{
@@ -6980,7 +6980,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u223.png"}},
+            "normal~":"images/任务管理/u223.png"}},
 {
           "id":"1723db9049ec4bb384b7dde1d2af648e",
           "label":"",
@@ -7026,9 +7026,9 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u223.png",
-            "selected~":"images/任务管理/regen/u225_selected.png",
-            "mouseOver~":"images/任务管理/regen/u225_selected.png"}},
+            "normal~":"images/任务管理/u223.png",
+            "selected~":"images/任务管理/u225_selected.png",
+            "mouseOver~":"images/任务管理/u225_selected.png"}},
 {
           "id":"a10f4c636a734b60992abbe822d8dfc9",
           "label":"2",
@@ -7073,7 +7073,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u223.png"}},
+            "normal~":"images/任务管理/u223.png"}},
 {
           "id":"86327d5b72d24e5c8f4b24fe494743a0",
           "label":"3",
@@ -7120,7 +7120,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/3_u229.png"}},
+            "normal~":"images/任务管理/3_u229.png"}},
 {
           "id":"e4827988f16c428692fced95f2d4405f",
           "label":"1",
@@ -7182,7 +7182,7 @@
                   "isNewIfGroup":false,
                   "actions":[]}]}},
           "images":{
-            "normal~":"images/任务管理/regen/1_u231.png"}},
+            "normal~":"images/任务管理/1_u231.png"}},
 {
           "id":"f5015c9d28aa44fd87dfabfa995b3012",
           "label":"",
@@ -7227,7 +7227,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u223.png"}},
+            "normal~":"images/任务管理/u223.png"}},
 {
           "id":"eaa764ba5e3148d59770b8513e9f69cd",
           "label":"刷新",
@@ -7270,7 +7270,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/刷新_u235.png"}},
+            "normal~":"images/任务管理/刷新_u235.png"}},
 {
           "id":"ee4c5e2332c44c71b7d7d17aea9dfd86",
           "label":"",
@@ -7303,7 +7303,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u237.png"}},
+            "normal~":"images/任务管理/u237.png"}},
 {
           "id":"8b0e54fa60184057b29d4305b3077fa2",
           "label":"",
@@ -7336,7 +7336,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u239.png"}},
+            "normal~":"images/任务管理/u239.png"}},
 {
           "id":"5afb1616123c45c6b22e56ee34a470fa",
           "label":"",
@@ -7369,7 +7369,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u241.png"}},
+            "normal~":"images/任务管理/u241.png"}},
 {
           "id":"e47ec447b90244feac4eb9fb812ad78f",
           "label":"",
@@ -7402,7 +7402,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u243.png"}},
+            "normal~":"images/任务管理/u243.png"}},
 {
           "id":"c641ed7848d54629a73ab8e0fba2615a",
           "label":"输入框",
@@ -7463,10 +7463,10 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/输入框_u245.png",
-            "selected~":"images/任务管理/regen/输入框_u245_selected.png",
-            "mouseDown~":"images/任务管理/regen/输入框_u245_selected.png",
-            "disabled~":"images/任务管理/regen/输入框_u245_disabled.png"}},
+            "normal~":"images/任务管理/输入框_u245.png",
+            "selected~":"images/任务管理/输入框_u245_selected.png",
+            "mouseDown~":"images/任务管理/输入框_u245_selected.png",
+            "disabled~":"images/任务管理/输入框_u245_disabled.png"}},
 {
           "id":"4cf91b8a45a04afca2c60971868715b9",
           "label":"文字区域",
@@ -7696,7 +7696,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u248.png"}},
+            "normal~":"images/任务管理/u248.png"}},
 {
           "id":"54e3be2cb99642ddabe762827040c914",
           "label":"",
@@ -7739,7 +7739,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u250.png"}},
+            "normal~":"images/任务管理/u250.png"}},
 {
           "id":"8e976b3f1b5642feb1bb24c85e007205",
           "label":"",
@@ -7782,7 +7782,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u248.png"}},
+            "normal~":"images/任务管理/u248.png"}},
 {
           "id":"b72ff8e9902f4eba9ecf5d1b289bcfd0",
           "label":"",
@@ -7825,7 +7825,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/任务管理/regen/u250.png"}},
+            "normal~":"images/任务管理/u250.png"}},
 {
           "id":"cb1b8f45d47c40e08b4260b3ef0b3b5d",
           "label":"文本框",
@@ -8105,10 +8105,10 @@
                                 "stos":[]}]}]}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/任务管理/regen/文本框_u256.png",
-            "selected~":"images/任务管理/regen/文本框_u256_selected.png",
-            "mouseDown~":"images/任务管理/regen/文本框_u256_selected.png",
-            "disabled~":"images/任务管理/regen/文本框_u256_disabled.png"}},
+            "normal~":"images/任务管理/文本框_u256.png",
+            "selected~":"images/任务管理/文本框_u256_selected.png",
+            "mouseDown~":"images/任务管理/文本框_u256_selected.png",
+            "disabled~":"images/任务管理/文本框_u256_disabled.png"}},
 {
           "id":"6a48f54771324ba9bbf53dfe0a62f25a",
           "label":"下拉选中",
@@ -8159,7 +8159,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/下拉选中_u100.png"}}],
+                    "normal~":"images/任务管理/下拉选中_u100.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -8220,7 +8220,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u103.png"}}],
+                    "normal~":"images/任务管理/u103.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -8449,7 +8449,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/dropdownbox_u106.png"}},
+                    "normal~":"images/任务管理/dropdownbox_u106.png"}},
 {
                   "id":"7d8f844148a94f80ac3f18bacf71c0fd",
                   "label":"选项1",
@@ -8662,9 +8662,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"8437ae951e72474fb9d17f7cc69fcad2",
                   "label":"选型3",
@@ -8877,9 +8877,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"5ecbf3b3851641f59a21dd470f90b62c",
                   "label":"选型2",
@@ -9096,9 +9096,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}}],
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -9388,10 +9388,10 @@
                                 "stos":[]}]}]}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/任务管理/regen/文本框_u273.png",
-            "selected~":"images/任务管理/regen/文本框_u273_selected.png",
-            "mouseDown~":"images/任务管理/regen/文本框_u273_selected.png",
-            "disabled~":"images/任务管理/regen/文本框_u273_disabled.png"}},
+            "normal~":"images/任务管理/文本框_u273.png",
+            "selected~":"images/任务管理/文本框_u273_selected.png",
+            "mouseDown~":"images/任务管理/文本框_u273_selected.png",
+            "disabled~":"images/任务管理/文本框_u273_disabled.png"}},
 {
           "id":"6747b65178f74519ad71da262e45693d",
           "label":"options",
@@ -9610,7 +9610,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/dropdownbox_u276.png"}},
+                    "normal~":"images/任务管理/dropdownbox_u276.png"}},
 {
                   "id":"b86d4f82e6314343b16801106b067027",
                   "label":"选项1",
@@ -9823,9 +9823,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"663556d941d14bf4865349dfc40b9309",
                   "label":"选型3",
@@ -10038,9 +10038,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"3a7d55bf9af849cba86e47f9fb38818d",
                   "label":"textFieldContainer",
@@ -10135,11 +10135,11 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/textfieldcontainer_u282.png",
-                    "selected~":"images/任务管理/regen/textfieldcontainer_u282.png",
-                    "mouseOver~":"images/任务管理/regen/textfieldcontainer_u282.png",
-                    "mouseDown~":"images/任务管理/regen/textfieldcontainer_u282.png",
-                    "disabled~":"images/任务管理/regen/textfieldcontainer_u282_disabled.png"}},
+                    "normal~":"images/任务管理/textfieldcontainer_u282.png",
+                    "selected~":"images/任务管理/textfieldcontainer_u282.png",
+                    "mouseOver~":"images/任务管理/textfieldcontainer_u282.png",
+                    "mouseDown~":"images/任务管理/textfieldcontainer_u282.png",
+                    "disabled~":"images/任务管理/textfieldcontainer_u282_disabled.png"}},
 {
                   "id":"08a328cbfabf41689eda2498c8e8f9ac",
                   "label":"",
@@ -10458,7 +10458,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/搜索悬停_u285.png"}},
+                    "normal~":"images/任务管理/搜索悬停_u285.png"}},
 {
                   "id":"86c11d5242d34805875a8139fdc8e5f7",
                   "label":"选型2",
@@ -10675,9 +10675,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}}],
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -10738,7 +10738,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/下拉选中_u100.png"}}],
+                    "normal~":"images/任务管理/下拉选中_u100.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -10799,7 +10799,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u103.png"}}],
+                    "normal~":"images/任务管理/u103.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -11089,10 +11089,10 @@
                                 "stos":[]}]}]}}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/任务管理/regen/文本框_u295.png",
-            "selected~":"images/任务管理/regen/文本框_u295_selected.png",
-            "mouseDown~":"images/任务管理/regen/文本框_u295_selected.png",
-            "disabled~":"images/任务管理/regen/文本框_u295_disabled.png"}},
+            "normal~":"images/任务管理/文本框_u295.png",
+            "selected~":"images/任务管理/文本框_u295_selected.png",
+            "mouseDown~":"images/任务管理/文本框_u295_selected.png",
+            "disabled~":"images/任务管理/文本框_u295_disabled.png"}},
 {
           "id":"242501bd20a74b1fac7b676e3cfc1322",
           "label":"下拉选中",
@@ -11143,7 +11143,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/下拉选中_u100.png"}}],
+                    "normal~":"images/任务管理/下拉选中_u100.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -11204,7 +11204,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/u103.png"}}],
+                    "normal~":"images/任务管理/u103.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
@@ -11433,7 +11433,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/任务管理/regen/dropdownbox_u106.png"}},
+                    "normal~":"images/任务管理/dropdownbox_u106.png"}},
 {
                   "id":"da890788f9014f8fb3b83ef1fe3f78eb",
                   "label":"选项1",
@@ -11633,9 +11633,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"a1f24c697d9e4179b979897349f8a2b8",
                   "label":"选型2",
@@ -11839,9 +11839,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}},
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}},
 {
                   "id":"0362b28b55374bd2b9606bc72ed23e01",
                   "label":"选型2",
@@ -12045,9 +12045,9 @@
                                         "stos":[]}]}]}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/任务管理/regen/选项1_u108.png",
-                    "selected~":"images/任务管理/regen/选项1_u108_selected.png",
-                    "mouseOver~":"images/任务管理/regen/选项1_u108_selected.png"}}],
+                    "normal~":"images/任务管理/选项1_u108.png",
+                    "selected~":"images/任务管理/选项1_u108_selected.png",
+                    "mouseOver~":"images/任务管理/选项1_u108_selected.png"}}],
               "style":{
                 "fill":{
                   "fillType":"solid",
