@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499668663982.34),
+  "generationDate":new Date(1499674352192.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -4914,6 +4914,47 @@
                     "visible":false},
                   "adaptiveStyles":{
 },
+                  "interactionMap":{
+                    "onMouseOver":{
+                      "description":"OnMouseOver",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 作为输入（非关系型）,<br>作为输入表引用",
+                              "objectsToFades":[{
+                                  "objectPath":["53ff7ff03934490388e7ca42ed478a8f"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["2c9f4acc07854fc38f683d9af714aacd"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]},
+                    "onMouseOut":{
+                      "description":"OnMouseOut",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 作为输入表引用,<br>隐藏 作为输入（非关系型）",
+                              "objectsToFades":[{
+                                  "objectPath":["53ff7ff03934490388e7ca42ed478a8f"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["2c9f4acc07854fc38f683d9af714aacd"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
                   "scrollbars":"none",
                   "fitToContent":true,
                   "propagate":false,
@@ -16017,7 +16058,7 @@
                           "tabbable":true,
                           "images":{
                             "normal~":"images/任务管理/按钮2_u112.png",
-                            "mouseOver~":"images/sql开发中心/按钮2_u575_mouseOver.png",
+                            "mouseOver~":"images/新建任务/按钮2_u6116_mouseOver.png",
                             "disabled~":"images/任务管理/按钮2_u112_disabled.png"}},
 {
                           "id":"b05017e9bcfb48d98f6a73c1b45d0b93",
