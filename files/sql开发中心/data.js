@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499678171142.16),
+  "generationDate":new Date(1499687048370.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -157,7 +157,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
             "stateStyles":{
               "mouseOver":{
@@ -183,7 +183,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
                 "stateStyles":{
                   "mouseOver":{
@@ -649,7 +649,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
             "location":{
               "x":1398,
@@ -667,7 +667,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "baseStyle":"737ccb808e7c48d4a76e359678ea19dc",
                 "location":{
                   "x":1398,
@@ -961,7 +961,7 @@
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -2339,7 +2339,7 @@
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -2946,7 +2946,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "foreGroundFill":{
                       "fillType":"solid",
                       "color":0xFF000000,
@@ -2974,7 +2974,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "foreGroundFill":{
                           "fillType":"solid",
                           "color":0xFF000000,
@@ -7473,7 +7473,7 @@
                           "styleType":"h1",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "fontWeight":"400",
                             "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                             "location":{
@@ -7493,7 +7493,7 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "fontWeight":"400",
                                 "baseStyle":"18fde0d8b3534fe39581454cc97c8193",
                                 "location":{
@@ -7994,7 +7994,7 @@
                               "styleType":"tableCell",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"3f16fa0d143040468230063abc899202",
                                 "stateStyles":{
                                   "mouseOver":{
@@ -8018,7 +8018,7 @@
                                   "styleType":"paragraph",
                                   "visible":true,
                                   "style":{
-                                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                    "fontName":"'Microsoft YaHei'",
                                     "baseStyle":"3f16fa0d143040468230063abc899202",
                                     "stateStyles":{
                                       "mouseOver":{
@@ -8044,7 +8044,7 @@
                               "styleType":"tableCell",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"3f16fa0d143040468230063abc899202",
                                 "stateStyles":{
                                   "mouseOver":{
@@ -8068,7 +8068,7 @@
                                   "styleType":"paragraph",
                                   "visible":true,
                                   "style":{
-                                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                    "fontName":"'Microsoft YaHei'",
                                     "baseStyle":"3f16fa0d143040468230063abc899202",
                                     "stateStyles":{
                                       "mouseOver":{
@@ -8094,7 +8094,7 @@
                               "styleType":"tableCell",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"3f16fa0d143040468230063abc899202",
                                 "stateStyles":{
                                   "mouseOver":{
@@ -8118,7 +8118,7 @@
                                   "styleType":"paragraph",
                                   "visible":true,
                                   "style":{
-                                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                    "fontName":"'Microsoft YaHei'",
                                     "baseStyle":"3f16fa0d143040468230063abc899202",
                                     "stateStyles":{
                                       "mouseOver":{
@@ -8440,7 +8440,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFF000000,
@@ -8467,7 +8467,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFF000000,
@@ -8534,7 +8534,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFF000000,
@@ -8561,7 +8561,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFF000000,
@@ -8628,7 +8628,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFF000000,
@@ -8655,7 +8655,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFF000000,
@@ -8685,7 +8685,7 @@
           "styleType":"buttonShape",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFF000000,
@@ -8712,7 +8712,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFF000000,
@@ -8764,7 +8764,7 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+            "fontName":"'Microsoft YaHei'",
             "foreGroundFill":{
               "fillType":"solid",
               "color":0xFFFF0000,
@@ -8786,7 +8786,7 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                "fontName":"'Microsoft YaHei'",
                 "foreGroundFill":{
                   "fillType":"solid",
                   "color":0xFFFF0000,
@@ -10216,7 +10216,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -10247,7 +10247,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -10307,7 +10307,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -10331,7 +10331,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -10941,7 +10941,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -10965,7 +10965,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -10991,7 +10991,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -11015,7 +11015,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -11041,7 +11041,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -11065,7 +11065,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -11620,7 +11620,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -11644,7 +11644,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -12279,7 +12279,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -12310,7 +12310,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -12370,7 +12370,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -12394,7 +12394,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -13004,7 +13004,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -13028,7 +13028,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -13054,7 +13054,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -13078,7 +13078,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -13104,7 +13104,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -13128,7 +13128,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -13491,7 +13491,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -13515,7 +13515,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -13922,7 +13922,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -13946,7 +13946,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -13973,7 +13973,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -13997,7 +13997,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -14175,7 +14175,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -14206,7 +14206,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -14266,7 +14266,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -14290,7 +14290,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -15045,7 +15045,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -15069,7 +15069,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -15095,7 +15095,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -15119,7 +15119,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -15145,7 +15145,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -15169,7 +15169,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -15195,7 +15195,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -15219,7 +15219,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -16250,7 +16250,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -16281,7 +16281,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -16348,7 +16348,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -16372,7 +16372,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -16546,7 +16546,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                     "location":{
                       "x":33,
@@ -16565,7 +16565,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                         "location":{
                           "x":33,
@@ -16585,11 +16585,11 @@
                   "styleType":"textBox",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -17056,7 +17056,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                     "location":{
                       "x":33,
@@ -17075,7 +17075,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                         "location":{
                           "x":33,
@@ -17161,7 +17161,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "foreGroundFill":{
                       "fillType":"solid",
                       "color":0xFF999999,
@@ -17184,7 +17184,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "foreGroundFill":{
                           "fillType":"solid",
                           "color":0xFF999999,
@@ -17208,11 +17208,11 @@
                   "styleType":"textBox",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -17505,7 +17505,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -17536,7 +17536,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -17587,7 +17587,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -17611,7 +17611,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -17808,7 +17808,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -17839,7 +17839,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -17890,7 +17890,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -17914,7 +17914,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -18088,7 +18088,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                     "location":{
                       "x":33,
@@ -18107,7 +18107,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                         "location":{
                           "x":33,
@@ -18127,11 +18127,11 @@
                   "styleType":"textBox",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -18598,7 +18598,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                     "location":{
                       "x":33,
@@ -18617,7 +18617,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                         "location":{
                           "x":33,
@@ -18703,7 +18703,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "foreGroundFill":{
                       "fillType":"solid",
                       "color":0xFF999999,
@@ -18726,7 +18726,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "foreGroundFill":{
                           "fillType":"solid",
                           "color":0xFF999999,
@@ -18750,11 +18750,11 @@
                   "styleType":"textBox",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -19047,7 +19047,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -19078,7 +19078,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -19129,7 +19129,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -19153,7 +19153,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -19327,7 +19327,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                     "location":{
                       "x":33,
@@ -19346,7 +19346,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                         "location":{
                           "x":33,
@@ -19366,11 +19366,11 @@
                   "styleType":"textBox",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "fontSize":"12px",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
@@ -19837,7 +19837,7 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                     "location":{
                       "x":33,
@@ -19856,7 +19856,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                         "location":{
                           "x":33,
@@ -20484,7 +20484,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -20508,7 +20508,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -20534,7 +20534,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -20558,7 +20558,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -20584,7 +20584,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -20608,7 +20608,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -20634,7 +20634,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -20658,7 +20658,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -20684,7 +20684,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -20708,7 +20708,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -21167,7 +21167,7 @@
                       "styleType":"tableCell",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"3f16fa0d143040468230063abc899202",
                         "stateStyles":{
                           "mouseOver":{
@@ -21191,7 +21191,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"3f16fa0d143040468230063abc899202",
                             "stateStyles":{
                               "mouseOver":{
@@ -21793,7 +21793,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"15e62127db8246db94762628dc1a83aa",
                     "stateStyles":{
                       "mouseOver":{
@@ -21818,7 +21818,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"15e62127db8246db94762628dc1a83aa",
                         "stateStyles":{
                           "mouseOver":{
@@ -22155,11 +22155,11 @@
                   "styleType":"textBox",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                     "stateStyles":{
                       "hint":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "horizontalAlignment":"left",
                         "foreGroundFill":{
                           "fillType":"solid",
@@ -22404,7 +22404,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -22435,7 +22435,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -22486,7 +22486,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -22510,7 +22510,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -22553,7 +22553,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -22577,7 +22577,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -23040,7 +23040,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                     "stateStyles":{
                       "mouseOver":{
@@ -23050,8 +23050,8 @@
                       "disabled":{
                         "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
                     "location":{
-                      "x":294,
-                      "y":508},
+                      "x":295,
+                      "y":528},
                     "size":{
                       "width":65,
                       "height":32},
@@ -23071,7 +23071,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"b8748f803ca1445d9044ba66a7bc0b69",
                         "stateStyles":{
                           "mouseOver":{
@@ -23081,8 +23081,8 @@
                           "disabled":{
                             "baseStyle":"959e8c4cbea74e878ae2bf82e9a6989b"}},
                         "location":{
-                          "x":294,
-                          "y":508},
+                          "x":295,
+                          "y":528},
                         "size":{
                           "width":65,
                           "height":32},
@@ -23122,7 +23122,7 @@
                   "styleType":"buttonShape",
                   "visible":true,
                   "style":{
-                    "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                    "fontName":"'Microsoft YaHei'",
                     "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                     "stateStyles":{
                       "mouseOver":{
@@ -23130,8 +23130,8 @@
                       "disabled":{
                         "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
                     "location":{
-                      "x":445,
-                      "y":508},
+                      "x":450,
+                      "y":528},
                     "size":{
                       "width":65,
                       "height":32}},
@@ -23146,7 +23146,7 @@
                       "styleType":"paragraph",
                       "visible":true,
                       "style":{
-                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                        "fontName":"'Microsoft YaHei'",
                         "baseStyle":"8a8065df3960467786ec2e2b753983d3",
                         "stateStyles":{
                           "mouseOver":{
@@ -23154,8 +23154,8 @@
                           "disabled":{
                             "baseStyle":"ba5436d848274625ad50dedb72b51ceb"}},
                         "location":{
-                          "x":445,
-                          "y":508},
+                          "x":450,
+                          "y":528},
                         "size":{
                           "width":65,
                           "height":32}},
@@ -23215,8 +23215,8 @@
                     "fontSize":"13px",
                     "baseStyle":"627587b6038d43cca051c114ac41ad32",
                     "location":{
-                      "x":57,
-                      "y":52},
+                      "x":60,
+                      "y":97},
                     "size":{
                       "width":84,
                       "height":16}},
@@ -23234,8 +23234,8 @@
                         "fontSize":"13px",
                         "baseStyle":"627587b6038d43cca051c114ac41ad32",
                         "location":{
-                          "x":57,
-                          "y":52},
+                          "x":60,
+                          "y":97},
                         "size":{
                           "width":84,
                           "height":16}},
@@ -23252,8 +23252,8 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":152,
-                      "y":49},
+                      "x":155,
+                      "y":94},
                     "size":{
                       "width":440,
                       "height":29}},
@@ -23263,7 +23263,7 @@
                     "onSelectionChange":{
                       "description":"OnSelectionChange",
                       "cases":[{
-                          "description":"用例 1<br> (If 选中项值 当前部件 = &quot;JDQ&quot;)",
+                          "description":"用例 1<br> (If 选中项值 当前部件 = &quot;JDQ2.0&quot;)",
                           "isNewIfGroup":false,
                           "condition":{
                             "exprType":"binaryOp",
@@ -23278,7 +23278,7 @@
                                   "isTarget":false}]},
                             "rightExpr":{
                               "exprType":"stringLiteral",
-                              "value":"JDQ",
+                              "value":"JDQ2.0",
                               "stos":[]}},
                           "actions":[{
                               "action":"fadeWidget",
@@ -23291,7 +23291,7 @@
                                       "showType":"none"}}}]},
 {
                               "action":"setPanelState",
-                              "description":"设置 选择数据源 到 topic",
+                              "description":"设置 选择数据源 到 topic&nbsp; 2.0",
                               "panelsToStates":[{
                                   "panelPath":["bdd9bda47ff6481c9be41fa21803fe7a"],
                                   "stateInfo":{
@@ -23335,6 +23335,49 @@
 {
                               "action":"setPanelState",
                               "description":"设置 选择数据源 到 hbase_table",
+                              "panelsToStates":[{
+                                  "panelPath":["bdd9bda47ff6481c9be41fa21803fe7a"],
+                                  "stateInfo":{
+                                    "setStateType":"diagram",
+                                    "stateNumber":3,
+                                    "stateValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"1",
+                                      "stos":[]},
+                                    "loop":false,
+                                    "showWhenSet":false,
+                                    "options":{
+                                      "compress":false}}}]}]},
+{
+                          "description":"用例 3<br> (Else If 选中项值 当前部件 = &quot;JDQ3.0&quot;)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"binaryOp",
+                            "op":"==",
+                            "leftExpr":{
+                              "exprType":"fcall",
+                              "functionName":"GetSelectedOption",
+                              "arguments":[{
+                                  "exprType":"pathLiteral",
+                                  "isThis":true,
+                                  "isFocused":false,
+                                  "isTarget":false}]},
+                            "rightExpr":{
+                              "exprType":"stringLiteral",
+                              "value":"JDQ3.0",
+                              "stos":[]}},
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 选择数据源",
+                              "objectsToFades":[{
+                                  "objectPath":["bdd9bda47ff6481c9be41fa21803fe7a"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"setPanelState",
+                              "description":"设置 选择数据源 到 topic&nbsp; 3.0",
                               "panelsToStates":[{
                                   "panelPath":["bdd9bda47ff6481c9be41fa21803fe7a"],
                                   "stateInfo":{
@@ -23419,8 +23462,8 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":57,
-                      "y":95},
+                      "x":60,
+                      "y":133},
                     "size":{
                       "width":683,
                       "height":385}},
@@ -23431,7 +23474,7 @@
                   "propagate":false,
                   "diagrams":[{
                       "id":"b4e3ecabf1dd4b638265daff85b8f656",
-                      "label":"topic",
+                      "label":"topic  2.0",
                       "type":"Axure:PanelDiagram",
                       "objects":[{
                           "id":"12a369ae24374cceb84c91562f12c752",
@@ -23441,7 +23484,7 @@
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                             "stateStyles":{
                               "mouseDown":{
@@ -23467,7 +23510,7 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                                 "stateStyles":{
                                   "mouseDown":{
@@ -23788,7 +23831,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                             "location":{
                               "x":0,
@@ -23807,7 +23850,7 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                                 "location":{
                                   "x":0,
@@ -23827,15 +23870,15 @@
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "foreGroundFill":{
                               "fillType":"solid",
                               "color":0xFF0099FF,
                               "opacity":1},
                             "baseStyle":"79949d1235b443708a9d045670d9cb8c",
                             "location":{
-                              "x":20,
-                              "y":338},
+                              "x":17,
+                              "y":260},
                             "size":{
                               "width":633,
                               "height":40}},
@@ -23850,15 +23893,15 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "foreGroundFill":{
                                   "fillType":"solid",
                                   "color":0xFF0099FF,
                                   "opacity":1},
                                 "baseStyle":"79949d1235b443708a9d045670d9cb8c",
                                 "location":{
-                                  "x":20,
-                                  "y":338},
+                                  "x":17,
+                                  "y":260},
                                 "size":{
                                   "width":633,
                                   "height":40}},
@@ -23880,7 +23923,7 @@
                               "opacity":1},
                             "location":{
                               "x":300,
-                              "y":350},
+                              "y":272},
                             "size":{
                               "width":110,
                               "height":16}},
@@ -23901,7 +23944,7 @@
                                   "opacity":1},
                                 "location":{
                                   "x":300,
-                                  "y":350},
+                                  "y":272},
                                 "size":{
                                   "width":110,
                                   "height":16}},
@@ -23927,72 +23970,6 @@
                           "tabbable":true,
                           "images":{
                             "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"8a4c324a0fd24a42bada64ccc2ecaedc",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":92,
-                              "y":130},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"eb54996046494f348417ee06350cdba7",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":92,
-                                  "y":130},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"126747a7e45842acb929a5868e024803",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":410,
-                              "y":130},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"73caa433f30f43678b78cd92244cd8a7",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":410,
-                                  "y":130},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
 {
                           "id":"c4ed69d188db4e7ab7bd1d568c5f4853",
                           "label":"输入框",
@@ -24067,7 +24044,7 @@
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                             "location":{
                               "x":0,
@@ -24086,7 +24063,7 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                                 "location":{
                                   "x":0,
@@ -24109,7 +24086,7 @@
                             "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                             "stateStyles":{
                               "hint":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "horizontalAlignment":"left",
                                 "foreGroundFill":{
                                   "fillType":"solid",
@@ -24504,7 +24481,7 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/dropdownbox_u823.png"}},
+                                    "normal~":"images/sql开发中心/dropdownbox_u819.png"}},
 {
                                   "id":"ff691edb0c994680a185eb864bb6d48d",
                                   "label":"选项1",
@@ -24717,9 +24694,9 @@
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}},
+                                    "normal~":"images/sql开发中心/选项1_u821.png",
+                                    "selected~":"images/sql开发中心/选项1_u821_selected.png",
+                                    "mouseOver~":"images/sql开发中心/选项1_u821_selected.png"}},
 {
                                   "id":"ac7c8cbba7fa4fb390c44a6193341abb",
                                   "label":"选型3",
@@ -24932,9 +24909,9 @@
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/选型3_u827.png",
-                                    "selected~":"images/sql开发中心/选型3_u827_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选型3_u827_selected.png"}},
+                                    "normal~":"images/sql开发中心/选型3_u823.png",
+                                    "selected~":"images/sql开发中心/选型3_u823_selected.png",
+                                    "mouseOver~":"images/sql开发中心/选型3_u823_selected.png"}},
 {
                                   "id":"6d3656c9ae7e4ac2a11f2042ad3051e0",
                                   "label":"textFieldContainer",
@@ -25029,11 +25006,11 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "selected~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseOver~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseDown~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "disabled~":"images/sql开发中心/textfieldcontainer_u829_disabled.png"}},
+                                    "normal~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "selected~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "mouseOver~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "mouseDown~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "disabled~":"images/sql开发中心/textfieldcontainer_u825_disabled.png"}},
 {
                                   "id":"cea91406fc3246489140d971e9896a5b",
                                   "label":"",
@@ -25045,7 +25022,7 @@
                                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                                     "stateStyles":{
                                       "hint":{
-                                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                        "fontName":"'Microsoft YaHei'",
                                         "fontSize":"12px",
                                         "horizontalAlignment":"left",
                                         "foreGroundFill":{
@@ -25569,9 +25546,9 @@
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}}],
+                                    "normal~":"images/sql开发中心/选项1_u821.png",
+                                    "selected~":"images/sql开发中心/选项1_u821_selected.png",
+                                    "mouseOver~":"images/sql开发中心/选项1_u821_selected.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -25583,27 +25560,37 @@
                               "adaptiveStyles":{
 }}]},
 {
-                          "id":"62fe1d47c79c4624a6885da61a83fbc5",
-                          "label":"",
+                          "id":"38d67511e7d74129aa9dab5b3fb2c57a",
+                          "label":"输入框",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
-                          "styleType":"paragraph",
+                          "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFFFF0000,
-                              "opacity":1},
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":325,
-                              "y":66},
+                              "x":92,
+                              "y":110},
                             "size":{
-                              "width":185,
-                              "height":16}},
+                              "width":221,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"8ac05d4d45af43b3b71f5d2d10e0a815",
+                              "id":"07a1d2c2fff640e586973a4ba0874a32",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -25611,16 +25598,68 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFF0000,
-                                  "opacity":1},
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                 "location":{
-                                  "x":325,
-                                  "y":66},
+                                  "x":92,
+                                  "y":110},
                                 "size":{
-                                  "width":185,
-                                  "height":16}},
+                                  "width":221,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框2_u94.png",
+                            "selected~":"images/新建任务/输入框2_u94_selected.png",
+                            "mouseDown~":"images/新建任务/输入框2_u94_selected.png",
+                            "disabled~":"images/新建任务/输入框2_u94_disabled.png"}},
+{
+                          "id":"c7c888974fee4747a10b0901206fa5f5",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":0,
+                              "y":116},
+                            "size":{
+                              "width":82,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"784adcc87862408293d130c66eef4907",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":0,
+                                  "y":116},
+                                "size":{
+                                  "width":82,
+                                  "height":20}},
                               "adaptiveStyles":{
 }}],
                           "images":{
@@ -25636,18 +25675,18 @@
                       "adaptiveStyles":{
 }},
 {
-                      "id":"72795837ae2e4baabd2b1861e4db2fd7",
-                      "label":"hbase_table",
+                      "id":"55271b3e7eb34f83a8cd3e62be5b8057",
+                      "label":"topic  3.0",
                       "type":"Axure:PanelDiagram",
                       "objects":[{
-                          "id":"2c299172b0864007856411f39025c1e0",
+                          "id":"710d0c5451b44afc8ee1b9f5745e22a6",
                           "label":"文本框",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                             "stateStyles":{
                               "mouseDown":{
@@ -25665,7 +25704,7 @@
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"bc75ab690d6e4ccdab68b33f212f9429",
+                              "id":"458842ea430442d2b1876110136941cf",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -25673,7 +25712,7 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                                 "stateStyles":{
                                   "mouseDown":{
@@ -25700,7 +25739,7 @@
                                       "action":"fadeWidget",
                                       "description":"显示 options",
                                       "objectsToFades":[{
-                                          "objectPath":["973dadf6356b4350ba52c238167cc23c"],
+                                          "objectPath":["dda71fec481f49afb2a935ceb17b5f35"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -25726,7 +25765,7 @@
                                       "action":"fadeWidget",
                                       "description":"显示 下拉选中,<br>隐藏 下拉默认",
                                       "objectsToFades":[{
-                                          "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                          "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                           "fadeInfo":{
                                             "fadeType":"hide",
                                             "options":{
@@ -25755,7 +25794,7 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["2c299172b0864007856411f39025c1e0"]},
+                                                "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"true",
@@ -25791,13 +25830,13 @@
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                          "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                           "fadeInfo":{
                                             "fadeType":"hide",
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                          "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                           "fadeInfo":{
                                             "fadeType":"hide",
                                             "options":{
@@ -25818,7 +25857,7 @@
                                           "isThis":false,
                                           "isFocused":false,
                                           "isTarget":false,
-                                          "value":["973dadf6356b4350ba52c238167cc23c"]}]},
+                                          "value":["dda71fec481f49afb2a935ceb17b5f35"]}]},
                                     "rightExpr":{
                                       "exprType":"booleanLiteral",
                                       "value":false}},
@@ -25835,7 +25874,7 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["2c299172b0864007856411f39025c1e0"]},
+                                                "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"false",
@@ -25850,7 +25889,7 @@
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                          "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -25862,7 +25901,7 @@
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                          "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -25896,7 +25935,7 @@
                                           "isThis":false,
                                           "isFocused":false,
                                           "isTarget":false,
-                                          "value":["973dadf6356b4350ba52c238167cc23c"]}]},
+                                          "value":["dda71fec481f49afb2a935ceb17b5f35"]}]},
                                     "rightExpr":{
                                       "exprType":"booleanLiteral",
                                       "value":true}},
@@ -25913,7 +25952,7 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["2c299172b0864007856411f39025c1e0"]},
+                                                "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"true",
@@ -25925,7 +25964,447 @@
                             "mouseDown~":"images/sql开发中心/文本框_u802_selected.png",
                             "disabled~":"images/sql开发中心/文本框_u802_disabled.png"}},
 {
-                          "id":"973dadf6356b4350ba52c238167cc23c",
+                          "id":"02e68f0ee9574243b71548ca9b7c3e93",
+                          "label":"下拉默认",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"dynamicPanel",
+                          "styleType":"dynamicPanel",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":518,
+                              "y":10},
+                            "size":{
+                              "width":11,
+                              "height":10}},
+                          "adaptiveStyles":{
+},
+                          "scrollbars":"none",
+                          "fitToContent":false,
+                          "propagate":false,
+                          "diagrams":[{
+                              "id":"b1fec80837c940b28cdca3b9bbf94fab",
+                              "label":"状态1",
+                              "type":"Axure:PanelDiagram",
+                              "objects":[{
+                                  "id":"7bd6985490564903bed7c8ee8a52d284",
+                                  "label":"",
+                                  "parentDynamicPanel":"02e68f0ee9574243b71548ca9b7c3e93",
+                                  "type":"imageBox",
+                                  "styleType":"imageBox",
+                                  "visible":true,
+                                  "style":{
+                                    "size":{
+                                      "width":9,
+                                      "height":9}},
+                                  "adaptiveStyles":{
+},
+                                  "objects":[{
+                                      "id":"7f2a64e3955c4f459dd1eb6d0af95063",
+                                      "label":"",
+                                      "isContained":true,
+                                      "parentDynamicPanel":"02e68f0ee9574243b71548ca9b7c3e93",
+                                      "type":"richTextPanel",
+                                      "styleType":"paragraph",
+                                      "visible":true,
+                                      "style":{
+                                        "size":{
+                                          "width":9,
+                                          "height":9}},
+                                      "adaptiveStyles":{
+}}],
+                                  "images":{
+                                    "normal~":"images/任务管理/u101.png"}}],
+                              "style":{
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFF},
+                                "image":null,
+                                "imageHorizontalAlignment":"near",
+                                "imageVerticalAlignment":"near",
+                                "imageRepeat":"auto"},
+                              "adaptiveStyles":{
+}}]},
+{
+                          "id":"0b608060cb3a4fba9ae3b596e7438e11",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":0,
+                              "y":6},
+                            "size":{
+                              "width":82,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4972b6f52daa4404838d02eb0cc36beb",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":0,
+                                  "y":6},
+                                "size":{
+                                  "width":82,
+                                  "height":20}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"resources/images/transparent.gif"}},
+{
+                          "id":"f1c5472352ec457f8df5394c60adfd99",
+                          "label":"",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF0099FF,
+                              "opacity":1},
+                            "baseStyle":"79949d1235b443708a9d045670d9cb8c",
+                            "location":{
+                              "x":17,
+                              "y":260},
+                            "size":{
+                              "width":633,
+                              "height":40}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"116907df50e641179978cef100406c02",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF0099FF,
+                                  "opacity":1},
+                                "baseStyle":"79949d1235b443708a9d045670d9cb8c",
+                                "location":{
+                                  "x":17,
+                                  "y":260},
+                                "size":{
+                                  "width":633,
+                                  "height":40}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/sql开发中心/u809.png"}},
+{
+                          "id":"fbfaa114c250430590791595d261c1a5",
+                          "label":"输入框",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                            "location":{
+                              "x":92,
+                              "y":58},
+                            "size":{
+                              "width":221,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1d8a1bb84baa49d0b4216f7342a2dd2d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                                "location":{
+                                  "x":92,
+                                  "y":58},
+                                "size":{
+                                  "width":221,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框2_u94.png",
+                            "selected~":"images/新建任务/输入框2_u94_selected.png",
+                            "mouseDown~":"images/新建任务/输入框2_u94_selected.png",
+                            "disabled~":"images/新建任务/输入框2_u94_disabled.png"}},
+{
+                          "id":"7cedaaa96c264484be6a413becdb9f87",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":0,
+                              "y":64},
+                            "size":{
+                              "width":82,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4587e41569444bcdaf5f565ddb85fa43",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":0,
+                                  "y":64},
+                                "size":{
+                                  "width":82,
+                                  "height":20}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"resources/images/transparent.gif"}},
+{
+                          "id":"f4a58294d90b4aa3a0eadf15b6abb418",
+                          "label":"文字区域",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"textBox",
+                          "styleType":"textBox",
+                          "visible":true,
+                          "style":{
+                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "stateStyles":{
+                              "hint":{
+                                "fontName":"'Microsoft YaHei'",
+                                "horizontalAlignment":"left",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFAFAFAF,
+                                  "opacity":1}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "location":{
+                              "x":102,
+                              "y":58},
+                            "size":{
+                              "width":201,
+                              "height":32}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onMouseOver":{
+                              "description":"OnMouseOver",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["fbfaa114c250430590791595d261c1a5"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onMouseOut":{
+                              "description":"OnMouseOut",
+                              "cases":[{
+                                  "description":"Case 1<br> (If 变量 abc = &quot;0&quot;)",
+                                  "isNewIfGroup":false,
+                                  "condition":{
+                                    "exprType":"binaryOp",
+                                    "op":"==",
+                                    "leftExpr":{
+                                      "exprType":"fcall",
+                                      "functionName":"GetGlobalVariableValue",
+                                      "arguments":[{
+                                          "exprType":"globalVariableLiteral",
+                                          "variableName":"abc"}]},
+                                    "rightExpr":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]}},
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["fbfaa114c250430590791595d261c1a5"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}}]},
+{
+                                  "description":"Case 2<br> (Else If True)",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["fbfaa114c250430590791595d261c1a5"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onFocus":{
+                              "description":"OnFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["fbfaa114c250430590791595d261c1a5"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;1&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"1",
+                                                "stos":[]}]}]}}]}]},
+                            "onLostFocus":{
+                              "description":"OnLostFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["fbfaa114c250430590791595d261c1a5"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;0&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"0",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "placeholderText":"请输入文字"},
+{
+                          "id":"dda71fec481f49afb2a935ceb17b5f35",
                           "label":"options",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"dynamicPanel",
@@ -25960,7 +26439,7 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["2c299172b0864007856411f39025c1e0"]},
+                                                "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"true",
@@ -25981,13 +26460,13 @@
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                          "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                           "fadeInfo":{
                                             "fadeType":"hide",
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                          "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                           "fadeInfo":{
                                             "fadeType":"hide",
                                             "options":{
@@ -26001,7 +26480,7 @@
                                       "action":"fadeWidget",
                                       "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
                                       "objectsToFades":[{
-                                          "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                          "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -26019,7 +26498,7 @@
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                          "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -26033,7 +26512,7 @@
                                       "action":"fadeWidget",
                                       "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
                                       "objectsToFades":[{
-                                          "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                          "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -26051,7 +26530,7 @@
                                             "options":{
                                               "showType":"none"}}},
 {
-                                          "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                          "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                           "fadeInfo":{
                                             "fadeType":"show",
                                             "options":{
@@ -26060,13 +26539,13 @@
                           "fitToContent":false,
                           "propagate":false,
                           "diagrams":[{
-                              "id":"868d7b7b6b634420a295e40521b42e9b",
+                              "id":"0ce5c311a4d94796b91b71aeeaafdb32",
                               "label":"show dropdown options",
                               "type":"Axure:PanelDiagram",
                               "objects":[{
-                                  "id":"73d07e367261487f9d855bc799e46f60",
+                                  "id":"363d1e00341743a5b6974f340ed78b77",
                                   "label":"dropDownBox",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
                                   "visible":true,
@@ -26103,10 +26582,10 @@
                                   "adaptiveStyles":{
 },
                                   "objects":[{
-                                      "id":"cbae867876b742ae87452049f629d1f6",
+                                      "id":"8f8e94f30a1543648a3f988384d2e123",
                                       "label":"",
                                       "isContained":true,
-                                      "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                      "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
                                       "visible":true,
@@ -26143,11 +26622,11 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/dropdownbox_u823.png"}},
+                                    "normal~":"images/sql开发中心/dropdownbox_u819.png"}},
 {
-                                  "id":"801e2e4b6f6a4b15a034d13972829a3f",
+                                  "id":"33d725025e2941129892cc9e5141ff87",
                                   "label":"选项1",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
                                   "visible":true,
@@ -26180,10 +26659,10 @@
                                   "adaptiveStyles":{
 },
                                   "objects":[{
-                                      "id":"533fae4f12614ac59dd88d8a28b8d309",
+                                      "id":"421cb8d96a6742f39ce2d697c2b3635a",
                                       "label":"",
                                       "isContained":true,
-                                      "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                      "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
                                       "visible":true,
@@ -26225,7 +26704,7 @@
                                               "action":"fadeWidget",
                                               "description":"隐藏 options",
                                               "objectsToFades":[{
-                                                  "objectPath":["973dadf6356b4350ba52c238167cc23c"],
+                                                  "objectPath":["dda71fec481f49afb2a935ceb17b5f35"],
                                                   "fadeInfo":{
                                                     "fadeType":"hide",
                                                     "options":{
@@ -26243,7 +26722,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["bc75ab690d6e4ccdab68b33f212f9429"]},
+                                                        "value":["458842ea430442d2b1876110136941cf"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"[[ This.text]]",
@@ -26273,7 +26752,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["2c299172b0864007856411f39025c1e0"]},
+                                                        "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26282,7 +26761,7 @@
                                               "action":"fadeWidget",
                                               "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
                                               "objectsToFades":[{
-                                                  "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                                  "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                                   "fadeInfo":{
                                                     "fadeType":"show",
                                                     "options":{
@@ -26300,7 +26779,7 @@
                                                     "options":{
                                                       "showType":"none"}}},
 {
-                                                  "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                                  "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                                   "fadeInfo":{
                                                     "fadeType":"show",
                                                     "options":{
@@ -26318,7 +26797,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["801e2e4b6f6a4b15a034d13972829a3f"]},
+                                                        "value":["33d725025e2941129892cc9e5141ff87"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -26336,7 +26815,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]},
+                                                        "value":["961c3612fe374771acab653684cd5a7c"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26349,20 +26828,20 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["76d2aa7a7bd14df0b03c54775d0f246d"]},
+                                                        "value":["c1ef65bb58e54e3f849166ddae291f0a"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}},
+                                    "normal~":"images/sql开发中心/选项1_u821.png",
+                                    "selected~":"images/sql开发中心/选项1_u821_selected.png",
+                                    "mouseOver~":"images/sql开发中心/选项1_u821_selected.png"}},
 {
-                                  "id":"a72d2f3ea6e8450fb29ce54a3d6e2d2a",
+                                  "id":"961c3612fe374771acab653684cd5a7c",
                                   "label":"选型3",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
                                   "visible":true,
@@ -26395,10 +26874,10 @@
                                   "adaptiveStyles":{
 },
                                   "objects":[{
-                                      "id":"5c6fae82a41e47da88f18315746534de",
+                                      "id":"7ae248e3dc4d4fefba7fcac344e4514a",
                                       "label":"",
                                       "isContained":true,
-                                      "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                      "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
                                       "visible":true,
@@ -26440,7 +26919,7 @@
                                               "action":"fadeWidget",
                                               "description":"隐藏 options",
                                               "objectsToFades":[{
-                                                  "objectPath":["973dadf6356b4350ba52c238167cc23c"],
+                                                  "objectPath":["dda71fec481f49afb2a935ceb17b5f35"],
                                                   "fadeInfo":{
                                                     "fadeType":"hide",
                                                     "options":{
@@ -26458,7 +26937,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["bc75ab690d6e4ccdab68b33f212f9429"]},
+                                                        "value":["458842ea430442d2b1876110136941cf"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"[[  This.text]]",
@@ -26488,7 +26967,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["2c299172b0864007856411f39025c1e0"]},
+                                                        "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26497,7 +26976,7 @@
                                               "action":"fadeWidget",
                                               "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
                                               "objectsToFades":[{
-                                                  "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                                  "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                                   "fadeInfo":{
                                                     "fadeType":"show",
                                                     "options":{
@@ -26515,7 +26994,7 @@
                                                     "options":{
                                                       "showType":"none"}}},
 {
-                                                  "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                                  "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                                   "fadeInfo":{
                                                     "fadeType":"show",
                                                     "options":{
@@ -26533,7 +27012,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]},
+                                                        "value":["961c3612fe374771acab653684cd5a7c"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -26551,7 +27030,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["801e2e4b6f6a4b15a034d13972829a3f"]},
+                                                        "value":["33d725025e2941129892cc9e5141ff87"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26564,20 +27043,20 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["76d2aa7a7bd14df0b03c54775d0f246d"]},
+                                                        "value":["c1ef65bb58e54e3f849166ddae291f0a"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/选型3_u827.png",
-                                    "selected~":"images/sql开发中心/选型3_u827_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选型3_u827_selected.png"}},
+                                    "normal~":"images/sql开发中心/选型3_u823.png",
+                                    "selected~":"images/sql开发中心/选型3_u823_selected.png",
+                                    "mouseOver~":"images/sql开发中心/选型3_u823_selected.png"}},
 {
-                                  "id":"afaebfdc518b41c4ba5a5ababa84307b",
+                                  "id":"c21012ff37994d1abd9480f8481904a9",
                                   "label":"textFieldContainer",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
                                   "visible":true,
@@ -26621,10 +27100,10 @@
                                   "adaptiveStyles":{
 },
                                   "objects":[{
-                                      "id":"a5d08326a9ed40c1a24ca2d95cf02601",
+                                      "id":"9df9e87bda734dd486902dfb5d4388b1",
                                       "label":"",
                                       "isContained":true,
-                                      "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                      "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
                                       "visible":true,
@@ -26668,15 +27147,15 @@
                                       "adaptiveStyles":{
 }}],
                                   "images":{
-                                    "normal~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "selected~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseOver~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseDown~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "disabled~":"images/sql开发中心/textfieldcontainer_u829_disabled.png"}},
+                                    "normal~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "selected~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "mouseOver~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "mouseDown~":"images/sql开发中心/textfieldcontainer_u825.png",
+                                    "disabled~":"images/sql开发中心/textfieldcontainer_u825_disabled.png"}},
 {
-                                  "id":"9a380a0f628e4cea826d1eae693cba28",
+                                  "id":"4ed29ce5f5ac48a682f06bab3903def5",
                                   "label":"",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"textBox",
                                   "styleType":"textBox",
                                   "visible":true,
@@ -26684,7 +27163,7 @@
                                     "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
                                     "stateStyles":{
                                       "hint":{
-                                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                        "fontName":"'Microsoft YaHei'",
                                         "fontSize":"12px",
                                         "horizontalAlignment":"left",
                                         "foreGroundFill":{
@@ -26723,7 +27202,7 @@
                                                   "isThis":false,
                                                   "isFocused":false,
                                                   "isTarget":false,
-                                                  "value":["76d2aa7a7bd14df0b03c54775d0f246d"]}]}},
+                                                  "value":["c1ef65bb58e54e3f849166ddae291f0a"]}]}},
                                           "actions":[{
                                               "action":"setFunction",
                                               "description":"设置 选中状态值 选型2 = &quot;true&quot;",
@@ -26737,7 +27216,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["76d2aa7a7bd14df0b03c54775d0f246d"]},
+                                                        "value":["c1ef65bb58e54e3f849166ddae291f0a"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -26755,7 +27234,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["801e2e4b6f6a4b15a034d13972829a3f"]},
+                                                        "value":["33d725025e2941129892cc9e5141ff87"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26768,7 +27247,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]},
+                                                        "value":["961c3612fe374771acab653684cd5a7c"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26791,7 +27270,7 @@
                                                   "isThis":false,
                                                   "isFocused":false,
                                                   "isTarget":false,
-                                                  "value":["801e2e4b6f6a4b15a034d13972829a3f"]}]}},
+                                                  "value":["33d725025e2941129892cc9e5141ff87"]}]}},
                                           "actions":[{
                                               "action":"setFunction",
                                               "description":"设置 选中状态值 选项1 = &quot;true&quot;",
@@ -26805,7 +27284,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["801e2e4b6f6a4b15a034d13972829a3f"]},
+                                                        "value":["33d725025e2941129892cc9e5141ff87"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -26823,7 +27302,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]},
+                                                        "value":["961c3612fe374771acab653684cd5a7c"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26836,7 +27315,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["76d2aa7a7bd14df0b03c54775d0f246d"]},
+                                                        "value":["c1ef65bb58e54e3f849166ddae291f0a"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26859,7 +27338,7 @@
                                                   "isThis":false,
                                                   "isFocused":false,
                                                   "isTarget":false,
-                                                  "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]}]}},
+                                                  "value":["961c3612fe374771acab653684cd5a7c"]}]}},
                                           "actions":[{
                                               "action":"setFunction",
                                               "description":"设置 选中状态值 选型3 = &quot;true&quot;",
@@ -26873,7 +27352,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]},
+                                                        "value":["961c3612fe374771acab653684cd5a7c"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -26891,7 +27370,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["76d2aa7a7bd14df0b03c54775d0f246d"]},
+                                                        "value":["c1ef65bb58e54e3f849166ddae291f0a"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26904,7 +27383,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["801e2e4b6f6a4b15a034d13972829a3f"]},
+                                                        "value":["33d725025e2941129892cc9e5141ff87"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26927,7 +27406,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["afaebfdc518b41c4ba5a5ababa84307b"]},
+                                                        "value":["c21012ff37994d1abd9480f8481904a9"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -26950,7 +27429,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["afaebfdc518b41c4ba5a5ababa84307b"]},
+                                                        "value":["c21012ff37994d1abd9480f8481904a9"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -26958,9 +27437,9 @@
                                   "tabbable":true,
                                   "placeholderText":"请输入文字"},
 {
-                                  "id":"626a07b07b5a4676837895eb25805f1c",
+                                  "id":"d1ad76f3b0184ab5a0171c36be765fc6",
                                   "label":"搜索悬停",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"imageBox",
                                   "styleType":"imageBox",
                                   "visible":true,
@@ -26974,10 +27453,10 @@
                                   "adaptiveStyles":{
 },
                                   "objects":[{
-                                      "id":"6b3e1e4ab7134b42bd35e03cecb79b7b",
+                                      "id":"c4b27104c8c945e6a2a48ac8bed2a083",
                                       "label":"",
                                       "isContained":true,
-                                      "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                      "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
                                       "visible":true,
@@ -26993,9 +27472,9 @@
                                   "images":{
                                     "normal~":"images/任务管理/搜索悬停_u283.png"}},
 {
-                                  "id":"76d2aa7a7bd14df0b03c54775d0f246d",
+                                  "id":"c1ef65bb58e54e3f849166ddae291f0a",
                                   "label":"选型2",
-                                  "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                  "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
                                   "visible":true,
@@ -27028,10 +27507,10 @@
                                   "adaptiveStyles":{
 },
                                   "objects":[{
-                                      "id":"c1cebf90cdbd4d3294485b498c6dc6d8",
+                                      "id":"bfe44749f51b401592627a2489d21e37",
                                       "label":"",
                                       "isContained":true,
-                                      "parentDynamicPanel":"973dadf6356b4350ba52c238167cc23c",
+                                      "parentDynamicPanel":"dda71fec481f49afb2a935ceb17b5f35",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
                                       "visible":true,
@@ -27073,7 +27552,7 @@
                                               "action":"fadeWidget",
                                               "description":"隐藏 options",
                                               "objectsToFades":[{
-                                                  "objectPath":["973dadf6356b4350ba52c238167cc23c"],
+                                                  "objectPath":["dda71fec481f49afb2a935ceb17b5f35"],
                                                   "fadeInfo":{
                                                     "fadeType":"hide",
                                                     "options":{
@@ -27095,7 +27574,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["bc75ab690d6e4ccdab68b33f212f9429"]},
+                                                        "value":["458842ea430442d2b1876110136941cf"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"[[  This.text]]",
@@ -27125,7 +27604,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["2c299172b0864007856411f39025c1e0"]},
+                                                        "value":["710d0c5451b44afc8ee1b9f5745e22a6"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -27134,7 +27613,7 @@
                                               "action":"fadeWidget",
                                               "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
                                               "objectsToFades":[{
-                                                  "objectPath":["ee4ca9d2c4374938ba0df93989460f66"],
+                                                  "objectPath":["02e68f0ee9574243b71548ca9b7c3e93"],
                                                   "fadeInfo":{
                                                     "fadeType":"show",
                                                     "options":{
@@ -27152,7 +27631,7 @@
                                                     "options":{
                                                       "showType":"none"}}},
 {
-                                                  "objectPath":["837a1d46c228410189cc6789ee9f901e"],
+                                                  "objectPath":["7bd6985490564903bed7c8ee8a52d284"],
                                                   "fadeInfo":{
                                                     "fadeType":"show",
                                                     "options":{
@@ -27170,7 +27649,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["76d2aa7a7bd14df0b03c54775d0f246d"]},
+                                                        "value":["c1ef65bb58e54e3f849166ddae291f0a"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"true",
@@ -27188,7 +27667,7 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["a72d2f3ea6e8450fb29ce54a3d6e2d2a"]},
+                                                        "value":["961c3612fe374771acab653684cd5a7c"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
@@ -27201,16 +27680,16 @@
                                                         "isThis":false,
                                                         "isFocused":false,
                                                         "isTarget":false,
-                                                        "value":["801e2e4b6f6a4b15a034d13972829a3f"]},
+                                                        "value":["33d725025e2941129892cc9e5141ff87"]},
 {
                                                         "exprType":"stringLiteral",
                                                         "value":"false",
                                                         "stos":[]}]}]}}]}]}},
                                   "tabbable":true,
                                   "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}}],
+                                    "normal~":"images/sql开发中心/选项1_u821.png",
+                                    "selected~":"images/sql开发中心/选项1_u821_selected.png",
+                                    "mouseOver~":"images/sql开发中心/选项1_u821_selected.png"}}],
                               "style":{
                                 "fill":{
                                   "fillType":"solid",
@@ -27222,87 +27701,37 @@
                               "adaptiveStyles":{
 }}]},
 {
-                          "id":"ee4ca9d2c4374938ba0df93989460f66",
-                          "label":"下拉默认",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"dynamicPanel",
-                          "styleType":"dynamicPanel",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":518,
-                              "y":10},
-                            "size":{
-                              "width":11,
-                              "height":10}},
-                          "adaptiveStyles":{
-},
-                          "scrollbars":"none",
-                          "fitToContent":false,
-                          "propagate":false,
-                          "diagrams":[{
-                              "id":"74b5075e3b4441d69f742c62252fe6ab",
-                              "label":"状态1",
-                              "type":"Axure:PanelDiagram",
-                              "objects":[{
-                                  "id":"837a1d46c228410189cc6789ee9f901e",
-                                  "label":"",
-                                  "parentDynamicPanel":"ee4ca9d2c4374938ba0df93989460f66",
-                                  "type":"imageBox",
-                                  "styleType":"imageBox",
-                                  "visible":true,
-                                  "style":{
-                                    "size":{
-                                      "width":9,
-                                      "height":9}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"21ebfaa29e6542238124650bcf291f65",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"ee4ca9d2c4374938ba0df93989460f66",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "size":{
-                                          "width":9,
-                                          "height":9}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/任务管理/u101.png"}}],
-                              "style":{
-                                "fill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "image":null,
-                                "imageHorizontalAlignment":"near",
-                                "imageVerticalAlignment":"near",
-                                "imageRepeat":"auto"},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"5f3a05d7f0424c77879a55ee622c933a",
-                          "label":"表头",
+                          "id":"5694fa1de429402ebaa00d5d5495043e",
+                          "label":"输入框",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
-                          "styleType":"paragraph",
+                          "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":0,
-                              "y":6},
+                              "x":92,
+                              "y":110},
                             "size":{
-                              "width":92,
-                              "height":20}},
+                              "width":221,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"4b34508223ce439aa87546a73818a3e8",
+                              "id":"0dd88a0390334a8f9f63ae81caa6be7c",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -27310,19 +27739,192 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                                "location":{
+                                  "x":92,
+                                  "y":110},
+                                "size":{
+                                  "width":221,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框2_u94.png",
+                            "selected~":"images/新建任务/输入框2_u94_selected.png",
+                            "mouseDown~":"images/新建任务/输入框2_u94_selected.png",
+                            "disabled~":"images/新建任务/输入框2_u94_disabled.png"}},
+{
+                          "id":"a6cd45a5b6c44b9981407150c2006a07",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":0,
+                              "y":116},
+                            "size":{
+                              "width":82,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"f0f46f56a66a4bc396a881926e3b689a",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
                                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                                 "location":{
                                   "x":0,
-                                  "y":6},
+                                  "y":116},
                                 "size":{
-                                  "width":92,
+                                  "width":82,
                                   "height":20}},
                               "adaptiveStyles":{
 }}],
                           "images":{
                             "normal~":"resources/images/transparent.gif"}},
 {
+                          "id":"f4706d38fb914868b334f39be07b9f99",
+                          "label":"输入框",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                            "location":{
+                              "x":92,
+                              "y":152},
+                            "size":{
+                              "width":221,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"5c373470c17b4f88abb55f9139f9ce94",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                                "location":{
+                                  "x":92,
+                                  "y":152},
+                                "size":{
+                                  "width":221,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框2_u94.png",
+                            "selected~":"images/新建任务/输入框2_u94_selected.png",
+                            "mouseDown~":"images/新建任务/输入框2_u94_selected.png",
+                            "disabled~":"images/新建任务/输入框2_u94_disabled.png"}},
+{
+                          "id":"87b6e8f538a34719ac9ff8670a938818",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":0,
+                              "y":158},
+                            "size":{
+                              "width":82,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"81d010c0d4b94fbfa9a92d9150a256be",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":0,
+                                  "y":158},
+                                "size":{
+                                  "width":82,
+                                  "height":20}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"resources/images/transparent.gif"}}],
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "image":null,
+                        "imageHorizontalAlignment":"near",
+                        "imageVerticalAlignment":"near",
+                        "imageRepeat":"auto"},
+                      "adaptiveStyles":{
+}},
+{
+                      "id":"72795837ae2e4baabd2b1861e4db2fd7",
+                      "label":"hbase_table",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
                           "id":"e03368ac445d4d8aaebfc5652e170b10",
                           "label":"",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -27330,7 +27932,7 @@
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
                             "foreGroundFill":{
                               "fillType":"solid",
                               "color":0xFF0099FF,
@@ -27353,7 +27955,7 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
                                 "foreGroundFill":{
                                   "fillType":"solid",
                                   "color":0xFF0099FF,
@@ -27370,161 +27972,17 @@
                           "images":{
                             "normal~":"images/sql开发中心/u809.png"}},
 {
-                          "id":"a04ea87c5acd42eb856a3e240d0c7f98",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"buttonShape",
-                          "styleType":"paragraph",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "fontSize":"12px",
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFF0099FF,
-                              "opacity":1},
-                            "location":{
-                              "x":280,
-                              "y":342},
-                            "size":{
-                              "width":130,
-                              "height":17}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"6d1b6bb90cd74167a47d9f1d12b50ed5",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "fontSize":"12px",
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFF0099FF,
-                                  "opacity":1},
-                                "location":{
-                                  "x":280,
-                                  "y":342},
-                                "size":{
-                                  "width":130,
-                                  "height":17}},
-                              "adaptiveStyles":{
-}}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"linkWindow",
-                                      "description":"在 当前窗口 打开 http://bdp.jd.com/atom/workflow/v2/apply/add.html?workFlowId=10249",
-                                      "target":{
-                                        "targetType":"webUrl",
-                                        "urlLiteral":{
-                                          "exprType":"stringLiteral",
-                                          "value":"http://bdp.jd.com/atom/workflow/v2/apply/add.html?workFlowId=10249",
-                                          "stos":[]},
-                                        "includeVariables":false},
-                                      "linkType":"current"}]}]}},
-                          "tabbable":true,
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"82fab5a51aae42d18b6a5edb0f1aa555",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":92,
-                              "y":194},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"f2e82f02960641a7bfd910ffbb6d9e27",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":92,
-                                  "y":194},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"10ddae6773374b8a8b98478da38b2f71",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":410,
-                              "y":194},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"20ae15b6b9f142a58226fb182dda88f2",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":410,
-                                  "y":194},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]}],
-                      "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
-                        "image":null,
-                        "imageHorizontalAlignment":"near",
-                        "imageVerticalAlignment":"near",
-                        "imageRepeat":"auto"},
-                      "adaptiveStyles":{
-}},
-{
-                      "id":"a17301bfec3f4f70b1f07f69fa4a7e94",
-                      "label":"MySQL",
-                      "type":"Axure:PanelDiagram",
-                      "objects":[{
-                          "id":"f92c28834506459d8fe8fb70b3d2bb19",
-                          "label":"文本框",
+                          "id":"3de558adbe0c45c2996b71c4b73fd4ea",
+                          "label":"输入框1",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
                             "stateStyles":{
+                              "mouseOver":{
+},
                               "mouseDown":{
                                 "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
                               "selected":{
@@ -27532,15 +27990,19 @@
                               "disabled":{
                                 "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":92,
-                              "y":0},
+                              "x":174,
+                              "y":10},
                             "size":{
-                              "width":443,
-                              "height":32}},
+                              "width":310,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"e067de0f31984c5a8649e9d9ab005a33",
+                              "id":"8ffb2600dff0492da0f9a16136177523",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -27548,9 +28010,10 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
                                 "stateStyles":{
+                                  "mouseOver":{
+},
                                   "mouseDown":{
                                     "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
                                   "selected":{
@@ -27558,60 +28021,100 @@
                                   "disabled":{
                                     "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                 "location":{
-                                  "x":92,
-                                  "y":0},
+                                  "x":174,
+                                  "y":10},
                                 "size":{
-                                  "width":443,
-                                  "height":32}},
+                                  "width":310,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
                               "adaptiveStyles":{
 }}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框4_u4513.png",
+                            "selected~":"images/新建任务/输入框4_u4513_selected.png",
+                            "mouseDown~":"images/新建任务/输入框4_u4513_selected.png",
+                            "disabled~":"images/新建任务/输入框4_u4513_disabled.png"}},
+{
+                          "id":"34f2c658991146a39aa673b63c09d41c",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF808080,
+                              "opacity":1},
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":17,
+                              "y":16},
+                            "size":{
+                              "width":127,
+                              "height":24}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"498ebbfdd14d4181bb3fb44fb747f19d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF808080,
+                                  "opacity":1},
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":17,
+                                  "y":16},
+                                "size":{
+                                  "width":127,
+                                  "height":24}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"resources/images/transparent.gif"}},
+{
+                          "id":"0de237a625334df9a542fa8201e1ec09",
+                          "label":"文字区域",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"textBox",
+                          "styleType":"textBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "stateStyles":{
+                              "hint":{
+                                "fontName":"'Microsoft YaHei'",
+                                "fontSize":"12px",
+                                "horizontalAlignment":"left",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFAFAFAF,
+                                  "opacity":1}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "location":{
+                              "x":184,
+                              "y":10},
+                            "size":{
+                              "width":290,
+                              "height":32}},
+                          "adaptiveStyles":{
+},
                           "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"Case 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"显示 options",
-                                      "objectsToFades":[{
-                                          "objectPath":["b54d30f54f694af0bb176e527ce6727e"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]},
-{
-                                      "action":"setFunction",
-                                      "description":"设置 选中状态值 当前部件 = &quot;true&quot;",
-                                      "expr":{
-                                        "exprType":"block",
-                                        "subExprs":[{
-                                            "exprType":"fcall",
-                                            "functionName":"SetCheckState",
-                                            "arguments":[{
-                                                "exprType":"pathLiteral",
-                                                "isThis":true,
-                                                "isFocused":false,
-                                                "isTarget":false},
-{
-                                                "exprType":"stringLiteral",
-                                                "value":"true",
-                                                "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉选中,<br>隐藏 下拉默认",
-                                      "objectsToFades":[{
-                                          "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
                             "onMouseOver":{
                               "description":"OnMouseOver",
                               "cases":[{
@@ -27619,7 +28122,7 @@
                                   "isNewIfGroup":false,
                                   "actions":[{
                                       "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;true&quot;",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
                                       "expr":{
                                         "exprType":"block",
                                         "subExprs":[{
@@ -27630,7 +28133,87 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
+                                                "value":["3de558adbe0c45c2996b71c4b73fd4ea"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onMouseOut":{
+                              "description":"OnMouseOut",
+                              "cases":[{
+                                  "description":"Case 1<br> (If 变量 abc = &quot;0&quot;)",
+                                  "isNewIfGroup":false,
+                                  "condition":{
+                                    "exprType":"binaryOp",
+                                    "op":"==",
+                                    "leftExpr":{
+                                      "exprType":"fcall",
+                                      "functionName":"GetGlobalVariableValue",
+                                      "arguments":[{
+                                          "exprType":"globalVariableLiteral",
+                                          "variableName":"abc"}]},
+                                    "rightExpr":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]}},
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["3de558adbe0c45c2996b71c4b73fd4ea"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}}]},
+{
+                                  "description":"Case 2<br> (Else If True)",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["3de558adbe0c45c2996b71c4b73fd4ea"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onFocus":{
+                              "description":"OnFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["3de558adbe0c45c2996b71c4b73fd4ea"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"true",
@@ -27649,57 +28232,15 @@
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"1",
-                                                "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉选中,<br>下拉选中,<br>隐藏 下拉默认,<br>(Image)",
-                                      "objectsToFades":[{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
-                            "onMouseOut":{
-                              "description":"OnMouseOut",
+                                                "stos":[]}]}]}}]}]},
+                            "onLostFocus":{
+                              "description":"OnLostFocus",
                               "cases":[{
-                                  "description":"Case 1<br> (If 可见性 options = 假)",
+                                  "description":"Case 1",
                                   "isNewIfGroup":false,
-                                  "condition":{
-                                    "exprType":"binaryOp",
-                                    "op":"==",
-                                    "leftExpr":{
-                                      "exprType":"fcall",
-                                      "functionName":"GetWidgetVisibility",
-                                      "arguments":[{
-                                          "exprType":"pathLiteral",
-                                          "isThis":false,
-                                          "isFocused":false,
-                                          "isTarget":false,
-                                          "value":["b54d30f54f694af0bb176e527ce6727e"]}]},
-                                    "rightExpr":{
-                                      "exprType":"booleanLiteral",
-                                      "value":false}},
                                   "actions":[{
                                       "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;false&quot;",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
                                       "expr":{
                                         "exprType":"block",
                                         "subExprs":[{
@@ -27710,38 +28251,11 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
+                                                "value":["3de558adbe0c45c2996b71c4b73fd4ea"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"false",
                                                 "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                      "objectsToFades":[{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]},
 {
                                       "action":"setFunction",
                                       "description":"设置 变量 abc = &quot;0&quot;",
@@ -27756,1650 +28270,21 @@
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"0",
-                                                "stos":[]}]}]}}]},
-{
-                                  "description":"Case 2<br> (Else If 可见性 options = 真)",
-                                  "isNewIfGroup":false,
-                                  "condition":{
-                                    "exprType":"binaryOp",
-                                    "op":"==",
-                                    "leftExpr":{
-                                      "exprType":"fcall",
-                                      "functionName":"GetWidgetVisibility",
-                                      "arguments":[{
-                                          "exprType":"pathLiteral",
-                                          "isThis":false,
-                                          "isFocused":false,
-                                          "isTarget":false,
-                                          "value":["b54d30f54f694af0bb176e527ce6727e"]}]},
-                                    "rightExpr":{
-                                      "exprType":"booleanLiteral",
-                                      "value":true}},
-                                  "actions":[{
-                                      "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;true&quot;",
-                                      "expr":{
-                                        "exprType":"block",
-                                        "subExprs":[{
-                                            "exprType":"fcall",
-                                            "functionName":"SetCheckState",
-                                            "arguments":[{
-                                                "exprType":"pathLiteral",
-                                                "isThis":false,
-                                                "isFocused":false,
-                                                "isTarget":false,
-                                                "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
-{
-                                                "exprType":"stringLiteral",
-                                                "value":"true",
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
-                          "images":{
-                            "normal~":"images/sql开发中心/文本框_u802.png",
-                            "selected~":"images/sql开发中心/文本框_u802_selected.png",
-                            "mouseDown~":"images/sql开发中心/文本框_u802_selected.png",
-                            "disabled~":"images/sql开发中心/文本框_u802_disabled.png"}},
+                          "placeholderText":"请输入文字"},
 {
-                          "id":"b54d30f54f694af0bb176e527ce6727e",
-                          "label":"options",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"dynamicPanel",
-                          "styleType":"dynamicPanel",
-                          "visible":false,
-                          "style":{
-                            "location":{
-                              "x":92,
-                              "y":30},
-                            "size":{
-                              "width":443,
-                              "height":145},
-                            "visible":false},
-                          "adaptiveStyles":{
-},
-                          "interactionMap":{
-                            "onMouseOver":{
-                              "description":"OnMouseOver",
-                              "cases":[{
-                                  "description":"Case 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;true&quot;",
-                                      "expr":{
-                                        "exprType":"block",
-                                        "subExprs":[{
-                                            "exprType":"fcall",
-                                            "functionName":"SetCheckState",
-                                            "arguments":[{
-                                                "exprType":"pathLiteral",
-                                                "isThis":false,
-                                                "isFocused":false,
-                                                "isTarget":false,
-                                                "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
-{
-                                                "exprType":"stringLiteral",
-                                                "value":"true",
-                                                "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉选中,<br>下拉选中,<br>隐藏 下拉默认,<br>(Image)",
-                                      "objectsToFades":[{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
-                            "onMouseOut":{
-                              "description":"OnMouseOut",
-                              "cases":[{
-                                  "description":"Case 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                      "objectsToFades":[{
-                                          "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
-                            "onPanelStateChange":{
-                              "description":"OnPanelStateChange",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                      "objectsToFades":[{
-                                          "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]}},
-                          "scrollbars":"none",
-                          "fitToContent":false,
-                          "propagate":false,
-                          "diagrams":[{
-                              "id":"69f481dbc56546f9a1a2c45bf96e9d54",
-                              "label":"show dropdown options",
-                              "type":"Axure:PanelDiagram",
-                              "objects":[{
-                                  "id":"53ce0f2c84fc4adab9306fc3cb5bb3b2",
-                                  "label":"dropDownBox",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Open Sans Regular', 'Open Sans'",
-                                    "fontSize":"12px",
-                                    "horizontalAlignment":"left",
-                                    "foreGroundFill":{
-                                      "fillType":"solid",
-                                      "color":0xFF606060,
-                                      "opacity":1},
-                                    "stateStyles":{
-                                      "selected":{
-}},
-                                    "location":{
-                                      "x":0,
-                                      "y":-19},
-                                    "size":{
-                                      "width":440,
-                                      "height":161},
-                                    "borderFill":{
-                                      "fillType":"solid",
-                                      "color":0xFF2C4A93},
-                                    "outerShadow":{
-                                      "on":true,
-                                      "offsetX":3,
-                                      "offsetY":3,
-                                      "blurRadius":7,
-                                      "color":{
-                                        "r":0,
-                                        "g":0,
-                                        "b":0,
-                                        "a":0.0588235294117647}}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"0af5007df6734813a703d08128bcc172",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "fontName":"'Open Sans Regular', 'Open Sans'",
-                                        "fontSize":"12px",
-                                        "horizontalAlignment":"left",
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF606060,
-                                          "opacity":1},
-                                        "stateStyles":{
-                                          "selected":{
-}},
-                                        "location":{
-                                          "x":0,
-                                          "y":-19},
-                                        "size":{
-                                          "width":440,
-                                          "height":161},
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93},
-                                        "outerShadow":{
-                                          "on":true,
-                                          "offsetX":3,
-                                          "offsetY":3,
-                                          "blurRadius":7,
-                                          "color":{
-                                            "r":0,
-                                            "g":0,
-                                            "b":0,
-                                            "a":0.0588235294117647}}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/sql开发中心/dropdownbox_u823.png"}},
-{
-                                  "id":"174a5e75ce794c26903845a6c9403d49",
-                                  "label":"选项1",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":35},
-                                    "size":{
-                                      "width":427,
-                                      "height":34},
-                                    "borderWidth":"-1"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"a29b3626712e4b1494d3a4a7e25afca4",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":35},
-                                        "size":{
-                                          "width":427,
-                                          "height":34},
-                                        "borderWidth":"-1"},
-                                      "adaptiveStyles":{
-}}],
-                                  "interactionMap":{
-                                    "onClick":{
-                                      "description":"OnClick",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"fadeWidget",
-                                              "description":"隐藏 options",
-                                              "objectsToFades":[{
-                                                  "objectPath":["b54d30f54f694af0bb176e527ce6727e"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 部件文字 文本框 = &quot;[[ This.text]]&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetWidgetRichText",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["e067de0f31984c5a8649e9d9ab005a33"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"[[ This.text]]",
-                                                        "localVariables":{
-},
-                                                        "stos":[{
-                                                            "computedType":"string",
-                                                            "sto":"propCall",
-                                                            "thisSTO":{
-                                                              "desiredType":"widget",
-                                                              "sto":"var",
-                                                              "name":"this"},
-                                                            "prop":"text"}]},
-{
-                                                        "exprType":"booleanLiteral",
-                                                        "value":true}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 文本框 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                              "objectsToFades":[{
-                                                  "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["174a5e75ce794c26903845a6c9403d49"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;false&quot;, 且<br> 选中状态值 选型2 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["6e59c08796de4d62a4d11ee62d2aa016"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["052d686c55824a44a8d0ed62e542c669"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}},
-{
-                                  "id":"6e59c08796de4d62a4d11ee62d2aa016",
-                                  "label":"选型3",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":108},
-                                    "size":{
-                                      "width":427,
-                                      "height":32},
-                                    "borderWidth":"-1"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"56aa923106e24494ab26b67a42c34fba",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":108},
-                                        "size":{
-                                          "width":427,
-                                          "height":32},
-                                        "borderWidth":"-1"},
-                                      "adaptiveStyles":{
-}}],
-                                  "interactionMap":{
-                                    "onClick":{
-                                      "description":"OnClick",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"fadeWidget",
-                                              "description":"隐藏 options",
-                                              "objectsToFades":[{
-                                                  "objectPath":["b54d30f54f694af0bb176e527ce6727e"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 部件文字 文本框 = &quot;[[&nbsp; This.text]]&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetWidgetRichText",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["e067de0f31984c5a8649e9d9ab005a33"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"[[  This.text]]",
-                                                        "localVariables":{
-},
-                                                        "stos":[{
-                                                            "computedType":"string",
-                                                            "sto":"propCall",
-                                                            "thisSTO":{
-                                                              "desiredType":"widget",
-                                                              "sto":"var",
-                                                              "name":"this"},
-                                                            "prop":"text"}]},
-{
-                                                        "exprType":"booleanLiteral",
-                                                        "value":true}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 文本框 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                              "objectsToFades":[{
-                                                  "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["6e59c08796de4d62a4d11ee62d2aa016"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;false&quot;, 且<br> 选中状态值 选型2 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["174a5e75ce794c26903845a6c9403d49"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["052d686c55824a44a8d0ed62e542c669"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "images":{
-                                    "normal~":"images/sql开发中心/选型3_u827.png",
-                                    "selected~":"images/sql开发中心/选型3_u827_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选型3_u827_selected.png"}},
-{
-                                  "id":"d8ee361bfba54617aaa16c2effdc7bae",
-                                  "label":"textFieldContainer",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "fontSize":"12px",
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "mouseDown":{
-                                        "fontSize":"12px",
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "fontSize":"12px",
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "disabled":{
-                                        "fontSize":"12px",
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFCFCFCF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFFF5F7F8}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":0},
-                                    "size":{
-                                      "width":437,
-                                      "height":32},
-                                    "borderFill":{
-                                      "fillType":"solid",
-                                      "color":0xFF2C4A93},
-                                    "cornerRadiusTopLeft":"0"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"977007c5735e4180bcce3dc3fa085662",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "fontSize":"12px",
-                                            "borderFill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "mouseDown":{
-                                            "fontSize":"12px",
-                                            "borderFill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "fontSize":"12px",
-                                            "borderFill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "disabled":{
-                                            "fontSize":"12px",
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFCFCFCF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFFF5F7F8}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":0},
-                                        "size":{
-                                          "width":437,
-                                          "height":32},
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93},
-                                        "cornerRadiusTopLeft":"0"},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "selected~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseOver~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseDown~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "disabled~":"images/sql开发中心/textfieldcontainer_u829_disabled.png"}},
-{
-                                  "id":"0fdbaf285f2e43c59094791372199209",
-                                  "label":"",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"textBox",
-                                  "styleType":"textBox",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
-                                    "stateStyles":{
-                                      "hint":{
-                                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                        "fontSize":"12px",
-                                        "horizontalAlignment":"left",
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFAFAFAF,
-                                          "opacity":1}}},
-                                    "fill":{
-                                      "fillType":"solid",
-                                      "color":0xFFFFFF},
-                                    "location":{
-                                      "x":10,
-                                      "y":0},
-                                    "size":{
-                                      "width":198,
-                                      "height":32}},
-                                  "adaptiveStyles":{
-},
-                                  "interactionMap":{
-                                    "onTextChange":{
-                                      "description":"OnTextChange",
-                                      "cases":[{
-                                          "description":"用例 1<br> (If 焦点部件上的文字&nbsp; = 部件文字 选型2)",
-                                          "isNewIfGroup":false,
-                                          "condition":{
-                                            "exprType":"binaryOp",
-                                            "op":"==",
-                                            "leftExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetFocusedWidgetText",
-                                              "arguments":[]},
-                                            "rightExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetWidgetText",
-                                              "arguments":[{
-                                                  "exprType":"pathLiteral",
-                                                  "isThis":false,
-                                                  "isFocused":false,
-                                                  "isTarget":false,
-                                                  "value":["052d686c55824a44a8d0ed62e542c669"]}]}},
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型2 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["052d686c55824a44a8d0ed62e542c669"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;false&quot;, 且<br> 选中状态值 选型3 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["174a5e75ce794c26903845a6c9403d49"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["6e59c08796de4d62a4d11ee62d2aa016"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]},
-{
-                                          "description":"用例 2<br> (Else If 焦点部件上的文字&nbsp; = 部件文字 选项1)",
-                                          "isNewIfGroup":false,
-                                          "condition":{
-                                            "exprType":"binaryOp",
-                                            "op":"==",
-                                            "leftExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetFocusedWidgetText",
-                                              "arguments":[]},
-                                            "rightExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetWidgetText",
-                                              "arguments":[{
-                                                  "exprType":"pathLiteral",
-                                                  "isThis":false,
-                                                  "isFocused":false,
-                                                  "isTarget":false,
-                                                  "value":["174a5e75ce794c26903845a6c9403d49"]}]}},
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["174a5e75ce794c26903845a6c9403d49"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;false&quot;, 且<br> 选中状态值 选型2 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["6e59c08796de4d62a4d11ee62d2aa016"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["052d686c55824a44a8d0ed62e542c669"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]},
-{
-                                          "description":"用例 3<br> (Else If 焦点部件上的文字&nbsp; = 部件文字 选型3)",
-                                          "isNewIfGroup":false,
-                                          "condition":{
-                                            "exprType":"binaryOp",
-                                            "op":"==",
-                                            "leftExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetFocusedWidgetText",
-                                              "arguments":[]},
-                                            "rightExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetWidgetText",
-                                              "arguments":[{
-                                                  "exprType":"pathLiteral",
-                                                  "isThis":false,
-                                                  "isFocused":false,
-                                                  "isTarget":false,
-                                                  "value":["6e59c08796de4d62a4d11ee62d2aa016"]}]}},
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["6e59c08796de4d62a4d11ee62d2aa016"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型2 = &quot;false&quot;, 且<br> 选中状态值 选项1 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["052d686c55824a44a8d0ed62e542c669"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["174a5e75ce794c26903845a6c9403d49"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]},
-                                    "onFocus":{
-                                      "description":"OnFocus",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 textFieldContainer = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["d8ee361bfba54617aaa16c2effdc7bae"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}}]}]},
-                                    "onLostFocus":{
-                                      "description":"OnLostFocus",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 textFieldContainer = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["d8ee361bfba54617aaa16c2effdc7bae"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "placeholderText":"请输入文字"},
-{
-                                  "id":"44140c6dfbe5460693bc6c5b1001f544",
-                                  "label":"搜索悬停",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"imageBox",
-                                  "styleType":"imageBox",
-                                  "visible":true,
-                                  "style":{
-                                    "location":{
-                                      "x":400,
-                                      "y":10},
-                                    "size":{
-                                      "width":13,
-                                      "height":13}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"54a8d7aff8eb4c448b2978e8a5ec256e",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "location":{
-                                          "x":400,
-                                          "y":10},
-                                        "size":{
-                                          "width":13,
-                                          "height":13}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/任务管理/搜索悬停_u283.png"}},
-{
-                                  "id":"052d686c55824a44a8d0ed62e542c669",
-                                  "label":"选型2",
-                                  "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":72},
-                                    "size":{
-                                      "width":427,
-                                      "height":34},
-                                    "borderWidth":"-1"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"05ea9068650c40fdb64c202e7531c699",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"b54d30f54f694af0bb176e527ce6727e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":72},
-                                        "size":{
-                                          "width":427,
-                                          "height":34},
-                                        "borderWidth":"-1"},
-                                      "adaptiveStyles":{
-}}],
-                                  "interactionMap":{
-                                    "onClick":{
-                                      "description":"OnClick",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"fadeWidget",
-                                              "description":"隐藏 options",
-                                              "objectsToFades":[{
-                                                  "objectPath":["b54d30f54f694af0bb176e527ce6727e"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示/隐藏部件",
-                                              "objectsToFades":[]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 部件文字 文本框 = &quot;[[&nbsp; This.text]]&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetWidgetRichText",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["e067de0f31984c5a8649e9d9ab005a33"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"[[  This.text]]",
-                                                        "localVariables":{
-},
-                                                        "stos":[{
-                                                            "computedType":"string",
-                                                            "sto":"propCall",
-                                                            "thisSTO":{
-                                                              "desiredType":"widget",
-                                                              "sto":"var",
-                                                              "name":"this"},
-                                                            "prop":"text"}]},
-{
-                                                        "exprType":"booleanLiteral",
-                                                        "value":true}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 文本框 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["f92c28834506459d8fe8fb70b3d2bb19"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                              "objectsToFades":[{
-                                                  "objectPath":["42a53f73299a4c72aa87ee3e5cbab21e"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["2d80855b7c2e4519a6bfa1570f66c7ba"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型2 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["052d686c55824a44a8d0ed62e542c669"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;false&quot;, 且<br> 选中状态值 选项1 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["6e59c08796de4d62a4d11ee62d2aa016"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["174a5e75ce794c26903845a6c9403d49"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}}],
-                              "style":{
-                                "fill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "image":null,
-                                "imageHorizontalAlignment":"near",
-                                "imageVerticalAlignment":"near",
-                                "imageRepeat":"auto"},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"42a53f73299a4c72aa87ee3e5cbab21e",
-                          "label":"下拉默认",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"dynamicPanel",
-                          "styleType":"dynamicPanel",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":518,
-                              "y":10},
-                            "size":{
-                              "width":11,
-                              "height":10}},
-                          "adaptiveStyles":{
-},
-                          "scrollbars":"none",
-                          "fitToContent":false,
-                          "propagate":false,
-                          "diagrams":[{
-                              "id":"634eb00881224bbd89fe4766f208c249",
-                              "label":"状态1",
-                              "type":"Axure:PanelDiagram",
-                              "objects":[{
-                                  "id":"2d80855b7c2e4519a6bfa1570f66c7ba",
-                                  "label":"",
-                                  "parentDynamicPanel":"42a53f73299a4c72aa87ee3e5cbab21e",
-                                  "type":"imageBox",
-                                  "styleType":"imageBox",
-                                  "visible":true,
-                                  "style":{
-                                    "size":{
-                                      "width":9,
-                                      "height":9}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"3cc14a7fa0b4417189ec5d16eb423a68",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"42a53f73299a4c72aa87ee3e5cbab21e",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "size":{
-                                          "width":9,
-                                          "height":9}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/任务管理/u101.png"}}],
-                              "style":{
-                                "fill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "image":null,
-                                "imageHorizontalAlignment":"near",
-                                "imageVerticalAlignment":"near",
-                                "imageRepeat":"auto"},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"3dc525345aec4df8a9063a17473ea08b",
-                          "label":"表头",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"buttonShape",
-                          "styleType":"paragraph",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
-                            "location":{
-                              "x":0,
-                              "y":6},
-                            "size":{
-                              "width":92,
-                              "height":20}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"8f9f00ca35da4e9aa72f0a27fe2d0f03",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
-                                "location":{
-                                  "x":0,
-                                  "y":6},
-                                "size":{
-                                  "width":92,
-                                  "height":20}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"1392a351ef494b58ae6654bc0e130af5",
-                          "label":"",
+                          "id":"0e7624ef1afb40439b371e03271a1765",
+                          "label":"输入框1",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFF0099FF,
-                              "opacity":1},
-                            "baseStyle":"79949d1235b443708a9d045670d9cb8c",
-                            "location":{
-                              "x":17,
-                              "y":330},
-                            "size":{
-                              "width":633,
-                              "height":40}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"7cbaf7ffa203462b974b16d6d14c425f",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFF0099FF,
-                                  "opacity":1},
-                                "baseStyle":"79949d1235b443708a9d045670d9cb8c",
-                                "location":{
-                                  "x":17,
-                                  "y":330},
-                                "size":{
-                                  "width":633,
-                                  "height":40}},
-                              "adaptiveStyles":{
-}}],
-                          "images":{
-                            "normal~":"images/sql开发中心/u809.png"}},
-{
-                          "id":"f026d5fdee36469b850185dd0ac2ad78",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"buttonShape",
-                          "styleType":"paragraph",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "fontSize":"12px",
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFF0099FF,
-                              "opacity":1},
-                            "location":{
-                              "x":280,
-                              "y":342},
-                            "size":{
-                              "width":130,
-                              "height":17}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"4c471ea10f0740fe8794ac3944c55e00",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "fontSize":"12px",
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFF0099FF,
-                                  "opacity":1},
-                                "location":{
-                                  "x":280,
-                                  "y":342},
-                                "size":{
-                                  "width":130,
-                                  "height":17}},
-                              "adaptiveStyles":{
-}}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"linkWindow",
-                                      "description":"在 当前窗口 打开 http://bdp.jd.com/atom/workflow/v2/apply/add.html?workFlowId=10249",
-                                      "target":{
-                                        "targetType":"webUrl",
-                                        "urlLiteral":{
-                                          "exprType":"stringLiteral",
-                                          "value":"http://bdp.jd.com/atom/workflow/v2/apply/add.html?workFlowId=10249",
-                                          "stos":[]},
-                                        "includeVariables":false},
-                                      "linkType":"current"}]}]}},
-                          "tabbable":true,
-                          "images":{
-                            "normal~":"resources/images/transparent.gif"}},
-{
-                          "id":"a99ff4ca35c048af94c6c53c6255c938",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":92,
-                              "y":194},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"b7f54926827f4e81852751588e04cd64",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":92,
-                                  "y":194},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"d595ae72f11c4ba0b2b41c3fa8f1b88f",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":410,
-                              "y":194},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"10053d6a22454d589b944b8b3b94c56b",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":410,
-                                  "y":194},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]}],
-                      "style":{
-                        "fill":{
-                          "fillType":"solid",
-                          "color":0xFFFFFF},
-                        "image":null,
-                        "imageHorizontalAlignment":"near",
-                        "imageVerticalAlignment":"near",
-                        "imageRepeat":"auto"},
-                      "adaptiveStyles":{
-}},
-{
-                      "id":"360670e08e1b4686ab4c803ab52aae4c",
-                      "label":"Hive表",
-                      "type":"Axure:PanelDiagram",
-                      "objects":[{
-                          "id":"56822a4a01674049bc92125e85ce4b5b",
-                          "label":"文本框",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"buttonShape",
-                          "styleType":"buttonShape",
-                          "visible":true,
-                          "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
                             "stateStyles":{
+                              "mouseOver":{
+},
                               "mouseDown":{
                                 "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
                               "selected":{
@@ -29407,15 +28292,19 @@
                               "disabled":{
                                 "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":92,
-                              "y":0},
+                              "x":174,
+                              "y":70},
                             "size":{
-                              "width":443,
-                              "height":32}},
+                              "width":310,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"012e50f3a5034868a6f344766ad50261",
+                              "id":"a94fe0967c9c4f2f9466607180a5d153",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -29423,9 +28312,10 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
                                 "stateStyles":{
+                                  "mouseOver":{
+},
                                   "mouseDown":{
                                     "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
                                   "selected":{
@@ -29433,60 +28323,100 @@
                                   "disabled":{
                                     "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                 "location":{
-                                  "x":92,
-                                  "y":0},
+                                  "x":174,
+                                  "y":70},
                                 "size":{
-                                  "width":443,
-                                  "height":32}},
+                                  "width":310,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
                               "adaptiveStyles":{
 }}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框4_u4513.png",
+                            "selected~":"images/新建任务/输入框4_u4513_selected.png",
+                            "mouseDown~":"images/新建任务/输入框4_u4513_selected.png",
+                            "disabled~":"images/新建任务/输入框4_u4513_disabled.png"}},
+{
+                          "id":"c6395662f2b140f7963ff7adbffac5c1",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF808080,
+                              "opacity":1},
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":17,
+                              "y":76},
+                            "size":{
+                              "width":127,
+                              "height":24}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ad92480d33b14888aa66f68a360bb30b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF808080,
+                                  "opacity":1},
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":17,
+                                  "y":76},
+                                "size":{
+                                  "width":127,
+                                  "height":24}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"resources/images/transparent.gif"}},
+{
+                          "id":"50a091ca520b415188f3a8a117177025",
+                          "label":"文字区域",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"textBox",
+                          "styleType":"textBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "stateStyles":{
+                              "hint":{
+                                "fontName":"'Microsoft YaHei'",
+                                "fontSize":"12px",
+                                "horizontalAlignment":"left",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFAFAFAF,
+                                  "opacity":1}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "location":{
+                              "x":184,
+                              "y":70},
+                            "size":{
+                              "width":290,
+                              "height":32}},
+                          "adaptiveStyles":{
+},
                           "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"Case 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"显示 options",
-                                      "objectsToFades":[{
-                                          "objectPath":["73a3a61e3cd14495a49085dffe463a6f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]},
-{
-                                      "action":"setFunction",
-                                      "description":"设置 选中状态值 当前部件 = &quot;true&quot;",
-                                      "expr":{
-                                        "exprType":"block",
-                                        "subExprs":[{
-                                            "exprType":"fcall",
-                                            "functionName":"SetCheckState",
-                                            "arguments":[{
-                                                "exprType":"pathLiteral",
-                                                "isThis":true,
-                                                "isFocused":false,
-                                                "isTarget":false},
-{
-                                                "exprType":"stringLiteral",
-                                                "value":"true",
-                                                "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉选中,<br>隐藏 下拉默认",
-                                      "objectsToFades":[{
-                                          "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
                             "onMouseOver":{
                               "description":"OnMouseOver",
                               "cases":[{
@@ -29494,7 +28424,7 @@
                                   "isNewIfGroup":false,
                                   "actions":[{
                                       "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;true&quot;",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
                                       "expr":{
                                         "exprType":"block",
                                         "subExprs":[{
@@ -29505,7 +28435,87 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["56822a4a01674049bc92125e85ce4b5b"]},
+                                                "value":["0e7624ef1afb40439b371e03271a1765"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onMouseOut":{
+                              "description":"OnMouseOut",
+                              "cases":[{
+                                  "description":"Case 1<br> (If 变量 abc = &quot;0&quot;)",
+                                  "isNewIfGroup":false,
+                                  "condition":{
+                                    "exprType":"binaryOp",
+                                    "op":"==",
+                                    "leftExpr":{
+                                      "exprType":"fcall",
+                                      "functionName":"GetGlobalVariableValue",
+                                      "arguments":[{
+                                          "exprType":"globalVariableLiteral",
+                                          "variableName":"abc"}]},
+                                    "rightExpr":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]}},
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["0e7624ef1afb40439b371e03271a1765"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}}]},
+{
+                                  "description":"Case 2<br> (Else If True)",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["0e7624ef1afb40439b371e03271a1765"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onFocus":{
+                              "description":"OnFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["0e7624ef1afb40439b371e03271a1765"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"true",
@@ -29524,57 +28534,15 @@
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"1",
-                                                "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉选中,<br>下拉选中,<br>隐藏 下拉默认,<br>(Image)",
-                                      "objectsToFades":[{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
-                            "onMouseOut":{
-                              "description":"OnMouseOut",
+                                                "stos":[]}]}]}}]}]},
+                            "onLostFocus":{
+                              "description":"OnLostFocus",
                               "cases":[{
-                                  "description":"Case 1<br> (If 可见性 options = 假)",
+                                  "description":"Case 1",
                                   "isNewIfGroup":false,
-                                  "condition":{
-                                    "exprType":"binaryOp",
-                                    "op":"==",
-                                    "leftExpr":{
-                                      "exprType":"fcall",
-                                      "functionName":"GetWidgetVisibility",
-                                      "arguments":[{
-                                          "exprType":"pathLiteral",
-                                          "isThis":false,
-                                          "isFocused":false,
-                                          "isTarget":false,
-                                          "value":["73a3a61e3cd14495a49085dffe463a6f"]}]},
-                                    "rightExpr":{
-                                      "exprType":"booleanLiteral",
-                                      "value":false}},
                                   "actions":[{
                                       "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;false&quot;",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
                                       "expr":{
                                         "exprType":"block",
                                         "subExprs":[{
@@ -29585,38 +28553,11 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["56822a4a01674049bc92125e85ce4b5b"]},
+                                                "value":["0e7624ef1afb40439b371e03271a1765"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"false",
                                                 "stos":[]}]}]}},
-{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                      "objectsToFades":[{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]},
 {
                                       "action":"setFunction",
                                       "description":"设置 变量 abc = &quot;0&quot;",
@@ -29631,64 +28572,150 @@
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"0",
-                                                "stos":[]}]}]}}]},
-{
-                                  "description":"Case 2<br> (Else If 可见性 options = 真)",
-                                  "isNewIfGroup":false,
-                                  "condition":{
-                                    "exprType":"binaryOp",
-                                    "op":"==",
-                                    "leftExpr":{
-                                      "exprType":"fcall",
-                                      "functionName":"GetWidgetVisibility",
-                                      "arguments":[{
-                                          "exprType":"pathLiteral",
-                                          "isThis":false,
-                                          "isFocused":false,
-                                          "isTarget":false,
-                                          "value":["73a3a61e3cd14495a49085dffe463a6f"]}]},
-                                    "rightExpr":{
-                                      "exprType":"booleanLiteral",
-                                      "value":true}},
-                                  "actions":[{
-                                      "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;true&quot;",
-                                      "expr":{
-                                        "exprType":"block",
-                                        "subExprs":[{
-                                            "exprType":"fcall",
-                                            "functionName":"SetCheckState",
-                                            "arguments":[{
-                                                "exprType":"pathLiteral",
-                                                "isThis":false,
-                                                "isFocused":false,
-                                                "isTarget":false,
-                                                "value":["56822a4a01674049bc92125e85ce4b5b"]},
-{
-                                                "exprType":"stringLiteral",
-                                                "value":"true",
                                                 "stos":[]}]}]}}]}]}},
                           "tabbable":true,
-                          "images":{
-                            "normal~":"images/sql开发中心/文本框_u802.png",
-                            "selected~":"images/sql开发中心/文本框_u802_selected.png",
-                            "mouseDown~":"images/sql开发中心/文本框_u802_selected.png",
-                            "disabled~":"images/sql开发中心/文本框_u802_disabled.png"}},
+                          "placeholderText":"请输入文字"},
 {
-                          "id":"73a3a61e3cd14495a49085dffe463a6f",
-                          "label":"options",
+                          "id":"f94bf9c0935242d6be8bd09da6a169f8",
+                          "label":"输入框1",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"dynamicPanel",
-                          "styleType":"dynamicPanel",
-                          "visible":false,
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
                           "style":{
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":92,
-                              "y":30},
+                              "x":174,
+                              "y":128},
                             "size":{
-                              "width":443,
-                              "height":145},
-                            "visible":false},
+                              "width":310,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"2cb99eff5f984eb68851e1e5898f72a9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                                "location":{
+                                  "x":174,
+                                  "y":128},
+                                "size":{
+                                  "width":310,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框4_u4513.png",
+                            "selected~":"images/新建任务/输入框4_u4513_selected.png",
+                            "mouseDown~":"images/新建任务/输入框4_u4513_selected.png",
+                            "disabled~":"images/新建任务/输入框4_u4513_disabled.png"}},
+{
+                          "id":"2d12d09ee9c6461e8df758d747b5cea5",
+                          "label":"表头",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"buttonShape",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF808080,
+                              "opacity":1},
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                            "location":{
+                              "x":17,
+                              "y":134},
+                            "size":{
+                              "width":127,
+                              "height":24}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a5d6b151b52740db80161ef2ae27a70c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Microsoft YaHei'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF808080,
+                                  "opacity":1},
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
+                                "location":{
+                                  "x":17,
+                                  "y":134},
+                                "size":{
+                                  "width":127,
+                                  "height":24}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"resources/images/transparent.gif"}},
+{
+                          "id":"2ea2896cb01149e19146b59c81d7a758",
+                          "label":"文字区域",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"textBox",
+                          "styleType":"textBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "stateStyles":{
+                              "hint":{
+                                "fontName":"'Microsoft YaHei'",
+                                "fontSize":"12px",
+                                "horizontalAlignment":"left",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFAFAFAF,
+                                  "opacity":1}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "location":{
+                              "x":184,
+                              "y":128},
+                            "size":{
+                              "width":290,
+                              "height":32}},
                           "adaptiveStyles":{
 },
                           "interactionMap":{
@@ -29699,7 +28726,7 @@
                                   "isNewIfGroup":false,
                                   "actions":[{
                                       "action":"setFunction",
-                                      "description":"设置 选中状态值 文本框 = &quot;true&quot;",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
                                       "expr":{
                                         "exprType":"block",
                                         "subExprs":[{
@@ -29710,1349 +28737,236 @@
                                                 "isThis":false,
                                                 "isFocused":false,
                                                 "isTarget":false,
-                                                "value":["56822a4a01674049bc92125e85ce4b5b"]},
+                                                "value":["f94bf9c0935242d6be8bd09da6a169f8"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onMouseOut":{
+                              "description":"OnMouseOut",
+                              "cases":[{
+                                  "description":"Case 1<br> (If 变量 abc = &quot;0&quot;)",
+                                  "isNewIfGroup":false,
+                                  "condition":{
+                                    "exprType":"binaryOp",
+                                    "op":"==",
+                                    "leftExpr":{
+                                      "exprType":"fcall",
+                                      "functionName":"GetGlobalVariableValue",
+                                      "arguments":[{
+                                          "exprType":"globalVariableLiteral",
+                                          "variableName":"abc"}]},
+                                    "rightExpr":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]}},
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["f94bf9c0935242d6be8bd09da6a169f8"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}}]},
+{
+                                  "description":"Case 2<br> (Else If True)",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["f94bf9c0935242d6be8bd09da6a169f8"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onFocus":{
+                              "description":"OnFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["f94bf9c0935242d6be8bd09da6a169f8"]},
 {
                                                 "exprType":"stringLiteral",
                                                 "value":"true",
                                                 "stos":[]}]}]}},
 {
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉选中,<br>下拉选中,<br>隐藏 下拉默认,<br>(Image)",
-                                      "objectsToFades":[{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;1&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
 {
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
-                            "onMouseOut":{
-                              "description":"OnMouseOut",
+                                                "exprType":"stringLiteral",
+                                                "value":"1",
+                                                "stos":[]}]}]}}]}]},
+                            "onLostFocus":{
+                              "description":"OnLostFocus",
                               "cases":[{
                                   "description":"Case 1",
                                   "isNewIfGroup":false,
                                   "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                      "objectsToFades":[{
-                                          "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]},
-                            "onPanelStateChange":{
-                              "description":"OnPanelStateChange",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"fadeWidget",
-                                      "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                      "objectsToFades":[{
-                                          "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                          "fadeInfo":{
-                                            "fadeType":"hide",
-                                            "options":{
-                                              "showType":"none"}}},
-{
-                                          "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                          "fadeInfo":{
-                                            "fadeType":"show",
-                                            "options":{
-                                              "showType":"none"}}}]}]}]}},
-                          "scrollbars":"none",
-                          "fitToContent":false,
-                          "propagate":false,
-                          "diagrams":[{
-                              "id":"e97de984187b45cd80c100a8d37fcca9",
-                              "label":"show dropdown options",
-                              "type":"Axure:PanelDiagram",
-                              "objects":[{
-                                  "id":"6dfcfd5421474add872eb86d7ef4cd84",
-                                  "label":"dropDownBox",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "fontName":"'Open Sans Regular', 'Open Sans'",
-                                    "fontSize":"12px",
-                                    "horizontalAlignment":"left",
-                                    "foreGroundFill":{
-                                      "fillType":"solid",
-                                      "color":0xFF606060,
-                                      "opacity":1},
-                                    "stateStyles":{
-                                      "selected":{
-}},
-                                    "location":{
-                                      "x":0,
-                                      "y":-19},
-                                    "size":{
-                                      "width":440,
-                                      "height":161},
-                                    "borderFill":{
-                                      "fillType":"solid",
-                                      "color":0xFF2C4A93},
-                                    "outerShadow":{
-                                      "on":true,
-                                      "offsetX":3,
-                                      "offsetY":3,
-                                      "blurRadius":7,
-                                      "color":{
-                                        "r":0,
-                                        "g":0,
-                                        "b":0,
-                                        "a":0.0588235294117647}}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"c92e6e4f27444ed4a3ed1fcb7ba15a2c",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "fontName":"'Open Sans Regular', 'Open Sans'",
-                                        "fontSize":"12px",
-                                        "horizontalAlignment":"left",
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF606060,
-                                          "opacity":1},
-                                        "stateStyles":{
-                                          "selected":{
-}},
-                                        "location":{
-                                          "x":0,
-                                          "y":-19},
-                                        "size":{
-                                          "width":440,
-                                          "height":161},
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93},
-                                        "outerShadow":{
-                                          "on":true,
-                                          "offsetX":3,
-                                          "offsetY":3,
-                                          "blurRadius":7,
-                                          "color":{
-                                            "r":0,
-                                            "g":0,
-                                            "b":0,
-                                            "a":0.0588235294117647}}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/sql开发中心/dropdownbox_u823.png"}},
-{
-                                  "id":"cd58b67b2cfd45efa0a0d404201a62aa",
-                                  "label":"选项1",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":35},
-                                    "size":{
-                                      "width":427,
-                                      "height":34},
-                                    "borderWidth":"-1"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"b42169f183e24f4cbe8ca7defd5e7f2e",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":35},
-                                        "size":{
-                                          "width":427,
-                                          "height":34},
-                                        "borderWidth":"-1"},
-                                      "adaptiveStyles":{
-}}],
-                                  "interactionMap":{
-                                    "onClick":{
-                                      "description":"OnClick",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"fadeWidget",
-                                              "description":"隐藏 options",
-                                              "objectsToFades":[{
-                                                  "objectPath":["73a3a61e3cd14495a49085dffe463a6f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 部件文字 文本框 = &quot;[[ This.text]]&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetWidgetRichText",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["012e50f3a5034868a6f344766ad50261"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"[[ This.text]]",
-                                                        "localVariables":{
-},
-                                                        "stos":[{
-                                                            "computedType":"string",
-                                                            "sto":"propCall",
-                                                            "thisSTO":{
-                                                              "desiredType":"widget",
-                                                              "sto":"var",
-                                                              "name":"this"},
-                                                            "prop":"text"}]},
-{
-                                                        "exprType":"booleanLiteral",
-                                                        "value":true}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 文本框 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["56822a4a01674049bc92125e85ce4b5b"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                              "objectsToFades":[{
-                                                  "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["cd58b67b2cfd45efa0a0d404201a62aa"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;false&quot;, 且<br> 选中状态值 选型2 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["ae0c8637133b4324bd890610cca364da"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["0329a92643c44ffeb8aeb8826183bb1c"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}},
-{
-                                  "id":"ae0c8637133b4324bd890610cca364da",
-                                  "label":"选型3",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":108},
-                                    "size":{
-                                      "width":427,
-                                      "height":32},
-                                    "borderWidth":"-1"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"91c82e91d9f14218967310136079bf07",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":108},
-                                        "size":{
-                                          "width":427,
-                                          "height":32},
-                                        "borderWidth":"-1"},
-                                      "adaptiveStyles":{
-}}],
-                                  "interactionMap":{
-                                    "onClick":{
-                                      "description":"OnClick",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"fadeWidget",
-                                              "description":"隐藏 options",
-                                              "objectsToFades":[{
-                                                  "objectPath":["73a3a61e3cd14495a49085dffe463a6f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 部件文字 文本框 = &quot;[[&nbsp; This.text]]&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetWidgetRichText",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["012e50f3a5034868a6f344766ad50261"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"[[  This.text]]",
-                                                        "localVariables":{
-},
-                                                        "stos":[{
-                                                            "computedType":"string",
-                                                            "sto":"propCall",
-                                                            "thisSTO":{
-                                                              "desiredType":"widget",
-                                                              "sto":"var",
-                                                              "name":"this"},
-                                                            "prop":"text"}]},
-{
-                                                        "exprType":"booleanLiteral",
-                                                        "value":true}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 文本框 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["56822a4a01674049bc92125e85ce4b5b"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                              "objectsToFades":[{
-                                                  "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["ae0c8637133b4324bd890610cca364da"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;false&quot;, 且<br> 选中状态值 选型2 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["cd58b67b2cfd45efa0a0d404201a62aa"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["0329a92643c44ffeb8aeb8826183bb1c"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "images":{
-                                    "normal~":"images/sql开发中心/选型3_u827.png",
-                                    "selected~":"images/sql开发中心/选型3_u827_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选型3_u827_selected.png"}},
-{
-                                  "id":"73a01e4d3d8c48c699e9c81b265e47a8",
-                                  "label":"textFieldContainer",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "fontSize":"12px",
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "mouseDown":{
-                                        "fontSize":"12px",
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "fontSize":"12px",
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "disabled":{
-                                        "fontSize":"12px",
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFCFCFCF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFFF5F7F8}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":0},
-                                    "size":{
-                                      "width":437,
-                                      "height":32},
-                                    "borderFill":{
-                                      "fillType":"solid",
-                                      "color":0xFF2C4A93},
-                                    "cornerRadiusTopLeft":"0"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"1dd124ae866d4ae1b8bcdf82170fdc73",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "fontSize":"12px",
-                                            "borderFill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "mouseDown":{
-                                            "fontSize":"12px",
-                                            "borderFill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "fontSize":"12px",
-                                            "borderFill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "disabled":{
-                                            "fontSize":"12px",
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFCFCFCF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFFF5F7F8}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":0},
-                                        "size":{
-                                          "width":437,
-                                          "height":32},
-                                        "borderFill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93},
-                                        "cornerRadiusTopLeft":"0"},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "selected~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseOver~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "mouseDown~":"images/sql开发中心/textfieldcontainer_u829.png",
-                                    "disabled~":"images/sql开发中心/textfieldcontainer_u829_disabled.png"}},
-{
-                                  "id":"0908b4ed0ce84e76930449aaab248f81",
-                                  "label":"",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"textBox",
-                                  "styleType":"textBox",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
-                                    "stateStyles":{
-                                      "hint":{
-                                        "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                        "fontSize":"12px",
-                                        "horizontalAlignment":"left",
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFAFAFAF,
-                                          "opacity":1}}},
-                                    "fill":{
-                                      "fillType":"solid",
-                                      "color":0xFFFFFF},
-                                    "location":{
-                                      "x":10,
-                                      "y":0},
-                                    "size":{
-                                      "width":198,
-                                      "height":32}},
-                                  "adaptiveStyles":{
-},
-                                  "interactionMap":{
-                                    "onTextChange":{
-                                      "description":"OnTextChange",
-                                      "cases":[{
-                                          "description":"用例 1<br> (If 焦点部件上的文字&nbsp; = 部件文字 选型2)",
-                                          "isNewIfGroup":false,
-                                          "condition":{
-                                            "exprType":"binaryOp",
-                                            "op":"==",
-                                            "leftExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetFocusedWidgetText",
-                                              "arguments":[]},
-                                            "rightExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetWidgetText",
-                                              "arguments":[{
-                                                  "exprType":"pathLiteral",
-                                                  "isThis":false,
-                                                  "isFocused":false,
-                                                  "isTarget":false,
-                                                  "value":["0329a92643c44ffeb8aeb8826183bb1c"]}]}},
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型2 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["0329a92643c44ffeb8aeb8826183bb1c"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;false&quot;, 且<br> 选中状态值 选型3 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["cd58b67b2cfd45efa0a0d404201a62aa"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["ae0c8637133b4324bd890610cca364da"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]},
-{
-                                          "description":"用例 2<br> (Else If 焦点部件上的文字&nbsp; = 部件文字 选项1)",
-                                          "isNewIfGroup":false,
-                                          "condition":{
-                                            "exprType":"binaryOp",
-                                            "op":"==",
-                                            "leftExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetFocusedWidgetText",
-                                              "arguments":[]},
-                                            "rightExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetWidgetText",
-                                              "arguments":[{
-                                                  "exprType":"pathLiteral",
-                                                  "isThis":false,
-                                                  "isFocused":false,
-                                                  "isTarget":false,
-                                                  "value":["cd58b67b2cfd45efa0a0d404201a62aa"]}]}},
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选项1 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["cd58b67b2cfd45efa0a0d404201a62aa"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;false&quot;, 且<br> 选中状态值 选型2 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["ae0c8637133b4324bd890610cca364da"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["0329a92643c44ffeb8aeb8826183bb1c"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]},
-{
-                                          "description":"用例 3<br> (Else If 焦点部件上的文字&nbsp; = 部件文字 选型3)",
-                                          "isNewIfGroup":false,
-                                          "condition":{
-                                            "exprType":"binaryOp",
-                                            "op":"==",
-                                            "leftExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetFocusedWidgetText",
-                                              "arguments":[]},
-                                            "rightExpr":{
-                                              "exprType":"fcall",
-                                              "functionName":"GetWidgetText",
-                                              "arguments":[{
-                                                  "exprType":"pathLiteral",
-                                                  "isThis":false,
-                                                  "isFocused":false,
-                                                  "isTarget":false,
-                                                  "value":["ae0c8637133b4324bd890610cca364da"]}]}},
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["ae0c8637133b4324bd890610cca364da"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型2 = &quot;false&quot;, 且<br> 选中状态值 选项1 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["0329a92643c44ffeb8aeb8826183bb1c"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["cd58b67b2cfd45efa0a0d404201a62aa"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]},
-                                    "onFocus":{
-                                      "description":"OnFocus",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 textFieldContainer = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["73a01e4d3d8c48c699e9c81b265e47a8"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}}]}]},
-                                    "onLostFocus":{
-                                      "description":"OnLostFocus",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 textFieldContainer = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["73a01e4d3d8c48c699e9c81b265e47a8"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "placeholderText":"请输入文字"},
-{
-                                  "id":"58962f20da564b9b8acda2c8593016a8",
-                                  "label":"搜索悬停",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"imageBox",
-                                  "styleType":"imageBox",
-                                  "visible":true,
-                                  "style":{
-                                    "location":{
-                                      "x":400,
-                                      "y":10},
-                                    "size":{
-                                      "width":13,
-                                      "height":13}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"4f21a50f854149b9a135e1063c05b215",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "location":{
-                                          "x":400,
-                                          "y":10},
-                                        "size":{
-                                          "width":13,
-                                          "height":13}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/任务管理/搜索悬停_u283.png"}},
-{
-                                  "id":"0329a92643c44ffeb8aeb8826183bb1c",
-                                  "label":"选型2",
-                                  "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                  "type":"buttonShape",
-                                  "styleType":"buttonShape",
-                                  "visible":true,
-                                  "style":{
-                                    "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                    "stateStyles":{
-                                      "mouseOver":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}},
-                                      "selected":{
-                                        "foreGroundFill":{
-                                          "fillType":"solid",
-                                          "color":0xFFFFFFFF,
-                                          "opacity":1},
-                                        "fill":{
-                                          "fillType":"solid",
-                                          "color":0xFF2C4A93}}},
-                                    "location":{
-                                      "x":3,
-                                      "y":72},
-                                    "size":{
-                                      "width":427,
-                                      "height":34},
-                                    "borderWidth":"-1"},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"8c29dcaaf5d24afeae93bd5dc0a4c843",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"73a3a61e3cd14495a49085dffe463a6f",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "baseStyle":"1c444d9ef34043208946463e880d4c6f",
-                                        "stateStyles":{
-                                          "mouseOver":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}},
-                                          "selected":{
-                                            "foreGroundFill":{
-                                              "fillType":"solid",
-                                              "color":0xFFFFFFFF,
-                                              "opacity":1},
-                                            "fill":{
-                                              "fillType":"solid",
-                                              "color":0xFF2C4A93}}},
-                                        "location":{
-                                          "x":3,
-                                          "y":72},
-                                        "size":{
-                                          "width":427,
-                                          "height":34},
-                                        "borderWidth":"-1"},
-                                      "adaptiveStyles":{
-}}],
-                                  "interactionMap":{
-                                    "onClick":{
-                                      "description":"OnClick",
-                                      "cases":[{
-                                          "description":"Case 1",
-                                          "isNewIfGroup":false,
-                                          "actions":[{
-                                              "action":"fadeWidget",
-                                              "description":"隐藏 options",
-                                              "objectsToFades":[{
-                                                  "objectPath":["73a3a61e3cd14495a49085dffe463a6f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示/隐藏部件",
-                                              "objectsToFades":[]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 部件文字 文本框 = &quot;[[&nbsp; This.text]]&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetWidgetRichText",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["012e50f3a5034868a6f344766ad50261"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"[[  This.text]]",
-                                                        "localVariables":{
-},
-                                                        "stos":[{
-                                                            "computedType":"string",
-                                                            "sto":"propCall",
-                                                            "thisSTO":{
-                                                              "desiredType":"widget",
-                                                              "sto":"var",
-                                                              "name":"this"},
-                                                            "prop":"text"}]},
-{
-                                                        "exprType":"booleanLiteral",
-                                                        "value":true}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 文本框 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["56822a4a01674049bc92125e85ce4b5b"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"fadeWidget",
-                                              "description":"显示 下拉默认,<br>(Image),<br>隐藏 下拉选中,<br>下拉选中",
-                                              "objectsToFades":[{
-                                                  "objectPath":["de59b5380e4c44d2ae2c6493dfad168c"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["e9f01531b1344adfb4f804bd437ecd8f"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["815cb07807e2456c80977ebe5d2029ce"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"hide",
-                                                    "options":{
-                                                      "showType":"none"}}},
-{
-                                                  "objectPath":["6a9450fd3a134a5491f7f22b601542c6"],
-                                                  "fadeInfo":{
-                                                    "fadeType":"show",
-                                                    "options":{
-                                                      "showType":"none"}}}]},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型2 = &quot;true&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["0329a92643c44ffeb8aeb8826183bb1c"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"true",
-                                                        "stos":[]}]}]}},
-{
-                                              "action":"setFunction",
-                                              "description":"设置 选中状态值 选型3 = &quot;false&quot;, 且<br> 选中状态值 选项1 = &quot;false&quot;",
-                                              "expr":{
-                                                "exprType":"block",
-                                                "subExprs":[{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["ae0c8637133b4324bd890610cca364da"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]},
-{
-                                                    "exprType":"fcall",
-                                                    "functionName":"SetCheckState",
-                                                    "arguments":[{
-                                                        "exprType":"pathLiteral",
-                                                        "isThis":false,
-                                                        "isFocused":false,
-                                                        "isTarget":false,
-                                                        "value":["cd58b67b2cfd45efa0a0d404201a62aa"]},
-{
-                                                        "exprType":"stringLiteral",
-                                                        "value":"false",
-                                                        "stos":[]}]}]}}]}]}},
-                                  "tabbable":true,
-                                  "images":{
-                                    "normal~":"images/sql开发中心/选项1_u825.png",
-                                    "selected~":"images/sql开发中心/选项1_u825_selected.png",
-                                    "mouseOver~":"images/sql开发中心/选项1_u825_selected.png"}}],
-                              "style":{
-                                "fill":{
-                                  "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "image":null,
-                                "imageHorizontalAlignment":"near",
-                                "imageVerticalAlignment":"near",
-                                "imageRepeat":"auto"},
-                              "adaptiveStyles":{
-}}]},
-{
-                          "id":"de59b5380e4c44d2ae2c6493dfad168c",
-                          "label":"下拉默认",
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["f94bf9c0935242d6be8bd09da6a169f8"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;0&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"0",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "placeholderText":"请输入文字"},
+{
+                          "id":"ad10fe070ed7414abc6533f5db7dc72b",
+                          "label":"输入框1",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"dynamicPanel",
-                          "styleType":"dynamicPanel",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
                           "visible":true,
                           "style":{
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":518,
-                              "y":10},
+                              "x":174,
+                              "y":180},
                             "size":{
-                              "width":11,
-                              "height":10}},
+                              "width":310,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
                           "adaptiveStyles":{
 },
-                          "scrollbars":"none",
-                          "fitToContent":false,
-                          "propagate":false,
-                          "diagrams":[{
-                              "id":"a99cdac2af6047fca4bccf4bcf3532d1",
-                              "label":"状态1",
-                              "type":"Axure:PanelDiagram",
-                              "objects":[{
-                                  "id":"6a9450fd3a134a5491f7f22b601542c6",
-                                  "label":"",
-                                  "parentDynamicPanel":"de59b5380e4c44d2ae2c6493dfad168c",
-                                  "type":"imageBox",
-                                  "styleType":"imageBox",
-                                  "visible":true,
-                                  "style":{
-                                    "size":{
-                                      "width":9,
-                                      "height":9}},
-                                  "adaptiveStyles":{
-},
-                                  "objects":[{
-                                      "id":"911b19e335974a2f8472edf044046a7d",
-                                      "label":"",
-                                      "isContained":true,
-                                      "parentDynamicPanel":"de59b5380e4c44d2ae2c6493dfad168c",
-                                      "type":"richTextPanel",
-                                      "styleType":"paragraph",
-                                      "visible":true,
-                                      "style":{
-                                        "size":{
-                                          "width":9,
-                                          "height":9}},
-                                      "adaptiveStyles":{
-}}],
-                                  "images":{
-                                    "normal~":"images/任务管理/u101.png"}}],
+                          "objects":[{
+                              "id":"c748c6e670934cf7ac36a3eba9e9d4be",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
                               "style":{
-                                "fill":{
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
+                                "location":{
+                                  "x":174,
+                                  "y":180},
+                                "size":{
+                                  "width":310,
+                                  "height":32},
+                                "borderFill":{
                                   "fillType":"solid",
-                                  "color":0xFFFFFF},
-                                "image":null,
-                                "imageHorizontalAlignment":"near",
-                                "imageVerticalAlignment":"near",
-                                "imageRepeat":"auto"},
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
                               "adaptiveStyles":{
-}}]},
+}}],
+                          "images":{
+                            "normal~":"images/新建任务/输入框4_u4513.png",
+                            "selected~":"images/新建任务/输入框4_u4513_selected.png",
+                            "mouseDown~":"images/新建任务/输入框4_u4513_selected.png",
+                            "disabled~":"images/新建任务/输入框4_u4513_disabled.png"}},
 {
-                          "id":"b3afd04e37ab42d5abff7657a380422c",
+                          "id":"11748f05d9274396ac1db265f888e5c3",
                           "label":"表头",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                            "fontName":"'Microsoft YaHei'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF808080,
+                              "opacity":1},
                             "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                             "location":{
-                              "x":0,
-                              "y":6},
+                              "x":17,
+                              "y":186},
                             "size":{
-                              "width":92,
-                              "height":20}},
+                              "width":127,
+                              "height":24}},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"3ce3ec97067448b9b840cf07f24da4b3",
+                              "id":"d2c722f377d84f2b88e658b6d9ea4b4d",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -31060,42 +28974,243 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
+                                "fontName":"'Microsoft YaHei'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF808080,
+                                  "opacity":1},
                                 "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                                 "location":{
-                                  "x":0,
-                                  "y":6},
+                                  "x":17,
+                                  "y":186},
                                 "size":{
-                                  "width":92,
-                                  "height":20}},
+                                  "width":127,
+                                  "height":24}},
                               "adaptiveStyles":{
 }}],
                           "images":{
                             "normal~":"resources/images/transparent.gif"}},
 {
-                          "id":"13a9e1b8cae3496bb831ab7c801497cc",
-                          "label":"",
+                          "id":"54e542423e3343febd40501712b6e3dc",
+                          "label":"文字区域",
+                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
+                          "type":"textBox",
+                          "styleType":"textBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "stateStyles":{
+                              "hint":{
+                                "fontName":"'Microsoft YaHei'",
+                                "fontSize":"12px",
+                                "horizontalAlignment":"left",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFAFAFAF,
+                                  "opacity":1}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
+                            "location":{
+                              "x":184,
+                              "y":180},
+                            "size":{
+                              "width":290,
+                              "height":32}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onMouseOver":{
+                              "description":"OnMouseOver",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["ad10fe070ed7414abc6533f5db7dc72b"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onMouseOut":{
+                              "description":"OnMouseOut",
+                              "cases":[{
+                                  "description":"Case 1<br> (If 变量 abc = &quot;0&quot;)",
+                                  "isNewIfGroup":false,
+                                  "condition":{
+                                    "exprType":"binaryOp",
+                                    "op":"==",
+                                    "leftExpr":{
+                                      "exprType":"fcall",
+                                      "functionName":"GetGlobalVariableValue",
+                                      "arguments":[{
+                                          "exprType":"globalVariableLiteral",
+                                          "variableName":"abc"}]},
+                                    "rightExpr":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]}},
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["ad10fe070ed7414abc6533f5db7dc72b"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}}]},
+{
+                                  "description":"Case 2<br> (Else If True)",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["ad10fe070ed7414abc6533f5db7dc72b"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onFocus":{
+                              "description":"OnFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["ad10fe070ed7414abc6533f5db7dc72b"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;1&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"1",
+                                                "stos":[]}]}]}}]}]},
+                            "onLostFocus":{
+                              "description":"OnLostFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["ad10fe070ed7414abc6533f5db7dc72b"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;0&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"0",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "placeholderText":"请输入文字"},
+{
+                          "id":"405784532fae42509689dfeaa151f10f",
+                          "label":"输入框1",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
                           "styleType":"buttonShape",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "foreGroundFill":{
-                              "fillType":"solid",
-                              "color":0xFF0099FF,
-                              "opacity":1},
-                            "baseStyle":"79949d1235b443708a9d045670d9cb8c",
+                            "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                            "stateStyles":{
+                              "mouseOver":{
+},
+                              "mouseDown":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "selected":{
+                                "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                              "disabled":{
+                                "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                             "location":{
-                              "x":17,
-                              "y":330},
+                              "x":174,
+                              "y":238},
                             "size":{
-                              "width":633,
-                              "height":40}},
+                              "width":310,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFE9E9E9},
+                            "cornerRadiusTopLeft":"0"},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"eb39ec21a2b64fed94bc0afd7d0265a7",
+                              "id":"be9d127d53734916a670c4160d141a65",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -31103,46 +29218,57 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "foreGroundFill":{
-                                  "fillType":"solid",
-                                  "color":0xFF0099FF,
-                                  "opacity":1},
-                                "baseStyle":"79949d1235b443708a9d045670d9cb8c",
+                                "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
+                                "stateStyles":{
+                                  "mouseOver":{
+},
+                                  "mouseDown":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "selected":{
+                                    "baseStyle":"83ae1b6f75eb418f9df736364f669f5f"},
+                                  "disabled":{
+                                    "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                 "location":{
-                                  "x":17,
-                                  "y":330},
+                                  "x":174,
+                                  "y":238},
                                 "size":{
-                                  "width":633,
-                                  "height":40}},
+                                  "width":310,
+                                  "height":32},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFE9E9E9},
+                                "cornerRadiusTopLeft":"0"},
                               "adaptiveStyles":{
 }}],
                           "images":{
-                            "normal~":"images/sql开发中心/u809.png"}},
+                            "normal~":"images/新建任务/输入框4_u4513.png",
+                            "selected~":"images/新建任务/输入框4_u4513_selected.png",
+                            "mouseDown~":"images/新建任务/输入框4_u4513_selected.png",
+                            "disabled~":"images/新建任务/输入框4_u4513_disabled.png"}},
 {
-                          "id":"4c8ec8748d34491183347d8e5c382e7f",
-                          "label":"",
+                          "id":"921fba2e7ab04d6c8c6d31fd91137115",
+                          "label":"表头",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                           "type":"buttonShape",
                           "styleType":"paragraph",
                           "visible":true,
                           "style":{
-                            "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                            "fontSize":"12px",
+                            "fontName":"'Microsoft YaHei'",
                             "foreGroundFill":{
                               "fillType":"solid",
-                              "color":0xFF0099FF,
+                              "color":0xFF808080,
                               "opacity":1},
+                            "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                             "location":{
-                              "x":280,
-                              "y":342},
+                              "x":17,
+                              "y":244},
                             "size":{
-                              "width":130,
-                              "height":17}},
+                              "width":127,
+                              "height":24}},
                           "adaptiveStyles":{
 },
                           "objects":[{
-                              "id":"dd83825203db41308b18ae5eb3ee803a",
+                              "id":"9d00340b02df4e1cbb2f1398039417a4",
                               "label":"",
                               "isContained":true,
                               "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
@@ -31150,106 +29276,211 @@
                               "styleType":"paragraph",
                               "visible":true,
                               "style":{
-                                "fontName":"'Microsoft YaHei Regular', 'Microsoft YaHei'",
-                                "fontSize":"12px",
+                                "fontName":"'Microsoft YaHei'",
                                 "foreGroundFill":{
                                   "fillType":"solid",
-                                  "color":0xFF0099FF,
+                                  "color":0xFF808080,
                                   "opacity":1},
+                                "baseStyle":"d776760c87d14d3cace270ee996d6c47",
                                 "location":{
-                                  "x":280,
-                                  "y":342},
+                                  "x":17,
+                                  "y":244},
                                 "size":{
-                                  "width":130,
-                                  "height":17}},
+                                  "width":127,
+                                  "height":24}},
                               "adaptiveStyles":{
 }}],
-                          "interactionMap":{
-                            "onClick":{
-                              "description":"OnClick",
-                              "cases":[{
-                                  "description":"用例 1",
-                                  "isNewIfGroup":false,
-                                  "actions":[{
-                                      "action":"linkWindow",
-                                      "description":"在 当前窗口 打开 http://bdp.jd.com/atom/workflow/v2/apply/add.html?workFlowId=10249",
-                                      "target":{
-                                        "targetType":"webUrl",
-                                        "urlLiteral":{
-                                          "exprType":"stringLiteral",
-                                          "value":"http://bdp.jd.com/atom/workflow/v2/apply/add.html?workFlowId=10249",
-                                          "stos":[]},
-                                        "includeVariables":false},
-                                      "linkType":"current"}]}]}},
-                          "tabbable":true,
                           "images":{
                             "normal~":"resources/images/transparent.gif"}},
 {
-                          "id":"145aacfc0ec2461f98fb357230033a80",
-                          "label":"",
+                          "id":"75797df317fb45778576cf60a4d3efae",
+                          "label":"文字区域",
                           "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
+                          "type":"textBox",
+                          "styleType":"textBox",
                           "visible":true,
                           "style":{
+                            "fontName":"'Microsoft YaHei'",
+                            "baseStyle":"0d83a3d54a9842e883274999a1b0dfe7",
+                            "stateStyles":{
+                              "hint":{
+                                "fontName":"'Microsoft YaHei'",
+                                "fontSize":"12px",
+                                "horizontalAlignment":"left",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFAFAFAF,
+                                  "opacity":1}}},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFF},
                             "location":{
-                              "x":92,
-                              "y":194},
+                              "x":184,
+                              "y":238},
                             "size":{
-                              "width":100,
-                              "height":16}},
+                              "width":290,
+                              "height":32}},
                           "adaptiveStyles":{
 },
-                          "objects":[{
-                              "id":"c89f1ea1a2244a8f939312d759273cfc",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":92,
-                                  "y":194},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]},
+                          "interactionMap":{
+                            "onMouseOver":{
+                              "description":"OnMouseOver",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["405784532fae42509689dfeaa151f10f"]},
 {
-                          "id":"aa89be45776f41b792c8b622fa094cc1",
-                          "label":"",
-                          "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                          "type":"radioButton",
-                          "styleType":"radioButton",
-                          "visible":true,
-                          "style":{
-                            "location":{
-                              "x":410,
-                              "y":194},
-                            "size":{
-                              "width":100,
-                              "height":16}},
-                          "adaptiveStyles":{
-},
-                          "objects":[{
-                              "id":"3ff89631dd49460eb5ad6b2facb1117d",
-                              "label":"",
-                              "isContained":true,
-                              "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
-                              "type":"richTextPanel",
-                              "styleType":"paragraph",
-                              "visible":true,
-                              "style":{
-                                "location":{
-                                  "x":410,
-                                  "y":194},
-                                "size":{
-                                  "width":100,
-                                  "height":16}},
-                              "adaptiveStyles":{
-}}]}],
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onMouseOut":{
+                              "description":"OnMouseOut",
+                              "cases":[{
+                                  "description":"Case 1<br> (If 变量 abc = &quot;0&quot;)",
+                                  "isNewIfGroup":false,
+                                  "condition":{
+                                    "exprType":"binaryOp",
+                                    "op":"==",
+                                    "leftExpr":{
+                                      "exprType":"fcall",
+                                      "functionName":"GetGlobalVariableValue",
+                                      "arguments":[{
+                                          "exprType":"globalVariableLiteral",
+                                          "variableName":"abc"}]},
+                                    "rightExpr":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]}},
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["405784532fae42509689dfeaa151f10f"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}}]},
+{
+                                  "description":"Case 2<br> (Else If True)",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["405784532fae42509689dfeaa151f10f"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}}]}]},
+                            "onFocus":{
+                              "description":"OnFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;true&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["405784532fae42509689dfeaa151f10f"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"true",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;1&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"1",
+                                                "stos":[]}]}]}}]}]},
+                            "onLostFocus":{
+                              "description":"OnLostFocus",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 选中状态值 输入框1 = &quot;false&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["405784532fae42509689dfeaa151f10f"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"false",
+                                                "stos":[]}]}]}},
+{
+                                      "action":"setFunction",
+                                      "description":"设置 变量 abc = &quot;0&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetGlobalVariableValue",
+                                            "arguments":[{
+                                                "exprType":"globalVariableLiteral",
+                                                "variableName":"abc"},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"0",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "placeholderText":"请输入文字"}],
                       "style":{
                         "fill":{
                           "fillType":"solid",
@@ -31321,6 +29552,111 @@
                                     "options":{
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"addff3d5e0ee408dbae9cce99ba6ccfd",
+                  "label":"",
+                  "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
+                  "type":"radioButton",
+                  "styleType":"radioButton",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":155,
+                      "y":54},
+                    "size":{
+                      "width":100,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a08e38ac6fd74bb7b7fc30d6922abaf8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":155,
+                          "y":54},
+                        "size":{
+                          "width":100,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}]},
+{
+                  "id":"7b5ca275c68c484dbca814d898a52944",
+                  "label":"",
+                  "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
+                  "type":"radioButton",
+                  "styleType":"radioButton",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":495,
+                      "y":54},
+                    "size":{
+                      "width":100,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e3d77c485c414d6a9583d32ec0778b3b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":495,
+                          "y":54},
+                        "size":{
+                          "width":100,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}]},
+{
+                  "id":"2e8074aea7e14cb2918cc39513d6cba2",
+                  "label":"",
+                  "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
+                  "type":"buttonShape",
+                  "styleType":"h1",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"13px",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":60,
+                      "y":54},
+                    "size":{
+                      "width":84,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"959450b3ae4840b7a8e98cbf6fc33733",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"0f366378795346abbbea20a8fe8a5d2d",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"13px",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":60,
+                          "y":54},
+                        "size":{
+                          "width":84,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
                   "images":{
                     "normal~":"resources/images/transparent.gif"}}],
               "style":{
@@ -33003,235 +31339,195 @@
       "scriptId":"u811"},
     "dcd1f1ceda714d73a4b7eb1126fbe40c":{
       "scriptId":"u812"},
-    "8a4c324a0fd24a42bada64ccc2ecaedc":{
-      "scriptId":"u813"},
-    "eb54996046494f348417ee06350cdba7":{
-      "scriptId":"u814"},
-    "126747a7e45842acb929a5868e024803":{
-      "scriptId":"u815"},
-    "73caa433f30f43678b78cd92244cd8a7":{
-      "scriptId":"u816"},
     "c4ed69d188db4e7ab7bd1d568c5f4853":{
-      "scriptId":"u817"},
+      "scriptId":"u813"},
     "0f0a7f1b6338483181b5b9133a2d3707":{
-      "scriptId":"u818"},
+      "scriptId":"u814"},
     "32e8f955eb8e4ee0aae22c59fb6b537a":{
-      "scriptId":"u819"},
+      "scriptId":"u815"},
     "d1023436333e4bb08d2033e2c084aba0":{
-      "scriptId":"u820"},
+      "scriptId":"u816"},
     "7e06ca1c898d4bfca3eb42359a7ff9f3":{
-      "scriptId":"u821"},
+      "scriptId":"u817"},
     "de5ab9fc37ce4609b0fa080b0b55994c":{
-      "scriptId":"u822"},
+      "scriptId":"u818"},
     "e81ac0d9a40b45a29cdb462de30cb5c4":{
-      "scriptId":"u823"},
+      "scriptId":"u819"},
     "232bc1b3f3e44fb7ae9fa8ae522740c7":{
-      "scriptId":"u824"},
+      "scriptId":"u820"},
     "ff691edb0c994680a185eb864bb6d48d":{
-      "scriptId":"u825"},
+      "scriptId":"u821"},
     "e65abcecf0194752a9214265ffc7a585":{
-      "scriptId":"u826"},
+      "scriptId":"u822"},
     "ac7c8cbba7fa4fb390c44a6193341abb":{
-      "scriptId":"u827"},
+      "scriptId":"u823"},
     "98280d4908b947cf9794d6bbf53caeb4":{
-      "scriptId":"u828"},
+      "scriptId":"u824"},
     "6d3656c9ae7e4ac2a11f2042ad3051e0":{
-      "scriptId":"u829"},
+      "scriptId":"u825"},
     "224321b36bcd4ee0997e52d7def16314":{
-      "scriptId":"u830"},
+      "scriptId":"u826"},
     "cea91406fc3246489140d971e9896a5b":{
-      "scriptId":"u831"},
+      "scriptId":"u827"},
     "e801d5b0673b4d8b850a186c34d254a1":{
-      "scriptId":"u832"},
+      "scriptId":"u828"},
     "afb2dd6bcd6843b0be3f8e530da0821f":{
-      "scriptId":"u833"},
+      "scriptId":"u829"},
     "102ba09e37034c048d08d18574271cb7":{
-      "scriptId":"u834"},
+      "scriptId":"u830"},
     "c50817f42e0943aca0ba9495268eca3f":{
+      "scriptId":"u831"},
+    "38d67511e7d74129aa9dab5b3fb2c57a":{
+      "scriptId":"u832"},
+    "07a1d2c2fff640e586973a4ba0874a32":{
+      "scriptId":"u833"},
+    "c7c888974fee4747a10b0901206fa5f5":{
+      "scriptId":"u834"},
+    "784adcc87862408293d130c66eef4907":{
       "scriptId":"u835"},
-    "62fe1d47c79c4624a6885da61a83fbc5":{
+    "710d0c5451b44afc8ee1b9f5745e22a6":{
       "scriptId":"u836"},
-    "8ac05d4d45af43b3b71f5d2d10e0a815":{
+    "458842ea430442d2b1876110136941cf":{
       "scriptId":"u837"},
-    "2c299172b0864007856411f39025c1e0":{
+    "02e68f0ee9574243b71548ca9b7c3e93":{
       "scriptId":"u838"},
-    "bc75ab690d6e4ccdab68b33f212f9429":{
+    "7bd6985490564903bed7c8ee8a52d284":{
       "scriptId":"u839"},
-    "973dadf6356b4350ba52c238167cc23c":{
+    "7f2a64e3955c4f459dd1eb6d0af95063":{
       "scriptId":"u840"},
-    "73d07e367261487f9d855bc799e46f60":{
+    "0b608060cb3a4fba9ae3b596e7438e11":{
       "scriptId":"u841"},
-    "cbae867876b742ae87452049f629d1f6":{
+    "4972b6f52daa4404838d02eb0cc36beb":{
       "scriptId":"u842"},
-    "801e2e4b6f6a4b15a034d13972829a3f":{
+    "f1c5472352ec457f8df5394c60adfd99":{
       "scriptId":"u843"},
-    "533fae4f12614ac59dd88d8a28b8d309":{
+    "116907df50e641179978cef100406c02":{
       "scriptId":"u844"},
-    "a72d2f3ea6e8450fb29ce54a3d6e2d2a":{
+    "fbfaa114c250430590791595d261c1a5":{
       "scriptId":"u845"},
-    "5c6fae82a41e47da88f18315746534de":{
+    "1d8a1bb84baa49d0b4216f7342a2dd2d":{
       "scriptId":"u846"},
-    "afaebfdc518b41c4ba5a5ababa84307b":{
+    "7cedaaa96c264484be6a413becdb9f87":{
       "scriptId":"u847"},
-    "a5d08326a9ed40c1a24ca2d95cf02601":{
+    "4587e41569444bcdaf5f565ddb85fa43":{
       "scriptId":"u848"},
-    "9a380a0f628e4cea826d1eae693cba28":{
+    "f4a58294d90b4aa3a0eadf15b6abb418":{
       "scriptId":"u849"},
-    "626a07b07b5a4676837895eb25805f1c":{
+    "dda71fec481f49afb2a935ceb17b5f35":{
       "scriptId":"u850"},
-    "6b3e1e4ab7134b42bd35e03cecb79b7b":{
+    "363d1e00341743a5b6974f340ed78b77":{
       "scriptId":"u851"},
-    "76d2aa7a7bd14df0b03c54775d0f246d":{
+    "8f8e94f30a1543648a3f988384d2e123":{
       "scriptId":"u852"},
-    "c1cebf90cdbd4d3294485b498c6dc6d8":{
+    "33d725025e2941129892cc9e5141ff87":{
       "scriptId":"u853"},
-    "ee4ca9d2c4374938ba0df93989460f66":{
+    "421cb8d96a6742f39ce2d697c2b3635a":{
       "scriptId":"u854"},
-    "837a1d46c228410189cc6789ee9f901e":{
+    "961c3612fe374771acab653684cd5a7c":{
       "scriptId":"u855"},
-    "21ebfaa29e6542238124650bcf291f65":{
+    "7ae248e3dc4d4fefba7fcac344e4514a":{
       "scriptId":"u856"},
-    "5f3a05d7f0424c77879a55ee622c933a":{
+    "c21012ff37994d1abd9480f8481904a9":{
       "scriptId":"u857"},
-    "4b34508223ce439aa87546a73818a3e8":{
+    "9df9e87bda734dd486902dfb5d4388b1":{
       "scriptId":"u858"},
-    "e03368ac445d4d8aaebfc5652e170b10":{
+    "4ed29ce5f5ac48a682f06bab3903def5":{
       "scriptId":"u859"},
-    "9863acf3e2ce461d8372b57269dfb0ae":{
+    "d1ad76f3b0184ab5a0171c36be765fc6":{
       "scriptId":"u860"},
-    "a04ea87c5acd42eb856a3e240d0c7f98":{
+    "c4b27104c8c945e6a2a48ac8bed2a083":{
       "scriptId":"u861"},
-    "6d1b6bb90cd74167a47d9f1d12b50ed5":{
+    "c1ef65bb58e54e3f849166ddae291f0a":{
       "scriptId":"u862"},
-    "82fab5a51aae42d18b6a5edb0f1aa555":{
+    "bfe44749f51b401592627a2489d21e37":{
       "scriptId":"u863"},
-    "f2e82f02960641a7bfd910ffbb6d9e27":{
+    "5694fa1de429402ebaa00d5d5495043e":{
       "scriptId":"u864"},
-    "10ddae6773374b8a8b98478da38b2f71":{
+    "0dd88a0390334a8f9f63ae81caa6be7c":{
       "scriptId":"u865"},
-    "20ae15b6b9f142a58226fb182dda88f2":{
+    "a6cd45a5b6c44b9981407150c2006a07":{
       "scriptId":"u866"},
-    "f92c28834506459d8fe8fb70b3d2bb19":{
+    "f0f46f56a66a4bc396a881926e3b689a":{
       "scriptId":"u867"},
-    "e067de0f31984c5a8649e9d9ab005a33":{
+    "f4706d38fb914868b334f39be07b9f99":{
       "scriptId":"u868"},
-    "b54d30f54f694af0bb176e527ce6727e":{
+    "5c373470c17b4f88abb55f9139f9ce94":{
       "scriptId":"u869"},
-    "53ce0f2c84fc4adab9306fc3cb5bb3b2":{
+    "87b6e8f538a34719ac9ff8670a938818":{
       "scriptId":"u870"},
-    "0af5007df6734813a703d08128bcc172":{
+    "81d010c0d4b94fbfa9a92d9150a256be":{
       "scriptId":"u871"},
-    "174a5e75ce794c26903845a6c9403d49":{
+    "e03368ac445d4d8aaebfc5652e170b10":{
       "scriptId":"u872"},
-    "a29b3626712e4b1494d3a4a7e25afca4":{
+    "9863acf3e2ce461d8372b57269dfb0ae":{
       "scriptId":"u873"},
-    "6e59c08796de4d62a4d11ee62d2aa016":{
+    "3de558adbe0c45c2996b71c4b73fd4ea":{
       "scriptId":"u874"},
-    "56aa923106e24494ab26b67a42c34fba":{
+    "8ffb2600dff0492da0f9a16136177523":{
       "scriptId":"u875"},
-    "d8ee361bfba54617aaa16c2effdc7bae":{
+    "34f2c658991146a39aa673b63c09d41c":{
       "scriptId":"u876"},
-    "977007c5735e4180bcce3dc3fa085662":{
+    "498ebbfdd14d4181bb3fb44fb747f19d":{
       "scriptId":"u877"},
-    "0fdbaf285f2e43c59094791372199209":{
+    "0de237a625334df9a542fa8201e1ec09":{
       "scriptId":"u878"},
-    "44140c6dfbe5460693bc6c5b1001f544":{
+    "0e7624ef1afb40439b371e03271a1765":{
       "scriptId":"u879"},
-    "54a8d7aff8eb4c448b2978e8a5ec256e":{
+    "a94fe0967c9c4f2f9466607180a5d153":{
       "scriptId":"u880"},
-    "052d686c55824a44a8d0ed62e542c669":{
+    "c6395662f2b140f7963ff7adbffac5c1":{
       "scriptId":"u881"},
-    "05ea9068650c40fdb64c202e7531c699":{
+    "ad92480d33b14888aa66f68a360bb30b":{
       "scriptId":"u882"},
-    "42a53f73299a4c72aa87ee3e5cbab21e":{
+    "50a091ca520b415188f3a8a117177025":{
       "scriptId":"u883"},
-    "2d80855b7c2e4519a6bfa1570f66c7ba":{
+    "f94bf9c0935242d6be8bd09da6a169f8":{
       "scriptId":"u884"},
-    "3cc14a7fa0b4417189ec5d16eb423a68":{
+    "2cb99eff5f984eb68851e1e5898f72a9":{
       "scriptId":"u885"},
-    "3dc525345aec4df8a9063a17473ea08b":{
+    "2d12d09ee9c6461e8df758d747b5cea5":{
       "scriptId":"u886"},
-    "8f9f00ca35da4e9aa72f0a27fe2d0f03":{
+    "a5d6b151b52740db80161ef2ae27a70c":{
       "scriptId":"u887"},
-    "1392a351ef494b58ae6654bc0e130af5":{
+    "2ea2896cb01149e19146b59c81d7a758":{
       "scriptId":"u888"},
-    "7cbaf7ffa203462b974b16d6d14c425f":{
+    "ad10fe070ed7414abc6533f5db7dc72b":{
       "scriptId":"u889"},
-    "f026d5fdee36469b850185dd0ac2ad78":{
+    "c748c6e670934cf7ac36a3eba9e9d4be":{
       "scriptId":"u890"},
-    "4c471ea10f0740fe8794ac3944c55e00":{
+    "11748f05d9274396ac1db265f888e5c3":{
       "scriptId":"u891"},
-    "a99ff4ca35c048af94c6c53c6255c938":{
+    "d2c722f377d84f2b88e658b6d9ea4b4d":{
       "scriptId":"u892"},
-    "b7f54926827f4e81852751588e04cd64":{
+    "54e542423e3343febd40501712b6e3dc":{
       "scriptId":"u893"},
-    "d595ae72f11c4ba0b2b41c3fa8f1b88f":{
+    "405784532fae42509689dfeaa151f10f":{
       "scriptId":"u894"},
-    "10053d6a22454d589b944b8b3b94c56b":{
+    "be9d127d53734916a670c4160d141a65":{
       "scriptId":"u895"},
-    "56822a4a01674049bc92125e85ce4b5b":{
+    "921fba2e7ab04d6c8c6d31fd91137115":{
       "scriptId":"u896"},
-    "012e50f3a5034868a6f344766ad50261":{
+    "9d00340b02df4e1cbb2f1398039417a4":{
       "scriptId":"u897"},
-    "73a3a61e3cd14495a49085dffe463a6f":{
+    "75797df317fb45778576cf60a4d3efae":{
       "scriptId":"u898"},
-    "6dfcfd5421474add872eb86d7ef4cd84":{
-      "scriptId":"u899"},
-    "c92e6e4f27444ed4a3ed1fcb7ba15a2c":{
-      "scriptId":"u900"},
-    "cd58b67b2cfd45efa0a0d404201a62aa":{
-      "scriptId":"u901"},
-    "b42169f183e24f4cbe8ca7defd5e7f2e":{
-      "scriptId":"u902"},
-    "ae0c8637133b4324bd890610cca364da":{
-      "scriptId":"u903"},
-    "91c82e91d9f14218967310136079bf07":{
-      "scriptId":"u904"},
-    "73a01e4d3d8c48c699e9c81b265e47a8":{
-      "scriptId":"u905"},
-    "1dd124ae866d4ae1b8bcdf82170fdc73":{
-      "scriptId":"u906"},
-    "0908b4ed0ce84e76930449aaab248f81":{
-      "scriptId":"u907"},
-    "58962f20da564b9b8acda2c8593016a8":{
-      "scriptId":"u908"},
-    "4f21a50f854149b9a135e1063c05b215":{
-      "scriptId":"u909"},
-    "0329a92643c44ffeb8aeb8826183bb1c":{
-      "scriptId":"u910"},
-    "8c29dcaaf5d24afeae93bd5dc0a4c843":{
-      "scriptId":"u911"},
-    "de59b5380e4c44d2ae2c6493dfad168c":{
-      "scriptId":"u912"},
-    "6a9450fd3a134a5491f7f22b601542c6":{
-      "scriptId":"u913"},
-    "911b19e335974a2f8472edf044046a7d":{
-      "scriptId":"u914"},
-    "b3afd04e37ab42d5abff7657a380422c":{
-      "scriptId":"u915"},
-    "3ce3ec97067448b9b840cf07f24da4b3":{
-      "scriptId":"u916"},
-    "13a9e1b8cae3496bb831ab7c801497cc":{
-      "scriptId":"u917"},
-    "eb39ec21a2b64fed94bc0afd7d0265a7":{
-      "scriptId":"u918"},
-    "4c8ec8748d34491183347d8e5c382e7f":{
-      "scriptId":"u919"},
-    "dd83825203db41308b18ae5eb3ee803a":{
-      "scriptId":"u920"},
-    "145aacfc0ec2461f98fb357230033a80":{
-      "scriptId":"u921"},
-    "c89f1ea1a2244a8f939312d759273cfc":{
-      "scriptId":"u922"},
-    "aa89be45776f41b792c8b622fa094cc1":{
-      "scriptId":"u923"},
-    "3ff89631dd49460eb5ad6b2facb1117d":{
-      "scriptId":"u924"},
     "5020502a116746448ca03bc12f588ecf":{
-      "scriptId":"u925"},
+      "scriptId":"u899"},
     "5fc82f39bcf340d3b9e1773b4c692aad":{
-      "scriptId":"u926"},
+      "scriptId":"u900"},
+    "addff3d5e0ee408dbae9cce99ba6ccfd":{
+      "scriptId":"u901"},
+    "a08e38ac6fd74bb7b7fc30d6922abaf8":{
+      "scriptId":"u902"},
+    "7b5ca275c68c484dbca814d898a52944":{
+      "scriptId":"u903"},
+    "e3d77c485c414d6a9583d32ec0778b3b":{
+      "scriptId":"u904"},
+    "2e8074aea7e14cb2918cc39513d6cba2":{
+      "scriptId":"u905"},
+    "959450b3ae4840b7a8e98cbf6fc33733":{
+      "scriptId":"u906"},
     "503f587e6988427d9092355c30e3b3f0":{
-      "scriptId":"u927"},
+      "scriptId":"u907"},
     "0f59f2e351554924acc4950f8f7eafc7":{
-      "scriptId":"u928"}}});
+      "scriptId":"u908"}}});
