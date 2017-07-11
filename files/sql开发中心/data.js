@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499740636813.53),
+  "generationDate":new Date(1499743432195.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -23833,7 +23833,7 @@
                             "baseStyle":"79949d1235b443708a9d045670d9cb8c",
                             "location":{
                               "x":17,
-                              "y":260},
+                              "y":280},
                             "size":{
                               "width":633,
                               "height":40}},
@@ -23856,7 +23856,7 @@
                                 "baseStyle":"79949d1235b443708a9d045670d9cb8c",
                                 "location":{
                                   "x":17,
-                                  "y":260},
+                                  "y":280},
                                 "size":{
                                   "width":633,
                                   "height":40}},
@@ -23877,8 +23877,8 @@
                               "color":0xFF0099FF,
                               "opacity":1},
                             "location":{
-                              "x":300,
-                              "y":272},
+                              "x":290,
+                              "y":292},
                             "size":{
                               "width":110,
                               "height":16}},
@@ -23898,8 +23898,8 @@
                                   "color":0xFF0099FF,
                                   "opacity":1},
                                 "location":{
-                                  "x":300,
-                                  "y":272},
+                                  "x":290,
+                                  "y":292},
                                 "size":{
                                   "width":110,
                                   "height":16}},
