@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499909548444.84),
+  "generationDate":new Date(1499912234142.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
@@ -23701,7 +23701,7 @@
                                   "style":{
                                     "foreGroundFill":{
                                       "fillType":"solid",
-                                      "color":0xFF0099FF,
+                                      "color":0xFF0033FF,
                                       "opacity":1},
                                     "location":{
                                       "x":290,
@@ -23722,7 +23722,7 @@
                                       "style":{
                                         "foreGroundFill":{
                                           "fillType":"solid",
-                                          "color":0xFF0099FF,
+                                          "color":0xFF0033FF,
                                           "opacity":1},
                                         "location":{
                                           "x":290,
@@ -24053,6 +24053,7 @@
                                   "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
+                                  "disabled":true,
                                   "visible":true,
                                   "style":{
                                     "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
@@ -24084,6 +24085,7 @@
                                       "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
+                                      "disabled":true,
                                       "visible":true,
                                       "style":{
                                         "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
@@ -26241,6 +26243,7 @@
                                   "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
+                                  "disabled":true,
                                   "visible":true,
                                   "style":{
                                     "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
@@ -26272,6 +26275,7 @@
                                       "parentDynamicPanel":"bdd9bda47ff6481c9be41fa21803fe7a",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
+                                      "disabled":true,
                                       "visible":true,
                                       "style":{
                                         "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
@@ -28839,8 +28843,13 @@
                                   "parentDynamicPanel":"ee9b71a71df544f68f822cf2cd2f5303",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
+                                  "disabled":true,
                                   "visible":true,
                                   "style":{
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFF1E1E1E,
+                                      "opacity":1},
                                     "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
                                     "stateStyles":{
                                       "mouseOver":{
@@ -28870,8 +28879,13 @@
                                       "parentDynamicPanel":"ee9b71a71df544f68f822cf2cd2f5303",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
+                                      "disabled":true,
                                       "visible":true,
                                       "style":{
+                                        "foreGroundFill":{
+                                          "fillType":"solid",
+                                          "color":0xFF1E1E1E,
+                                          "opacity":1},
                                         "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
                                         "stateStyles":{
                                           "mouseOver":{
@@ -31027,6 +31041,7 @@
                                   "parentDynamicPanel":"ee9b71a71df544f68f822cf2cd2f5303",
                                   "type":"buttonShape",
                                   "styleType":"buttonShape",
+                                  "disabled":true,
                                   "visible":true,
                                   "style":{
                                     "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
@@ -31058,6 +31073,7 @@
                                       "parentDynamicPanel":"ee9b71a71df544f68f822cf2cd2f5303",
                                       "type":"richTextPanel",
                                       "styleType":"paragraph",
+                                      "disabled":true,
                                       "visible":true,
                                       "style":{
                                         "baseStyle":"4cffa5c31cf249cf92b2f933adaba86a",
@@ -32807,7 +32823,7 @@
                                       "disabled":{
                                         "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                     "location":{
-                                      "x":110,
+                                      "x":90,
                                       "y":10},
                                     "size":{
                                       "width":440,
@@ -32838,7 +32854,7 @@
                                           "disabled":{
                                             "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                         "location":{
-                                          "x":110,
+                                          "x":90,
                                           "y":10},
                                         "size":{
                                           "width":440,
@@ -32926,10 +32942,10 @@
                                       "fillType":"solid",
                                       "color":0xFFFFFF},
                                     "location":{
-                                      "x":120,
+                                      "x":100,
                                       "y":10},
                                     "size":{
-                                      "width":290,
+                                      "width":310,
                                       "height":32}},
                                   "adaptiveStyles":{
 },
@@ -33111,7 +33127,7 @@
                                       "disabled":{
                                         "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                     "location":{
-                                      "x":110,
+                                      "x":90,
                                       "y":70},
                                     "size":{
                                       "width":440,
@@ -33142,7 +33158,7 @@
                                           "disabled":{
                                             "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                         "location":{
-                                          "x":110,
+                                          "x":90,
                                           "y":70},
                                         "size":{
                                           "width":440,
@@ -33230,10 +33246,10 @@
                                       "fillType":"solid",
                                       "color":0xFFFFFF},
                                     "location":{
-                                      "x":120,
+                                      "x":100,
                                       "y":70},
                                     "size":{
-                                      "width":290,
+                                      "width":310,
                                       "height":32}},
                                   "adaptiveStyles":{
 },
@@ -33415,7 +33431,7 @@
                                       "disabled":{
                                         "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                     "location":{
-                                      "x":110,
+                                      "x":90,
                                       "y":128},
                                     "size":{
                                       "width":440,
@@ -33446,7 +33462,7 @@
                                           "disabled":{
                                             "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                         "location":{
-                                          "x":110,
+                                          "x":90,
                                           "y":128},
                                         "size":{
                                           "width":440,
@@ -33534,10 +33550,10 @@
                                       "fillType":"solid",
                                       "color":0xFFFFFF},
                                     "location":{
-                                      "x":120,
+                                      "x":100,
                                       "y":128},
                                     "size":{
-                                      "width":290,
+                                      "width":310,
                                       "height":32}},
                                   "adaptiveStyles":{
 },
@@ -33719,7 +33735,7 @@
                                       "disabled":{
                                         "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                     "location":{
-                                      "x":110,
+                                      "x":90,
                                       "y":180},
                                     "size":{
                                       "width":440,
@@ -33750,7 +33766,7 @@
                                           "disabled":{
                                             "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                         "location":{
-                                          "x":110,
+                                          "x":90,
                                           "y":180},
                                         "size":{
                                           "width":440,
@@ -33838,10 +33854,10 @@
                                       "fillType":"solid",
                                       "color":0xFFFFFF},
                                     "location":{
-                                      "x":120,
+                                      "x":100,
                                       "y":180},
                                     "size":{
-                                      "width":290,
+                                      "width":310,
                                       "height":32}},
                                   "adaptiveStyles":{
 },
@@ -34023,7 +34039,7 @@
                                       "disabled":{
                                         "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                     "location":{
-                                      "x":110,
+                                      "x":90,
                                       "y":238},
                                     "size":{
                                       "width":440,
@@ -34054,7 +34070,7 @@
                                           "disabled":{
                                             "baseStyle":"2360167ed08d43e2a5c089bd7e3be9a9"}},
                                         "location":{
-                                          "x":110,
+                                          "x":90,
                                           "y":238},
                                         "size":{
                                           "width":440,
@@ -34142,10 +34158,10 @@
                                       "fillType":"solid",
                                       "color":0xFFFFFF},
                                     "location":{
-                                      "x":120,
+                                      "x":100,
                                       "y":238},
                                     "size":{
-                                      "width":290,
+                                      "width":310,
                                       "height":32}},
                                   "adaptiveStyles":{
 },
