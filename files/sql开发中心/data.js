@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"sql开发中心.html",
-  "generationDate":new Date(1499909152277.77),
+  "generationDate":new Date(1499909548444.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "abc"],
